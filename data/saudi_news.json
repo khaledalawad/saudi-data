@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T20:40:12+03:00",
-  "count": 84,
+  "updated": "2026-11-10T23:33:17+03:00",
+  "count": 82,
   "by_symbol": {
     "4071": [
       {
@@ -14,22 +14,6 @@
         "s": "العربية",
         "d": "Tue, 10 Nov 2026 07:14:00 GMT",
         "symbols": [
-          "4071",
-          "1080"
-        ]
-      },
-      {
-        "title": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
-        "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
-        "published": "Tue, 10 Nov 2026 11:36:00 GMT",
-        "summary": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر&nbsp;&nbsp;العربية",
-        "source": "العربية",
-        "t": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
-        "u": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
-        "s": "العربية",
-        "d": "Tue, 10 Nov 2026 11:36:00 GMT",
-        "symbols": [
-          "2222",
           "4071",
           "1080"
         ]
@@ -60,6 +44,22 @@
         "s": "العربية",
         "d": "Sun, 08 Nov 2026 08:11:00 GMT",
         "symbols": [
+          "4071",
+          "1080"
+        ]
+      },
+      {
+        "title": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
+        "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
+        "published": "Tue, 10 Nov 2026 11:36:00 GMT",
+        "summary": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر&nbsp;&nbsp;العربية",
+        "source": "العربية",
+        "t": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
+        "u": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
+        "s": "العربية",
+        "d": "Tue, 10 Nov 2026 11:36:00 GMT",
+        "symbols": [
+          "2222",
           "4071",
           "1080"
         ]
@@ -295,22 +295,6 @@
         ]
       },
       {
-        "title": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
-        "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
-        "published": "Tue, 10 Nov 2026 11:36:00 GMT",
-        "summary": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر&nbsp;&nbsp;العربية",
-        "source": "العربية",
-        "t": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
-        "u": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
-        "s": "العربية",
-        "d": "Tue, 10 Nov 2026 11:36:00 GMT",
-        "symbols": [
-          "2222",
-          "4071",
-          "1080"
-        ]
-      },
-      {
         "title": "مؤشر السوق السعودي يغلق فوق مستوى 10 آلاف نقطة للجلسة الرابعة على التوالي - العربية",
         "link": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxOZmFwa1hkSlA2aEt5eEJDck9rN3pxTXIzYmV1OWhrLXJrNGVGb2tVS3oxMThPVVRzZDZnbWpJZzVFcDJ0WGE0NUVfY1dkUGtKWDFlUWtCYXJ5eC16VW5UOERYeWhTaGtybFliYnFUUXhvV2tVeGdnck1IZUpNbjIyUUNWWVpjTzdyU2owYUdYcHVsbjFtRFRfa2FYcWszcjlXeUtmaWJQc0xIRGRhNFVQOFZudXBpaWNsbS1qcTIyTkFlU2ZUWHRMNXpsUmNaLU1OLU53VHRDbjBqTGNmV1Noem5DbVVEenVhRFZ1NWRQNk1XUjdtLUJBdmpCRnhURmZIamlJMHRqMEFqYThoQ0VybW5PNUF3M0ZuNFNNbVBsMXRBTHlzNkdkc09pdjdVU0MzN3JXZG1XSmtKdEw4bWMtd1Fjek95MkZRcFJuT2M1d01Rc21hak9rMmQxU2VtU3hqX0dDSGt6RXNyUC1LWlZOaUZtbl9DVk5NZVhhVm1lT3J1aUR3OHdlOXpMRldIcHVfTUhlcy1GSE9zQWFLNnpkdzBIV0tGa0JzdGRUa1d3cFFBeDlMOUlXQWdJR3JUOVFxTEpIc2J2UTQwbHNpaDRyeHFHWm1xc291VVR0ck80YUFaT2V4cnIxclNVd094Wm5fUFhHeEcwRWthUl9zeW9FVUNKcVdMNEl4c0t5TTlRX0haMWlaYjdYX2J6VDgzc0xCTVc3bDRjM0tqMlR3NGNNY1dnVnI3WUJ2TlpHRTh6dXVrakVQSGp5MVRoQS1BQUltaU81SEhPWlBlUdIB3wRBVV95cUxNc3lTd0w4VmtTeVQ1S19wSHlJREJxVmhSek90NlYwOUdxdEVBTlpoMjFJSF8tWEV6ZjVhMWJvVVBYOGNFcVZKTlZOcHhEMjN4ZEpXTm82N2NMZzJCeW9VZlQ1bDJaUC1zc3Myd1N1MlVrdXlsQVVvdElxNDVNQ3lHYlFVb2Q5SW5lZ2Vnbm1leXZsbE1fcTRlVlhFS21rMUVicEtoZzlNbVVLQ1NuVTNma2FubmVNdThERk9nUDcwcTVDMkxzc2VESDN6UGZKX3NqMVVpUFRXQXhqbC1MZXVtZEFyeEVPUmRwRzlQWDNiR05JOGhBVktxb2ZIaV9UTVhrM0lkcE5iV1FIY25rS2ViMkJLRERaNVpSaFN1SGRITDRKS1FXamlDMDFZc2JEd0dXNkpjNC1MOGlwWkhOVUR4SmtmVWZkZkpKRXRURFhtdWNLSkZkeVNWU0F2eTNid0tJVmJ1dHpOSU9LRmNhdUVzLVV2NUlYMmVEeEZoLTRCcm13cVJ6eHE3RFpMeGYxY2dQOTZ6cFFscld5aF9lbDl3bUNTSW9QR3BsTmxiSnp2cWlBS0VSNjNGOWdhSE9xNVFzS3RXUXY4WHZLVi1nSFE3WlBxR2dhUVRsblVhSmRlVENnV1dYN21GczZkY0VXak85U1djRE9EdUFmRFJPVlQ1SnA5UUZvX3Z1QkktVmpJMWhHcExBWEZBYm5zVWdibDhkM2xaWkdCeXlwTm5nZm1qa2E0aTYzaVRROVNyaEVPaC1PbnlQaGR0OC1KRk8wWlV5WG1mNWJORWJUTkQxOGRN?oc=5",
         "published": "Mon, 09 Nov 2026 12:06:00 GMT",
@@ -336,6 +320,22 @@
         "s": "العربية",
         "d": "Sun, 08 Nov 2026 08:11:00 GMT",
         "symbols": [
+          "4071",
+          "1080"
+        ]
+      },
+      {
+        "title": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
+        "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
+        "published": "Tue, 10 Nov 2026 11:36:00 GMT",
+        "summary": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر&nbsp;&nbsp;العربية",
+        "source": "العربية",
+        "t": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
+        "u": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
+        "s": "العربية",
+        "d": "Tue, 10 Nov 2026 11:36:00 GMT",
+        "symbols": [
+          "2222",
           "4071",
           "1080"
         ]
@@ -878,22 +878,6 @@
         ]
       }
     ],
-    "6014": [
-      {
-        "title": "إدراج وبدء تداول أسهم شركة \"الآمار الغذائية\" في السوق السعودي الثلاثاء المقبل - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IM3M0VC0yUThQSDRZUnlxQ3Z2QlFCck5qRGM4ZUpXTXZVc0h0anI0bExwUVFnTmpnOTVwczZlVXhaWkVMRmVkMVlXTEdvM2tYSFhsWEp5ck9DN3F3czhjYjd5QUFCcTdwYkE?oc=5",
-        "published": "Sun, 07 Aug 2022 07:00:00 GMT",
-        "summary": "إدراج وبدء تداول أسهم شركة \"الآمار الغذائية\" في السوق السعودي الثلاثاء المقبل&nbsp;&nbsp;ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "t": "إدراج وبدء تداول أسهم شركة \"الآمار الغذائية\" في السوق السعودي الثلاثاء المقبل - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IM3M0VC0yUThQSDRZUnlxQ3Z2QlFCck5qRGM4ZUpXTXZVc0h0anI0bExwUVFnTmpnOTVwczZlVXhaWkVMRmVkMVlXTEdvM2tYSFhsWEp5ck9DN3F3czhjYjd5QUFCcTdwYkE?oc=5",
-        "s": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "d": "Sun, 07 Aug 2022 07:00:00 GMT",
-        "symbols": [
-          "6014"
-        ]
-      }
-    ],
     "1111": [
       {
         "title": "بدء اكتتاب الأفراد في 10.8 مليون سهم من أسهم \"مجموعة تداول السعودية\".. كثامن اكتتاب في السوق السعودي خلال عام 2021 - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
@@ -1011,15 +995,15 @@
       "symbols": []
     },
     {
-      "title": "مؤشر سوق الأسهم السعودية يغلق مرتفعًا عند مستوى 10168 نقطة - جريدة المدينة",
-      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOdVdveExIRC0yb2lHN0JtRUdabXN0ejVadzllcDVtYkNXb3h5MFM2SlpGZjQ3RGVTdDhodnZrZG1BbE9NTng5eFZkNk02STBoUUdHQ2l1RGxLX1FacldVMFpLcTVBYUtnSy1yeThxalU0d0EwMXlIMENSUlZxSHJUbmtHV2U5VXVGek4yU2FjUjUxa2gyX1pMTldNa3NfWHZsSUhoSE5SQ3NLMEpTbF9RYlVYTzcwejVoYnlFMFkxVUpVU01TWGZFLWVoSlFCdnVYdWo0T3ZRRm5YV2hBSkZmTUIwMWRqc2ZGcDFnd0tXeDNsZE9vUnlTOFAwRHhyYm1INTV5WEF6a1lxeGVLYldqTDdmLVM4Z0NkQ2Z3OWlGaHRNckNJRFhqR0RvWFE0UDdSd3d4RHZKNFFjM3E5djRmMW5wb01pN0oyS0tubXQ4SkMxbWQ2R0ctWmx1WlI5RzM0NTFheWxtVjhobmp1bHJuOW50M1IwZVVmYl9jcEQ5MWNCZWcyRU5aTDhnajYweUZFUGZOV1ltRUtaNklTZlp0LTlHYVl4Wllmc2tJdzdMTUJrZUFEekRUaDE3dVU5RFh6d0QwSG9NdUo5WVA3bWo0bm93NTNHOGd6elRSUVhfVjFjWTItQzRLMl84Vm1nc1Vm0gFXQVVfeXFMTVd2blVKMUJxWm5FQ3BzZzdQd210VUZoUlBFQ2pYdEhLQU5wUVNGZGlrMTZfbG83YzRveXJXbktOc09rLTcyMnh2S2psWlhzdjZKeWJHc1Zj?oc=5",
-      "published": "Tue, 10 Nov 2026 14:12:00 GMT",
-      "summary": "مؤشر سوق الأسهم السعودية يغلق مرتفعًا عند مستوى 10168 نقطة&nbsp;&nbsp;جريدة المدينة",
-      "source": "جريدة المدينة",
-      "t": "مؤشر سوق الأسهم السعودية يغلق مرتفعًا عند مستوى 10168 نقطة - جريدة المدينة",
-      "u": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOdVdveExIRC0yb2lHN0JtRUdabXN0ejVadzllcDVtYkNXb3h5MFM2SlpGZjQ3RGVTdDhodnZrZG1BbE9NTng5eFZkNk02STBoUUdHQ2l1RGxLX1FacldVMFpLcTVBYUtnSy1yeThxalU0d0EwMXlIMENSUlZxSHJUbmtHV2U5VXVGek4yU2FjUjUxa2gyX1pMTldNa3NfWHZsSUhoSE5SQ3NLMEpTbF9RYlVYTzcwejVoYnlFMFkxVUpVU01TWGZFLWVoSlFCdnVYdWo0T3ZRRm5YV2hBSkZmTUIwMWRqc2ZGcDFnd0tXeDNsZE9vUnlTOFAwRHhyYm1INTV5WEF6a1lxeGVLYldqTDdmLVM4Z0NkQ2Z3OWlGaHRNckNJRFhqR0RvWFE0UDdSd3d4RHZKNFFjM3E5djRmMW5wb01pN0oyS0tubXQ4SkMxbWQ2R0ctWmx1WlI5RzM0NTFheWxtVjhobmp1bHJuOW50M1IwZVVmYl9jcEQ5MWNCZWcyRU5aTDhnajYweUZFUGZOV1ltRUtaNklTZlp0LTlHYVl4Wllmc2tJdzdMTUJrZUFEekRUaDE3dVU5RFh6d0QwSG9NdUo5WVA3bWo0bm93NTNHOGd6elRSUVhfVjFjWTItQzRLMl84Vm1nc1Vm0gFXQVVfeXFMTVd2blVKMUJxWm5FQ3BzZzdQd210VUZoUlBFQ2pYdEhLQU5wUVNGZGlrMTZfbG83YzRveXJXbktOc09rLTcyMnh2S2psWlhzdjZKeWJHc1Zj?oc=5",
-      "s": "جريدة المدينة",
-      "d": "Tue, 10 Nov 2026 14:12:00 GMT",
+      "title": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع - الشرق الأوسط",
+      "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNdFhWdkFOVlZqZjNzRDUxT2hFajFXa0RBWGVta3QtVHU4UndWdHV4LXB5czJYMnc2SFBnQ0ZHd29yMTctcGExS2hNenl6b3llQU1wVkEybTZEZTVVODJ1S2ZJbWJuX3dkc2pXNVJRQmN0cVNKckZHSHhEbnJmcTA3Y3dEZ2ZGRDk2cHE5U1VEMHk4S1ZMd1Vua2JRcVBlZ1dmOUYyMDRQclQ1d3cyS1BFU1pnX0dfZnFQWWtxWm11RjRNR2hQcVJpMDUyY1B6M3ZrbVM1WGY3TVlPZkRfMGlsU0tkYVFhYl9yMUFzTlhhdUlJeEZveEpJZkdYYlkzT3dSRTVVcTdRYzBOUGRXRmRBYUJOdGVmS1d4MWtJSHJMNmMzM0ZtalFRX081SjZZeXROS0dNY25EazBSU01QaFFoNDhYeUREUjhkNFVmNmhaWjM5ZXJ2dG1Cc19Fd0VfajFFSVUyZklBLVNQdXdIeHRnUTBLR3VhYTRmWThWVEdocm5vclFSWWE1NHh1QkhZSzI5b2VPRi1GOV9ZQWtOY2RTaDhNMlkzRGF0dDlvcENMdGZFODF6MUUyTnVPZkNKNGwzRW83eEhFZFJNUFB2aHZDTThn?oc=5",
+      "published": "Tue, 10 Nov 2026 13:23:00 GMT",
+      "summary": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع&nbsp;&nbsp;الشرق الأوسط",
+      "source": "الشرق الأوسط",
+      "t": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع - الشرق الأوسط",
+      "u": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNdFhWdkFOVlZqZjNzRDUxT2hFajFXa0RBWGVta3QtVHU4UndWdHV4LXB5czJYMnc2SFBnQ0ZHd29yMTctcGExS2hNenl6b3llQU1wVkEybTZEZTVVODJ1S2ZJbWJuX3dkc2pXNVJRQmN0cVNKckZHSHhEbnJmcTA3Y3dEZ2ZGRDk2cHE5U1VEMHk4S1ZMd1Vua2JRcVBlZ1dmOUYyMDRQclQ1d3cyS1BFU1pnX0dfZnFQWWtxWm11RjRNR2hQcVJpMDUyY1B6M3ZrbVM1WGY3TVlPZkRfMGlsU0tkYVFhYl9yMUFzTlhhdUlJeEZveEpJZkdYYlkzT3dSRTVVcTdRYzBOUGRXRmRBYUJOdGVmS1d4MWtJSHJMNmMzM0ZtalFRX081SjZZeXROS0dNY25EazBSU01QaFFoNDhYeUREUjhkNFVmNmhaWjM5ZXJ2dG1Cc19Fd0VfajFFSVUyZklBLVNQdXdIeHRnUTBLR3VhYTRmWThWVEdocm5vclFSWWE1NHh1QkhZSzI5b2VPRi1GOV9ZQWtOY2RTaDhNMlkzRGF0dDlvcENMdGZFODF6MUUyTnVPZkNKNGwzRW83eEhFZFJNUFB2aHZDTThn?oc=5",
+      "s": "الشرق الأوسط",
+      "d": "Tue, 10 Nov 2026 13:23:00 GMT",
       "symbols": []
     },
     {
@@ -1035,87 +1019,15 @@
       "symbols": []
     },
     {
-      "title": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع - الشرق الأوسط",
-      "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNdFhWdkFOVlZqZjNzRDUxT2hFajFXa0RBWGVta3QtVHU4UndWdHV4LXB5czJYMnc2SFBnQ0ZHd29yMTctcGExS2hNenl6b3llQU1wVkEybTZEZTVVODJ1S2ZJbWJuX3dkc2pXNVJRQmN0cVNKckZHSHhEbnJmcTA3Y3dEZ2ZGRDk2cHE5U1VEMHk4S1ZMd1Vua2JRcVBlZ1dmOUYyMDRQclQ1d3cyS1BFU1pnX0dfZnFQWWtxWm11RjRNR2hQcVJpMDUyY1B6M3ZrbVM1WGY3TVlPZkRfMGlsU0tkYVFhYl9yMUFzTlhhdUlJeEZveEpJZkdYYlkzT3dSRTVVcTdRYzBOUGRXRmRBYUJOdGVmS1d4MWtJSHJMNmMzM0ZtalFRX081SjZZeXROS0dNY25EazBSU01QaFFoNDhYeUREUjhkNFVmNmhaWjM5ZXJ2dG1Cc19Fd0VfajFFSVUyZklBLVNQdXdIeHRnUTBLR3VhYTRmWThWVEdocm5vclFSWWE1NHh1QkhZSzI5b2VPRi1GOV9ZQWtOY2RTaDhNMlkzRGF0dDlvcENMdGZFODF6MUUyTnVPZkNKNGwzRW83eEhFZFJNUFB2aHZDTThn?oc=5",
-      "published": "Tue, 10 Nov 2026 13:23:00 GMT",
-      "summary": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع&nbsp;&nbsp;الشرق الأوسط",
-      "source": "الشرق الأوسط",
-      "t": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع - الشرق الأوسط",
-      "u": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNdFhWdkFOVlZqZjNzRDUxT2hFajFXa0RBWGVta3QtVHU4UndWdHV4LXB5czJYMnc2SFBnQ0ZHd29yMTctcGExS2hNenl6b3llQU1wVkEybTZEZTVVODJ1S2ZJbWJuX3dkc2pXNVJRQmN0cVNKckZHSHhEbnJmcTA3Y3dEZ2ZGRDk2cHE5U1VEMHk4S1ZMd1Vua2JRcVBlZ1dmOUYyMDRQclQ1d3cyS1BFU1pnX0dfZnFQWWtxWm11RjRNR2hQcVJpMDUyY1B6M3ZrbVM1WGY3TVlPZkRfMGlsU0tkYVFhYl9yMUFzTlhhdUlJeEZveEpJZkdYYlkzT3dSRTVVcTdRYzBOUGRXRmRBYUJOdGVmS1d4MWtJSHJMNmMzM0ZtalFRX081SjZZeXROS0dNY25EazBSU01QaFFoNDhYeUREUjhkNFVmNmhaWjM5ZXJ2dG1Cc19Fd0VfajFFSVUyZklBLVNQdXdIeHRnUTBLR3VhYTRmWThWVEdocm5vclFSWWE1NHh1QkhZSzI5b2VPRi1GOV9ZQWtOY2RTaDhNMlkzRGF0dDlvcENMdGZFODF6MUUyTnVPZkNKNGwzRW83eEhFZFJNUFB2aHZDTThn?oc=5",
-      "s": "الشرق الأوسط",
-      "d": "Tue, 10 Nov 2026 13:23:00 GMT",
-      "symbols": []
-    },
-    {
-      "title": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال - صحيفة مال",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWo5Y1ZiNHBEVHBWRmdKZnRxRUFsS3EwdnFsaXVMNVYzWmN5a0N3TGZURkJBWGM5Zlo4V3p4NVJkc3lUWlkteFJxX3hNeW43aVZRd2ltM1F0RDdXX3hrcmlIdlVnbXJ3QllzT0FQN2UzakthaGF3WlBTRFJPdklwRDFVM3Ayc3hXZW1ibW5NWUo1OFZyN3MxOFNLNEVHRFpRbVFteHduaV9EdWVyWGpvSUdVdDhlUzg3UUpRTGxkT3RvM3BKVWozbXVFSks2ZTQ?oc=5",
-      "published": "Tue, 10 Nov 2026 12:38:49 GMT",
-      "summary": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال&nbsp;&nbsp;صحيفة مال",
-      "source": "صحيفة مال",
-      "t": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال - صحيفة مال",
-      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWo5Y1ZiNHBEVHBWRmdKZnRxRUFsS3EwdnFsaXVMNVYzWmN5a0N3TGZURkJBWGM5Zlo4V3p4NVJkc3lUWlkteFJxX3hNeW43aVZRd2ltM1F0RDdXX3hrcmlIdlVnbXJ3QllzT0FQN2UzakthaGF3WlBTRFJPdklwRDFVM3Ayc3hXZW1ibW5NWUo1OFZyN3MxOFNLNEVHRFpRbVFteHduaV9EdWVyWGpvSUdVdDhlUzg3UUpRTGxkT3RvM3BKVWozbXVFSks2ZTQ?oc=5",
-      "s": "صحيفة مال",
-      "d": "Tue, 10 Nov 2026 12:38:49 GMT",
-      "symbols": []
-    },
-    {
-      "title": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYXZQRUpLaF9iV0JEMmJIaW1vc2dqMFZiblJaZ0VMb0ZONE1sTWtFYUVnQmdTVzRiSUtDd0RKeFZmU1p3dWt3WGMxSWlhVTdoZEliUXcwcmphNzhlWmFQZElzY09JemRVVGowSFhENzE?oc=5",
-      "published": "Tue, 10 Nov 2026 12:45:00 GMT",
-      "summary": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61%&nbsp;&nbsp;Investing.com",
-      "source": "Investing.com",
-      "t": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61% - Investing.com",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYXZQRUpLaF9iV0JEMmJIaW1vc2dqMFZiblJaZ0VMb0ZONE1sTWtFYUVnQmdTVzRiSUtDd0RKeFZmU1p3dWt3WGMxSWlhVTdoZEliUXcwcmphNzhlWmFQZElzY09JemRVVGowSFhENzE?oc=5",
-      "s": "Investing.com",
-      "d": "Tue, 10 Nov 2026 12:45:00 GMT",
-      "symbols": []
-    },
-    {
-      "title": "السوق السعودي: أسهم 117 شركة شهدت تداولات أعلى من متوسط 3 أشهر - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZQ3pScVZKdjNxQUZLRnJUY0taWWIxUmdXSlZtc2JUb1dJUWYzYUJxWTBHMFl5bVdKaVdUcE1JVFJTX0YwMF8tNjJSbkhEOGhLYzRMdzhHNlR1NHlCbzJXcXR1cjhpN2JVNkE?oc=5",
-      "published": "Sun, 08 Nov 2026 20:15:22 GMT",
-      "summary": "السوق السعودي: أسهم 117 شركة شهدت تداولات أعلى من متوسط 3 أشهر&nbsp;&nbsp;ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "t": "السوق السعودي: أسهم 117 شركة شهدت تداولات أعلى من متوسط 3 أشهر - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZQ3pScVZKdjNxQUZLRnJUY0taWWIxUmdXSlZtc2JUb1dJUWYzYUJxWTBHMFl5bVdKaVdUcE1JVFJTX0YwMF8tNjJSbkhEOGhLYzRMdzhHNlR1NHlCbzJXcXR1cjhpN2JVNkE?oc=5",
-      "s": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-      "d": "Sun, 08 Nov 2026 20:15:22 GMT",
-      "symbols": []
-    },
-    {
-      "title": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل - صحيفة مال",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUFXNmlKT0l4b3dBX3pwYWxxbmozY1hrd2s1OXdKTnlsa0Q3QWtqY1B6YkZ6dHJyc3pPc2pVcE84SnB4VmZVM0cyQmVtU0hFT19pRWs0NXY4SS10Vzg0NUhpNVVZeWFxQ3B0dVFidXVfV1E0M0NzcTlwT0IzN0xWbTFaOEhXM3p6QnRKV1hMUHdvVmFMaXFLUmRjczRCM1pRanBIUXRhYVhrSTNxVjFHOEVldk4wbW9jcVBHN2xrQjhuREZISXNDckdHNWpPY3ZGSnZHLWxPci1zZ3luaGZJMURzOA?oc=5",
-      "published": "Tue, 10 Nov 2026 15:14:12 GMT",
-      "summary": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل&nbsp;&nbsp;صحيفة مال",
-      "source": "صحيفة مال",
-      "t": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل - صحيفة مال",
-      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUFXNmlKT0l4b3dBX3pwYWxxbmozY1hrd2s1OXdKTnlsa0Q3QWtqY1B6YkZ6dHJyc3pPc2pVcE84SnB4VmZVM0cyQmVtU0hFT19pRWs0NXY4SS10Vzg0NUhpNVVZeWFxQ3B0dVFidXVfV1E0M0NzcTlwT0IzN0xWbTFaOEhXM3p6QnRKV1hMUHdvVmFMaXFLUmRjczRCM1pRanBIUXRhYVhrSTNxVjFHOEVldk4wbW9jcVBHN2xrQjhuREZISXNDckdHNWpPY3ZGSnZHLWxPci1zZ3luaGZJMURzOA?oc=5",
-      "s": "صحيفة مال",
-      "d": "Tue, 10 Nov 2026 15:14:12 GMT",
-      "symbols": []
-    },
-    {
-      "title": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات - معلومات مباشر",
-      "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWW93MzVRcS1LVDlWa3R5SXlKclRCUmhVdmRmank3Z0RVVUJ5aVRwbVlBc283U3BDMG9kYUEtOS11ZjUxbUtiNURsRnZrTUJ3U09ZLTY4ZG1HaDJpQkFuTUw0VlZISGhjc0dYSk02N0FDeWl5Nkx4bXFOT29pQkw4MU5STHJwb3I1WE9EQjRDVzhhT3JYT2pxTEIwVzBhb1lQMmd4RkFtblFSaVQ0Qk96clNMcU9tcGdlc3RwS25TVkVxTmM0M2JmVzRXYU11ZVE2ejhMazlXNloxcE5BR2VrZ29nUFY2cll1QWlfVTZIMzVVNWhzREQwTjNaV1Axcy03d21rVEZRM2x1UGhxSHoySnRUanhFenNNQmtubklFdnNaTk9TTm9ITVRfQUtqeExVQ2xHVER1bTVyZkY4RndNblJtVWZxUjZidWdoa1I0X3FMMkhXeWxLRzJ0N2dBUXpkaVA2SXA3b29xMmdDUGZPRGpaOVppQ0FfdlhKYlpSMnk1eGVoLVRfZFVxSi1uczEwQ08wQlpweTZtenJMdmdobWhocXFxOTJoWU5jcEpzZEtDOW1RVXBlN2g0X1hWYXRHbDRnY1BvYW85LURpVHdKUlJ5NA?oc=5",
-      "published": "Tue, 10 Nov 2026 12:25:42 GMT",
-      "summary": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات&nbsp;&nbsp;معلومات مباشر",
-      "source": "معلومات مباشر",
-      "t": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات - معلومات مباشر",
-      "u": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWW93MzVRcS1LVDlWa3R5SXlKclRCUmhVdmRmank3Z0RVVUJ5aVRwbVlBc283U3BDMG9kYUEtOS11ZjUxbUtiNURsRnZrTUJ3U09ZLTY4ZG1HaDJpQkFuTUw0VlZISGhjc0dYSk02N0FDeWl5Nkx4bXFOT29pQkw4MU5STHJwb3I1WE9EQjRDVzhhT3JYT2pxTEIwVzBhb1lQMmd4RkFtblFSaVQ0Qk96clNMcU9tcGdlc3RwS25TVkVxTmM0M2JmVzRXYU11ZVE2ejhMazlXNloxcE5BR2VrZ29nUFY2cll1QWlfVTZIMzVVNWhzREQwTjNaV1Axcy03d21rVEZRM2x1UGhxSHoySnRUanhFenNNQmtubklFdnNaTk9TTm9ITVRfQUtqeExVQ2xHVER1bTVyZkY4RndNblJtVWZxUjZidWdoa1I0X3FMMkhXeWxLRzJ0N2dBUXpkaVA2SXA3b29xMmdDUGZPRGpaOVppQ0FfdlhKYlpSMnk1eGVoLVRfZFVxSi1uczEwQ08wQlpweTZtenJMdmdobWhocXFxOTJoWU5jcEpzZEtDOW1RVXBlN2g0X1hWYXRHbDRnY1BvYW85LURpVHdKUlJ5NA?oc=5",
-      "s": "معلومات مباشر",
-      "d": "Tue, 10 Nov 2026 12:25:42 GMT",
-      "symbols": []
-    },
-    {
-      "title": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026 - صحيفة مال",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWF0YnJOVUgzYWNiZFhhb2JtQkdmS29MMi1PaVVPNmplbkZBNGg2UlBPV1kyNHI5bVF1dmNkdWxkb0MwZngzOFpPYTlmdlNxa3k5bS1raEtrc1U3Uy1RNzYwVXJqNGdQUzBnRmZQMmxzUmI0ZUhMc3dLU2JXMWdCeFgxU2p1VHNtSGpxZWRvQXAyZXFkVmctdW4xSkJsMVR4cUZtU19pLW50S2tjT2l6cmc4blRVZl80a2VsNzY2UktCUEZHR29tNlExTzNMTmVjSENhekVtWEhMUjNzVTNLSUFmdGM?oc=5",
-      "published": "Tue, 10 Nov 2026 08:04:29 GMT",
-      "summary": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026&nbsp;&nbsp;صحيفة مال",
-      "source": "صحيفة مال",
-      "t": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026 - صحيفة مال",
-      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWF0YnJOVUgzYWNiZFhhb2JtQkdmS29MMi1PaVVPNmplbkZBNGg2UlBPV1kyNHI5bVF1dmNkdWxkb0MwZngzOFpPYTlmdlNxa3k5bS1raEtrc1U3Uy1RNzYwVXJqNGdQUzBnRmZQMmxzUmI0ZUhMc3dLU2JXMWdCeFgxU2p1VHNtSGpxZWRvQXAyZXFkVmctdW4xSkJsMVR4cUZtU19pLW50S2tjT2l6cmc4blRVZl80a2VsNzY2UktCUEZHR29tNlExTzNMTmVjSENhekVtWEhMUjNzVTNLSUFmdGM?oc=5",
-      "s": "صحيفة مال",
-      "d": "Tue, 10 Nov 2026 08:04:29 GMT",
+      "title": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال - أخبار 24",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdHTU1SUnlVVnp3VU9IWFBBUG5CczF3Ylg2T0ZpUFlmRUh5bEFVTXpMQmlyNk5DN0JZS1JITzFLalhsWGdYSWQ0QUo3WVkwbnVpQTBQYWlieVdhWjRkcnlvZ2NUQUtVMzl2MzRhcmtoWUo1UHFpOXBTSVJkelA2ajBJeG9saF9Eenc3S2NnbXJhMGxkelR2b1JZdU8tNG9fYVpoeEZQdUNRRVFPY2Y3SWloc0xIZXgwVjQ5ajBmWlA0NFhMcmVpNW9KWlRQSmNIYXp2WU9VbnotelZFYnB5MFNmYTJQSnVZZkFEbEFiTG92dVBjQVVtNUhwX2JJajNNQjZwLVRzQnRVNWpwb2NreWhjODk2YUNsV0hpS1JoSWRfQ05tdzhaZnk3eEpLdDBkTGN3QnA3VEIxcklwT0xJRkxjSG9uTXZsWFl1bDlmV1dJY2p4OVNHb0V1NGJVejBERnBVamdyUEJzNW5jMU1vb2VXbVRteWdUV1JCYnZ5bEVCeU1IRldFOE1TVXQ0WlJnMUFPRGVqRzRLOExEV1d1SmpXZVlCVUF3a1BrV041YTZobk9BWVE?oc=5",
+      "published": "Tue, 10 Nov 2026 14:07:19 GMT",
+      "summary": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال&nbsp;&nbsp;أخبار 24",
+      "source": "أخبار 24",
+      "t": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال - أخبار 24",
+      "u": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdHTU1SUnlVVnp3VU9IWFBBUG5CczF3Ylg2T0ZpUFlmRUh5bEFVTXpMQmlyNk5DN0JZS1JITzFLalhsWGdYSWQ0QUo3WVkwbnVpQTBQYWlieVdhWjRkcnlvZ2NUQUtVMzl2MzRhcmtoWUo1UHFpOXBTSVJkelA2ajBJeG9saF9Eenc3S2NnbXJhMGxkelR2b1JZdU8tNG9fYVpoeEZQdUNRRVFPY2Y3SWloc0xIZXgwVjQ5ajBmWlA0NFhMcmVpNW9KWlRQSmNIYXp2WU9VbnotelZFYnB5MFNmYTJQSnVZZkFEbEFiTG92dVBjQVVtNUhwX2JJajNNQjZwLVRzQnRVNWpwb2NreWhjODk2YUNsV0hpS1JoSWRfQ05tdzhaZnk3eEpLdDBkTGN3QnA3VEIxcklwT0xJRkxjSG9uTXZsWFl1bDlmV1dJY2p4OVNHb0V1NGJVejBERnBVamdyUEJzNW5jMU1vb2VXbVRteWdUV1JCYnZ5bEVCeU1IRldFOE1TVXQ0WlJnMUFPRGVqRzRLOExEV1d1SmpXZVlCVUF3a1BrV041YTZobk9BWVE?oc=5",
+      "s": "أخبار 24",
+      "d": "Tue, 10 Nov 2026 14:07:19 GMT",
       "symbols": []
     },
     {
@@ -1131,27 +1043,15 @@
       "symbols": []
     },
     {
-      "title": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية - صحيفة مال",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUs3SjY2Qjk4d3VfMW9jQkpTXzJWdzBvTDVmZkNCNGRULWxxcTlFZEFZbURnVDk3MEZ2SEhrWU8zbldzSVpTREVSSHZLSkZETE1GdGpKc0FvUGpvZVRiSjhycGlUWnlxUmdWcm5RcjFhY2VjM0VzS2NXQkRUdndLbDBFNVpRMEV2cWpHS25vTWl2QUloakRmTnBQVng2MUE0SXN4NGF1aGJzS2IwN1dLcVJVOVVDU282WVc5NUdGemszbnJEamRvTVR3elhPZ2JvY1hLeEl6TWRKeWVPdElRVnJ5RQ?oc=5",
-      "published": "Tue, 10 Nov 2026 16:41:40 GMT",
-      "summary": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية&nbsp;&nbsp;صحيفة مال",
-      "source": "صحيفة مال",
-      "t": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية - صحيفة مال",
-      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUs3SjY2Qjk4d3VfMW9jQkpTXzJWdzBvTDVmZkNCNGRULWxxcTlFZEFZbURnVDk3MEZ2SEhrWU8zbldzSVpTREVSSHZLSkZETE1GdGpKc0FvUGpvZVRiSjhycGlUWnlxUmdWcm5RcjFhY2VjM0VzS2NXQkRUdndLbDBFNVpRMEV2cWpHS25vTWl2QUloakRmTnBQVng2MUE0SXN4NGF1aGJzS2IwN1dLcVJVOVVDU282WVc5NUdGemszbnJEamRvTVR3elhPZ2JvY1hLeEl6TWRKeWVPdElRVnJ5RQ?oc=5",
-      "s": "صحيفة مال",
-      "d": "Tue, 10 Nov 2026 16:41:40 GMT",
-      "symbols": []
-    },
-    {
-      "title": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال - أخبار 24",
-      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdHTU1SUnlVVnp3VU9IWFBBUG5CczF3Ylg2T0ZpUFlmRUh5bEFVTXpMQmlyNk5DN0JZS1JITzFLalhsWGdYSWQ0QUo3WVkwbnVpQTBQYWlieVdhWjRkcnlvZ2NUQUtVMzl2MzRhcmtoWUo1UHFpOXBTSVJkelA2ajBJeG9saF9Eenc3S2NnbXJhMGxkelR2b1JZdU8tNG9fYVpoeEZQdUNRRVFPY2Y3SWloc0xIZXgwVjQ5ajBmWlA0NFhMcmVpNW9KWlRQSmNIYXp2WU9VbnotelZFYnB5MFNmYTJQSnVZZkFEbEFiTG92dVBjQVVtNUhwX2JJajNNQjZwLVRzQnRVNWpwb2NreWhjODk2YUNsV0hpS1JoSWRfQ05tdzhaZnk3eEpLdDBkTGN3QnA3VEIxcklwT0xJRkxjSG9uTXZsWFl1bDlmV1dJY2p4OVNHb0V1NGJVejBERnBVamdyUEJzNW5jMU1vb2VXbVRteWdUV1JCYnZ5bEVCeU1IRldFOE1TVXQ0WlJnMUFPRGVqRzRLOExEV1d1SmpXZVlCVUF3a1BrV041YTZobk9BWVE?oc=5",
-      "published": "Tue, 10 Nov 2026 14:07:19 GMT",
-      "summary": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال&nbsp;&nbsp;أخبار 24",
-      "source": "أخبار 24",
-      "t": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال - أخبار 24",
-      "u": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdHTU1SUnlVVnp3VU9IWFBBUG5CczF3Ylg2T0ZpUFlmRUh5bEFVTXpMQmlyNk5DN0JZS1JITzFLalhsWGdYSWQ0QUo3WVkwbnVpQTBQYWlieVdhWjRkcnlvZ2NUQUtVMzl2MzRhcmtoWUo1UHFpOXBTSVJkelA2ajBJeG9saF9Eenc3S2NnbXJhMGxkelR2b1JZdU8tNG9fYVpoeEZQdUNRRVFPY2Y3SWloc0xIZXgwVjQ5ajBmWlA0NFhMcmVpNW9KWlRQSmNIYXp2WU9VbnotelZFYnB5MFNmYTJQSnVZZkFEbEFiTG92dVBjQVVtNUhwX2JJajNNQjZwLVRzQnRVNWpwb2NreWhjODk2YUNsV0hpS1JoSWRfQ05tdzhaZnk3eEpLdDBkTGN3QnA3VEIxcklwT0xJRkxjSG9uTXZsWFl1bDlmV1dJY2p4OVNHb0V1NGJVejBERnBVamdyUEJzNW5jMU1vb2VXbVRteWdUV1JCYnZ5bEVCeU1IRldFOE1TVXQ0WlJnMUFPRGVqRzRLOExEV1d1SmpXZVlCVUF3a1BrV041YTZobk9BWVE?oc=5",
-      "s": "أخبار 24",
-      "d": "Tue, 10 Nov 2026 14:07:19 GMT",
+      "title": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYXZQRUpLaF9iV0JEMmJIaW1vc2dqMFZiblJaZ0VMb0ZONE1sTWtFYUVnQmdTVzRiSUtDd0RKeFZmU1p3dWt3WGMxSWlhVTdoZEliUXcwcmphNzhlWmFQZElzY09JemRVVGowSFhENzE?oc=5",
+      "published": "Tue, 10 Nov 2026 12:45:00 GMT",
+      "summary": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61%&nbsp;&nbsp;Investing.com",
+      "source": "Investing.com",
+      "t": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61% - Investing.com",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYXZQRUpLaF9iV0JEMmJIaW1vc2dqMFZiblJaZ0VMb0ZONE1sTWtFYUVnQmdTVzRiSUtDd0RKeFZmU1p3dWt3WGMxSWlhVTdoZEliUXcwcmphNzhlWmFQZElzY09JemRVVGowSFhENzE?oc=5",
+      "s": "Investing.com",
+      "d": "Tue, 10 Nov 2026 12:45:00 GMT",
       "symbols": []
     },
     {
@@ -1167,6 +1067,66 @@
       "symbols": []
     },
     {
+      "title": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال - صحيفة مال",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWo5Y1ZiNHBEVHBWRmdKZnRxRUFsS3EwdnFsaXVMNVYzWmN5a0N3TGZURkJBWGM5Zlo4V3p4NVJkc3lUWlkteFJxX3hNeW43aVZRd2ltM1F0RDdXX3hrcmlIdlVnbXJ3QllzT0FQN2UzakthaGF3WlBTRFJPdklwRDFVM3Ayc3hXZW1ibW5NWUo1OFZyN3MxOFNLNEVHRFpRbVFteHduaV9EdWVyWGpvSUdVdDhlUzg3UUpRTGxkT3RvM3BKVWozbXVFSks2ZTQ?oc=5",
+      "published": "Tue, 10 Nov 2026 12:38:49 GMT",
+      "summary": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال&nbsp;&nbsp;صحيفة مال",
+      "source": "صحيفة مال",
+      "t": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال - صحيفة مال",
+      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWo5Y1ZiNHBEVHBWRmdKZnRxRUFsS3EwdnFsaXVMNVYzWmN5a0N3TGZURkJBWGM5Zlo4V3p4NVJkc3lUWlkteFJxX3hNeW43aVZRd2ltM1F0RDdXX3hrcmlIdlVnbXJ3QllzT0FQN2UzakthaGF3WlBTRFJPdklwRDFVM3Ayc3hXZW1ibW5NWUo1OFZyN3MxOFNLNEVHRFpRbVFteHduaV9EdWVyWGpvSUdVdDhlUzg3UUpRTGxkT3RvM3BKVWozbXVFSks2ZTQ?oc=5",
+      "s": "صحيفة مال",
+      "d": "Tue, 10 Nov 2026 12:38:49 GMT",
+      "symbols": []
+    },
+    {
+      "title": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026 - صحيفة مال",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWF0YnJOVUgzYWNiZFhhb2JtQkdmS29MMi1PaVVPNmplbkZBNGg2UlBPV1kyNHI5bVF1dmNkdWxkb0MwZngzOFpPYTlmdlNxa3k5bS1raEtrc1U3Uy1RNzYwVXJqNGdQUzBnRmZQMmxzUmI0ZUhMc3dLU2JXMWdCeFgxU2p1VHNtSGpxZWRvQXAyZXFkVmctdW4xSkJsMVR4cUZtU19pLW50S2tjT2l6cmc4blRVZl80a2VsNzY2UktCUEZHR29tNlExTzNMTmVjSENhekVtWEhMUjNzVTNLSUFmdGM?oc=5",
+      "published": "Tue, 10 Nov 2026 08:04:29 GMT",
+      "summary": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026&nbsp;&nbsp;صحيفة مال",
+      "source": "صحيفة مال",
+      "t": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026 - صحيفة مال",
+      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWF0YnJOVUgzYWNiZFhhb2JtQkdmS29MMi1PaVVPNmplbkZBNGg2UlBPV1kyNHI5bVF1dmNkdWxkb0MwZngzOFpPYTlmdlNxa3k5bS1raEtrc1U3Uy1RNzYwVXJqNGdQUzBnRmZQMmxzUmI0ZUhMc3dLU2JXMWdCeFgxU2p1VHNtSGpxZWRvQXAyZXFkVmctdW4xSkJsMVR4cUZtU19pLW50S2tjT2l6cmc4blRVZl80a2VsNzY2UktCUEZHR29tNlExTzNMTmVjSENhekVtWEhMUjNzVTNLSUFmdGM?oc=5",
+      "s": "صحيفة مال",
+      "d": "Tue, 10 Nov 2026 08:04:29 GMT",
+      "symbols": []
+    },
+    {
+      "title": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل - صحيفة مال",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUFXNmlKT0l4b3dBX3pwYWxxbmozY1hrd2s1OXdKTnlsa0Q3QWtqY1B6YkZ6dHJyc3pPc2pVcE84SnB4VmZVM0cyQmVtU0hFT19pRWs0NXY4SS10Vzg0NUhpNVVZeWFxQ3B0dVFidXVfV1E0M0NzcTlwT0IzN0xWbTFaOEhXM3p6QnRKV1hMUHdvVmFMaXFLUmRjczRCM1pRanBIUXRhYVhrSTNxVjFHOEVldk4wbW9jcVBHN2xrQjhuREZISXNDckdHNWpPY3ZGSnZHLWxPci1zZ3luaGZJMURzOA?oc=5",
+      "published": "Tue, 10 Nov 2026 15:14:12 GMT",
+      "summary": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل&nbsp;&nbsp;صحيفة مال",
+      "source": "صحيفة مال",
+      "t": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل - صحيفة مال",
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUFXNmlKT0l4b3dBX3pwYWxxbmozY1hrd2s1OXdKTnlsa0Q3QWtqY1B6YkZ6dHJyc3pPc2pVcE84SnB4VmZVM0cyQmVtU0hFT19pRWs0NXY4SS10Vzg0NUhpNVVZeWFxQ3B0dVFidXVfV1E0M0NzcTlwT0IzN0xWbTFaOEhXM3p6QnRKV1hMUHdvVmFMaXFLUmRjczRCM1pRanBIUXRhYVhrSTNxVjFHOEVldk4wbW9jcVBHN2xrQjhuREZISXNDckdHNWpPY3ZGSnZHLWxPci1zZ3luaGZJMURzOA?oc=5",
+      "s": "صحيفة مال",
+      "d": "Tue, 10 Nov 2026 15:14:12 GMT",
+      "symbols": []
+    },
+    {
+      "title": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية - صحيفة مال",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUs3SjY2Qjk4d3VfMW9jQkpTXzJWdzBvTDVmZkNCNGRULWxxcTlFZEFZbURnVDk3MEZ2SEhrWU8zbldzSVpTREVSSHZLSkZETE1GdGpKc0FvUGpvZVRiSjhycGlUWnlxUmdWcm5RcjFhY2VjM0VzS2NXQkRUdndLbDBFNVpRMEV2cWpHS25vTWl2QUloakRmTnBQVng2MUE0SXN4NGF1aGJzS2IwN1dLcVJVOVVDU282WVc5NUdGemszbnJEamRvTVR3elhPZ2JvY1hLeEl6TWRKeWVPdElRVnJ5RQ?oc=5",
+      "published": "Tue, 10 Nov 2026 16:41:40 GMT",
+      "summary": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية&nbsp;&nbsp;صحيفة مال",
+      "source": "صحيفة مال",
+      "t": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية - صحيفة مال",
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUs3SjY2Qjk4d3VfMW9jQkpTXzJWdzBvTDVmZkNCNGRULWxxcTlFZEFZbURnVDk3MEZ2SEhrWU8zbldzSVpTREVSSHZLSkZETE1GdGpKc0FvUGpvZVRiSjhycGlUWnlxUmdWcm5RcjFhY2VjM0VzS2NXQkRUdndLbDBFNVpRMEV2cWpHS25vTWl2QUloakRmTnBQVng2MUE0SXN4NGF1aGJzS2IwN1dLcVJVOVVDU282WVc5NUdGemszbnJEamRvTVR3elhPZ2JvY1hLeEl6TWRKeWVPdElRVnJ5RQ?oc=5",
+      "s": "صحيفة مال",
+      "d": "Tue, 10 Nov 2026 16:41:40 GMT",
+      "symbols": []
+    },
+    {
+      "title": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات - معلومات مباشر",
+      "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWW93MzVRcS1LVDlWa3R5SXlKclRCUmhVdmRmank3Z0RVVUJ5aVRwbVlBc283U3BDMG9kYUEtOS11ZjUxbUtiNURsRnZrTUJ3U09ZLTY4ZG1HaDJpQkFuTUw0VlZISGhjc0dYSk02N0FDeWl5Nkx4bXFOT29pQkw4MU5STHJwb3I1WE9EQjRDVzhhT3JYT2pxTEIwVzBhb1lQMmd4RkFtblFSaVQ0Qk96clNMcU9tcGdlc3RwS25TVkVxTmM0M2JmVzRXYU11ZVE2ejhMazlXNloxcE5BR2VrZ29nUFY2cll1QWlfVTZIMzVVNWhzREQwTjNaV1Axcy03d21rVEZRM2x1UGhxSHoySnRUanhFenNNQmtubklFdnNaTk9TTm9ITVRfQUtqeExVQ2xHVER1bTVyZkY4RndNblJtVWZxUjZidWdoa1I0X3FMMkhXeWxLRzJ0N2dBUXpkaVA2SXA3b29xMmdDUGZPRGpaOVppQ0FfdlhKYlpSMnk1eGVoLVRfZFVxSi1uczEwQ08wQlpweTZtenJMdmdobWhocXFxOTJoWU5jcEpzZEtDOW1RVXBlN2g0X1hWYXRHbDRnY1BvYW85LURpVHdKUlJ5NA?oc=5",
+      "published": "Tue, 10 Nov 2026 12:25:42 GMT",
+      "summary": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات&nbsp;&nbsp;معلومات مباشر",
+      "source": "معلومات مباشر",
+      "t": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات - معلومات مباشر",
+      "u": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWW93MzVRcS1LVDlWa3R5SXlKclRCUmhVdmRmank3Z0RVVUJ5aVRwbVlBc283U3BDMG9kYUEtOS11ZjUxbUtiNURsRnZrTUJ3U09ZLTY4ZG1HaDJpQkFuTUw0VlZISGhjc0dYSk02N0FDeWl5Nkx4bXFOT29pQkw4MU5STHJwb3I1WE9EQjRDVzhhT3JYT2pxTEIwVzBhb1lQMmd4RkFtblFSaVQ0Qk96clNMcU9tcGdlc3RwS25TVkVxTmM0M2JmVzRXYU11ZVE2ejhMazlXNloxcE5BR2VrZ29nUFY2cll1QWlfVTZIMzVVNWhzREQwTjNaV1Axcy03d21rVEZRM2x1UGhxSHoySnRUanhFenNNQmtubklFdnNaTk9TTm9ITVRfQUtqeExVQ2xHVER1bTVyZkY4RndNblJtVWZxUjZidWdoa1I0X3FMMkhXeWxLRzJ0N2dBUXpkaVA2SXA3b29xMmdDUGZPRGpaOVppQ0FfdlhKYlpSMnk1eGVoLVRfZFVxSi1uczEwQ08wQlpweTZtenJMdmdobWhocXFxOTJoWU5jcEpzZEtDOW1RVXBlN2g0X1hWYXRHbDRnY1BvYW85LURpVHdKUlJ5NA?oc=5",
+      "s": "معلومات مباشر",
+      "d": "Tue, 10 Nov 2026 12:25:42 GMT",
+      "symbols": []
+    },
+    {
       "title": "المصارف تقود \"تاسي\" إلى أعلى إغلاق خلال 3 أسابيع - اندبندنت عربية",
       "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNaVFYa1hzUzJSREhUaW9DV01LeS03dW1EbEhYeWlWWl9yU2IxeHFJRnVnRnBFWkZHT2pXMGczTDk2OXZCUm54emMzMUdfWEtEdU9zMFVkN2NhR0JFZGJOaUFxQncwLWc0QUJzN1J2YTB1ZnNPTGRNTmE1aHRjSnFGMUZOenltOFdaQjBIQ2M1WjNCQ290aHMzbzUyQ2syUy12eWx5ckswamthNFBZODU5WEFwdDN3a0h5eElZR2hmcjc4Q1p0SHk3eFhzUFRtYTNWX051STN4OGFzY0R6ZGxhWkUxQkYyZG1EaGluZDBFel9iV051aml0UGxJY0VoaTdEVGc5QXIzUFdzQ21NYm9QbGMtdnpNR1kxTmlaQ1ZPdzJFdnpWVUFTN00yNmxKQ0tOdGQ1ckdSTWpiUG85R3RDVW02d00xRWhBZENmSmdNeFU5eldJNFZvcVRweVVSMzM5dHZFc1JidENRV3ZhUU00ZkdOMkFQMV9yck9TeW14MHVUNjI2YWg5SFN2ZXByUXppVjZHelJ5WkRuTUF6ODVhQWY4NkFMME9aZzF3eUVGcVlKdzYybWpxSDhTcXpHVjRoc1lxZWQ0Wm1MaUE1MFQ2aktFOXlZSDU5bTkyLWp4WG15NlY2UU5Od1pycjFCb0dyVVhqWGhQZlhfNk1QS2F4c2NWeXJOcXR4RnQ4V3JsRVpUdw?oc=5",
       "published": "Tue, 10 Nov 2026 15:10:35 GMT",
@@ -1179,18 +1139,6 @@
       "symbols": []
     },
     {
-      "title": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة - عكاظ",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04WVJNMXBQWWNmcDhhaXNTWjBBS3dsb0xWbUYxRHZQanBWbU04b2pibk0yUm80ZUtHQlZQWHMwMEtxYWdXWkRucmNuV1hYa3l2VEgyNdIBVEFVX3lxTE1NQ3d3VTZlU1BBdnZyNDd6a1pHNE5CVm9scUtMa2NJcERvdGoxY3hNOWJ0TlV6LTJsN0NDaDgxMjVxazZhRk5NV2tUQmplR2pzOXk0Rg?oc=5",
-      "published": "Tue, 10 Nov 2026 10:01:00 GMT",
-      "summary": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة&nbsp;&nbsp;عكاظ",
-      "source": "عكاظ",
-      "t": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة - عكاظ",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04WVJNMXBQWWNmcDhhaXNTWjBBS3dsb0xWbUYxRHZQanBWbU04b2pibk0yUm80ZUtHQlZQWHMwMEtxYWdXWkRucmNuV1hYa3l2VEgyNdIBVEFVX3lxTE1NQ3d3VTZlU1BBdnZyNDd6a1pHNE5CVm9scUtMa2NJcERvdGoxY3hNOWJ0TlV6LTJsN0NDaDgxMjVxazZhRk5NV2tUQmplR2pzOXk0Rg?oc=5",
-      "s": "عكاظ",
-      "d": "Tue, 10 Nov 2026 10:01:00 GMT",
-      "symbols": []
-    },
-    {
       "title": "3 أسهم بالسوق السعودي تسجل أعلى مستوياتها خلال 52 أسبوعاً - معلومات مباشر",
       "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPTHpIS0NqZWpVLThsWjlKMVVoZ1ZzTzVNb29HdXVHMXpjcG5oUFZmX2FZNXFObVBrT1Z0MDkyLW9JUmQxajE2X2xOb3IwaHpxa3NRb1FwaXJqM18xVVg5ZzFVM3pEbU9mMGMyZVpuUXZHWWtkb1JhWFZPajBPTkZxNjE1UjVGU1VZZGpwOU9KY2s4OS1sT0lRSHVkOXFQRXZ5bmhSRFpPcUVpNXF5V0VSWDU3UFdqQXc2LXlOSDdnYTdhUUVhNkJPNTVrRGhndElsZmluSEVXVnBBdFllN0JfTXR4WmI3QVVXVWNueFpuTzZTZ0JTd3puLUM2T01XVGRtYl9OWGgwOS15cGxBdXNPRzN4cGhGLXlyNmNRdmQ2aHpMVWU1Vkl3YjBQaXZ1WEFhdENvdHd2NFNpWnh4ZFFMRUo3cXRHNVlHSTladHFZM2JSZTYwbm0ybDRCaGlSMDdFRlRLaWNfcDdJN1dJTHdrMWR2dVRxaGF3UWdQUDFkRTZqeDJCbm9EazZPa004bzRZSGhiNWhqUUltNXhnaEVHbzlUYUVKYTNkLXcyUnhzWGNsX1lUXzZhWGxPSk5SaVRWVmdv?oc=5",
       "published": "Sun, 08 Nov 2026 10:48:27 GMT",
@@ -1200,6 +1148,18 @@
       "u": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPTHpIS0NqZWpVLThsWjlKMVVoZ1ZzTzVNb29HdXVHMXpjcG5oUFZmX2FZNXFObVBrT1Z0MDkyLW9JUmQxajE2X2xOb3IwaHpxa3NRb1FwaXJqM18xVVg5ZzFVM3pEbU9mMGMyZVpuUXZHWWtkb1JhWFZPajBPTkZxNjE1UjVGU1VZZGpwOU9KY2s4OS1sT0lRSHVkOXFQRXZ5bmhSRFpPcUVpNXF5V0VSWDU3UFdqQXc2LXlOSDdnYTdhUUVhNkJPNTVrRGhndElsZmluSEVXVnBBdFllN0JfTXR4WmI3QVVXVWNueFpuTzZTZ0JTd3puLUM2T01XVGRtYl9OWGgwOS15cGxBdXNPRzN4cGhGLXlyNmNRdmQ2aHpMVWU1Vkl3YjBQaXZ1WEFhdENvdHd2NFNpWnh4ZFFMRUo3cXRHNVlHSTladHFZM2JSZTYwbm0ybDRCaGlSMDdFRlRLaWNfcDdJN1dJTHdrMWR2dVRxaGF3UWdQUDFkRTZqeDJCbm9EazZPa004bzRZSGhiNWhqUUltNXhnaEVHbzlUYUVKYTNkLXcyUnhzWGNsX1lUXzZhWGxPSk5SaVRWVmdv?oc=5",
       "s": "معلومات مباشر",
       "d": "Sun, 08 Nov 2026 10:48:27 GMT",
+      "symbols": []
+    },
+    {
+      "title": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة - عكاظ",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04WVJNMXBQWWNmcDhhaXNTWjBBS3dsb0xWbUYxRHZQanBWbU04b2pibk0yUm80ZUtHQlZQWHMwMEtxYWdXWkRucmNuV1hYa3l2VEgyNdIBVEFVX3lxTE1NQ3d3VTZlU1BBdnZyNDd6a1pHNE5CVm9scUtMa2NJcERvdGoxY3hNOWJ0TlV6LTJsN0NDaDgxMjVxazZhRk5NV2tUQmplR2pzOXk0Rg?oc=5",
+      "published": "Tue, 10 Nov 2026 10:01:00 GMT",
+      "summary": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة&nbsp;&nbsp;عكاظ",
+      "source": "عكاظ",
+      "t": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة - عكاظ",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04WVJNMXBQWWNmcDhhaXNTWjBBS3dsb0xWbUYxRHZQanBWbU04b2pibk0yUm80ZUtHQlZQWHMwMEtxYWdXWkRucmNuV1hYa3l2VEgyNdIBVEFVX3lxTE1NQ3d3VTZlU1BBdnZyNDd6a1pHNE5CVm9scUtMa2NJcERvdGoxY3hNOWJ0TlV6LTJsN0NDaDgxMjVxazZhRk5NV2tUQmplR2pzOXk0Rg?oc=5",
+      "s": "عكاظ",
+      "d": "Tue, 10 Nov 2026 10:01:00 GMT",
       "symbols": []
     },
     {
@@ -1333,6 +1293,30 @@
       "s": "عكاظ",
       "d": "Mon, 09 Nov 2026 12:49:00 GMT",
       "symbols": []
+    },
+    {
+      "title": "السوق السعودي: أسهم 74 شركة شهدت تداولات أعلى من متوسط 3 أشهر - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rNzR0aDZaUWtya0RvZUZhTEQxcE02VHlmMjE2YlR2c2N1ZUpCQVRMMkJ5QlJYbjljVVBlSmJCSE9LNXQxSXR6Y3dtOXdVMWZNeExpOWVzYm4zdGFFamxQR0dQa2t5UVVpRXc?oc=5",
+      "published": "Mon, 02 Nov 2026 13:09:55 GMT",
+      "summary": "السوق السعودي: أسهم 74 شركة شهدت تداولات أعلى من متوسط 3 أشهر&nbsp;&nbsp;ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "t": "السوق السعودي: أسهم 74 شركة شهدت تداولات أعلى من متوسط 3 أشهر - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rNzR0aDZaUWtya0RvZUZhTEQxcE02VHlmMjE2YlR2c2N1ZUpCQVRMMkJ5QlJYbjljVVBlSmJCSE9LNXQxSXR6Y3dtOXdVMWZNeExpOWVzYm4zdGFFamxQR0dQa2t5UVVpRXc?oc=5",
+      "s": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+      "d": "Mon, 02 Nov 2026 13:09:55 GMT",
+      "symbols": []
+    },
+    {
+      "title": "أبرز الأسهم الرابحة والخاسرة في السوق السعودية - CNN الاقتصادية",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxNTFRzQ0Fjcmp0SkZsVVRxYms3cVNNWGNxcTdGdGJDUlE0SkJRSVhrN0ZoeURJYVVhNTJ1aVFmR1BMUEpXM2psbWtIQVBfZ0xyU0FnRmVQZDh3eFRhNXdjY2tRd3JCb1BpeTZGcElkazZVNHItUVh3MWxaY2UzUjFzLWdLck9UTkJmQ2JsQk1rOUNXNG9iMEdjcEltTTRmNThTSGFOaWRSc2ZHOFktWGFNRTJXT2cyUk9mNUFkdEFiWDlqYkx3VENZZk9vZUxyVzA3aS0xeGlQY3BLRmJ5aWlCblBzc2lzM2Q1YW9xZkhKRjVZdlFYUHgxcTVJQ2lKdjBNT2cwWDN4WVZNUjRVRURoOE9wR0duTHQtejNyREpCNnoydGtQaXg2a2ZFdklyUHZDT1VfdWxaQ1FKLVF2QXI4clJRdkJNNTN6QUJZS3FWVng5RVNlalczY3JsT2l2QUh5eUlmc0p0cEk4cW4yOWhiS0ktd3NFcVkzOGh5RlhkOXR3Qy1tY05IQ2ZCb3dwaFloRkpib1N3ZjlWTWJIQkVIVzE5R3JmS0k2Vl8tbA?oc=5",
+      "published": "Mon, 09 Nov 2026 14:00:44 GMT",
+      "summary": "أبرز الأسهم الرابحة والخاسرة في السوق السعودية&nbsp;&nbsp;CNN الاقتصادية",
+      "source": "CNN الاقتصادية",
+      "t": "أبرز الأسهم الرابحة والخاسرة في السوق السعودية - CNN الاقتصادية",
+      "u": "https://news.google.com/rss/articles/CBMirANBVV95cUxNTFRzQ0Fjcmp0SkZsVVRxYms3cVNNWGNxcTdGdGJDUlE0SkJRSVhrN0ZoeURJYVVhNTJ1aVFmR1BMUEpXM2psbWtIQVBfZ0xyU0FnRmVQZDh3eFRhNXdjY2tRd3JCb1BpeTZGcElkazZVNHItUVh3MWxaY2UzUjFzLWdLck9UTkJmQ2JsQk1rOUNXNG9iMEdjcEltTTRmNThTSGFOaWRSc2ZHOFktWGFNRTJXT2cyUk9mNUFkdEFiWDlqYkx3VENZZk9vZUxyVzA3aS0xeGlQY3BLRmJ5aWlCblBzc2lzM2Q1YW9xZkhKRjVZdlFYUHgxcTVJQ2lKdjBNT2cwWDN4WVZNUjRVRURoOE9wR0duTHQtejNyREpCNnoydGtQaXg2a2ZFdklyUHZDT1VfdWxaQ1FKLVF2QXI4clJRdkJNNTN6QUJZS3FWVng5RVNlalczY3JsT2l2QUh5eUlmc0p0cEk4cW4yOWhiS0ktd3NFcVkzOGh5RlhkOXR3Qy1tY05IQ2ZCb3dwaFloRkpib1N3ZjlWTWJIQkVIVzE5R3JmS0k2Vl8tbA?oc=5",
+      "s": "CNN الاقتصادية",
+      "d": "Mon, 09 Nov 2026 14:00:44 GMT",
+      "symbols": []
     }
   ],
   "news": {
@@ -1348,22 +1332,6 @@
         "s": "العربية",
         "d": "Tue, 10 Nov 2026 07:14:00 GMT",
         "symbols": [
-          "4071",
-          "1080"
-        ]
-      },
-      {
-        "title": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
-        "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
-        "published": "Tue, 10 Nov 2026 11:36:00 GMT",
-        "summary": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر&nbsp;&nbsp;العربية",
-        "source": "العربية",
-        "t": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
-        "u": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
-        "s": "العربية",
-        "d": "Tue, 10 Nov 2026 11:36:00 GMT",
-        "symbols": [
-          "2222",
           "4071",
           "1080"
         ]
@@ -1394,6 +1362,22 @@
         "s": "العربية",
         "d": "Sun, 08 Nov 2026 08:11:00 GMT",
         "symbols": [
+          "4071",
+          "1080"
+        ]
+      },
+      {
+        "title": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
+        "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
+        "published": "Tue, 10 Nov 2026 11:36:00 GMT",
+        "summary": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر&nbsp;&nbsp;العربية",
+        "source": "العربية",
+        "t": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
+        "u": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
+        "s": "العربية",
+        "d": "Tue, 10 Nov 2026 11:36:00 GMT",
+        "symbols": [
+          "2222",
           "4071",
           "1080"
         ]
@@ -1629,22 +1613,6 @@
         ]
       },
       {
-        "title": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
-        "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
-        "published": "Tue, 10 Nov 2026 11:36:00 GMT",
-        "summary": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر&nbsp;&nbsp;العربية",
-        "source": "العربية",
-        "t": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
-        "u": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
-        "s": "العربية",
-        "d": "Tue, 10 Nov 2026 11:36:00 GMT",
-        "symbols": [
-          "2222",
-          "4071",
-          "1080"
-        ]
-      },
-      {
         "title": "مؤشر السوق السعودي يغلق فوق مستوى 10 آلاف نقطة للجلسة الرابعة على التوالي - العربية",
         "link": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxOZmFwa1hkSlA2aEt5eEJDck9rN3pxTXIzYmV1OWhrLXJrNGVGb2tVS3oxMThPVVRzZDZnbWpJZzVFcDJ0WGE0NUVfY1dkUGtKWDFlUWtCYXJ5eC16VW5UOERYeWhTaGtybFliYnFUUXhvV2tVeGdnck1IZUpNbjIyUUNWWVpjTzdyU2owYUdYcHVsbjFtRFRfa2FYcWszcjlXeUtmaWJQc0xIRGRhNFVQOFZudXBpaWNsbS1qcTIyTkFlU2ZUWHRMNXpsUmNaLU1OLU53VHRDbjBqTGNmV1Noem5DbVVEenVhRFZ1NWRQNk1XUjdtLUJBdmpCRnhURmZIamlJMHRqMEFqYThoQ0VybW5PNUF3M0ZuNFNNbVBsMXRBTHlzNkdkc09pdjdVU0MzN3JXZG1XSmtKdEw4bWMtd1Fjek95MkZRcFJuT2M1d01Rc21hak9rMmQxU2VtU3hqX0dDSGt6RXNyUC1LWlZOaUZtbl9DVk5NZVhhVm1lT3J1aUR3OHdlOXpMRldIcHVfTUhlcy1GSE9zQWFLNnpkdzBIV0tGa0JzdGRUa1d3cFFBeDlMOUlXQWdJR3JUOVFxTEpIc2J2UTQwbHNpaDRyeHFHWm1xc291VVR0ck80YUFaT2V4cnIxclNVd094Wm5fUFhHeEcwRWthUl9zeW9FVUNKcVdMNEl4c0t5TTlRX0haMWlaYjdYX2J6VDgzc0xCTVc3bDRjM0tqMlR3NGNNY1dnVnI3WUJ2TlpHRTh6dXVrakVQSGp5MVRoQS1BQUltaU81SEhPWlBlUdIB3wRBVV95cUxNc3lTd0w4VmtTeVQ1S19wSHlJREJxVmhSek90NlYwOUdxdEVBTlpoMjFJSF8tWEV6ZjVhMWJvVVBYOGNFcVZKTlZOcHhEMjN4ZEpXTm82N2NMZzJCeW9VZlQ1bDJaUC1zc3Myd1N1MlVrdXlsQVVvdElxNDVNQ3lHYlFVb2Q5SW5lZ2Vnbm1leXZsbE1fcTRlVlhFS21rMUVicEtoZzlNbVVLQ1NuVTNma2FubmVNdThERk9nUDcwcTVDMkxzc2VESDN6UGZKX3NqMVVpUFRXQXhqbC1MZXVtZEFyeEVPUmRwRzlQWDNiR05JOGhBVktxb2ZIaV9UTVhrM0lkcE5iV1FIY25rS2ViMkJLRERaNVpSaFN1SGRITDRKS1FXamlDMDFZc2JEd0dXNkpjNC1MOGlwWkhOVUR4SmtmVWZkZkpKRXRURFhtdWNLSkZkeVNWU0F2eTNid0tJVmJ1dHpOSU9LRmNhdUVzLVV2NUlYMmVEeEZoLTRCcm13cVJ6eHE3RFpMeGYxY2dQOTZ6cFFscld5aF9lbDl3bUNTSW9QR3BsTmxiSnp2cWlBS0VSNjNGOWdhSE9xNVFzS3RXUXY4WHZLVi1nSFE3WlBxR2dhUVRsblVhSmRlVENnV1dYN21GczZkY0VXak85U1djRE9EdUFmRFJPVlQ1SnA5UUZvX3Z1QkktVmpJMWhHcExBWEZBYm5zVWdibDhkM2xaWkdCeXlwTm5nZm1qa2E0aTYzaVRROVNyaEVPaC1PbnlQaGR0OC1KRk8wWlV5WG1mNWJORWJUTkQxOGRN?oc=5",
         "published": "Mon, 09 Nov 2026 12:06:00 GMT",
@@ -1670,6 +1638,22 @@
         "s": "العربية",
         "d": "Sun, 08 Nov 2026 08:11:00 GMT",
         "symbols": [
+          "4071",
+          "1080"
+        ]
+      },
+      {
+        "title": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
+        "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
+        "published": "Tue, 10 Nov 2026 11:36:00 GMT",
+        "summary": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر&nbsp;&nbsp;العربية",
+        "source": "العربية",
+        "t": "سهم \"أرامكو السعودية\" يسجل أكبر وتيرة تراجع يومية في 6 أشهر - العربية",
+        "u": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbklFRzRmV2toZ1ZNdGhDX3VEVFB3V0ZtMG1qRV9renRNdDVadmFlaTdtOHFNZmZfTXVkY1FGMldVeWNXQTI4em9DcFhQM3c2aTh1bkk5ZzJQWmZlazhqVkJLQ3o4SVVrZC1EeWxONnJlMkdaWF9EMXk2SEcyM0VtZUZieFJobGxpZWYtNURfV3FMX3l0U3VNRWlSZmdVRVBiRjNabFg4VUVZRUJaTXdyb0pxSTQ0dXdiX0tJbUJpMDBhd2hQUGZnTV9aTTlMOExHWXhsSWNCbEQ4bVQ5UUQ1ZFRDbzNxZFQ0eXlLblZKVThhOWs0aUh0dDBxcnFEMkt1LUVUVzhGa19iZUVHdENOdHRzYllfMnJZcWZTUkJzTnJ6enM4MnlTR19CNkV5WExWYnRfVjJKRUx5NjJtUXR5cFVqNW5OajRFQW8yR1NsYlNYX0t3UUYyTE5uV2RaNFI1aFJ0LXVQZE4tVnlHVWpVcXU1ZzkzWk5mV3RwZHZud2lzcDNxTWxOSTluMjRQZVl2M3ZoYUZiZzhRS05jbE1henkwOC1FY29zeXEybFdtT1h5djUtQTd2WTk1ZzhpTGY1RUNSam1rV1VRNmlxOVU1NnlHeWpVRksycS1wUEx5TG93U3Jfc3pRWklXNS3SAfIDQVVfeXFMUFhxLWE2UXpfNkRPRjN6UlVIYlQwazNib3JWV0lCUzlyV1VzS2lYWDJjNEl6NUhtMk1sZnZuNjRNZmNMb0NmRjJZRWU0M01pandmV2ZmXzZ2YTMzS3NOSlBZbTEzZW9SdXIxRW5iNjhuY1B5NmJhWEd5Z3JoUmRKZ29fSk9Sd2M2YWxsamZYbDZmcnhvdHg4WVd0LVA2b243dXAybG1JdWoxRFBtWEE0UGZrZFZNeE5zeTNia3B1cTEzZkJXcWNXajNiUVo2REQ0YjNaVVBXaldyQzA5LVFqVHM2UGF1endaa015MlBWLVhEdVZ3Umg2RGJnN0NZNk5PZHMtXzB5dWF3SWJUMElhOXZXck5pMFpWUHR3QkQ1dzZNNVNEbDc3UnFlNWxxZDl3QVc2STBhMHZGS3ljdnVHZHlrMFFETVZ3TTJHRVEzYVdoOVQ4d2cxM2dFLVlPMktabTN2MFNMS3J5MVNDOEQ5a3pKWlJwLVVRdTN2c3dqOVRzOVlhR1JPdkNvZlFWeDFXM0JGS0hZMmY4VzNydEpsNnp3Y0N0MGREWFFMc0Q4SzFWQzBjT3YwblI5dFZFVFdEbGZvUHlNX0dRdEs3bF9mNDd3V3hVdWxyR2VPTmtYRi1vTlRRdmhOcmItSmROQ2ZHQkJR?oc=5",
+        "s": "العربية",
+        "d": "Tue, 10 Nov 2026 11:36:00 GMT",
+        "symbols": [
+          "2222",
           "4071",
           "1080"
         ]
@@ -2212,22 +2196,6 @@
         ]
       }
     ],
-    "6014": [
-      {
-        "title": "إدراج وبدء تداول أسهم شركة \"الآمار الغذائية\" في السوق السعودي الثلاثاء المقبل - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IM3M0VC0yUThQSDRZUnlxQ3Z2QlFCck5qRGM4ZUpXTXZVc0h0anI0bExwUVFnTmpnOTVwczZlVXhaWkVMRmVkMVlXTEdvM2tYSFhsWEp5ck9DN3F3czhjYjd5QUFCcTdwYkE?oc=5",
-        "published": "Sun, 07 Aug 2022 07:00:00 GMT",
-        "summary": "إدراج وبدء تداول أسهم شركة \"الآمار الغذائية\" في السوق السعودي الثلاثاء المقبل&nbsp;&nbsp;ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "t": "إدراج وبدء تداول أسهم شركة \"الآمار الغذائية\" في السوق السعودي الثلاثاء المقبل - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IM3M0VC0yUThQSDRZUnlxQ3Z2QlFCck5qRGM4ZUpXTXZVc0h0anI0bExwUVFnTmpnOTVwczZlVXhaWkVMRmVkMVlXTEdvM2tYSFhsWEp5ck9DN3F3czhjYjd5QUFCcTdwYkE?oc=5",
-        "s": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "d": "Sun, 07 Aug 2022 07:00:00 GMT",
-        "symbols": [
-          "6014"
-        ]
-      }
-    ],
     "1111": [
       {
         "title": "بدء اكتتاب الأفراد في 10.8 مليون سهم من أسهم \"مجموعة تداول السعودية\".. كثامن اكتتاب في السوق السعودي خلال عام 2021 - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
@@ -2344,15 +2312,15 @@
         "symbols": []
       },
       {
-        "title": "مؤشر سوق الأسهم السعودية يغلق مرتفعًا عند مستوى 10168 نقطة - جريدة المدينة",
-        "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOdVdveExIRC0yb2lHN0JtRUdabXN0ejVadzllcDVtYkNXb3h5MFM2SlpGZjQ3RGVTdDhodnZrZG1BbE9NTng5eFZkNk02STBoUUdHQ2l1RGxLX1FacldVMFpLcTVBYUtnSy1yeThxalU0d0EwMXlIMENSUlZxSHJUbmtHV2U5VXVGek4yU2FjUjUxa2gyX1pMTldNa3NfWHZsSUhoSE5SQ3NLMEpTbF9RYlVYTzcwejVoYnlFMFkxVUpVU01TWGZFLWVoSlFCdnVYdWo0T3ZRRm5YV2hBSkZmTUIwMWRqc2ZGcDFnd0tXeDNsZE9vUnlTOFAwRHhyYm1INTV5WEF6a1lxeGVLYldqTDdmLVM4Z0NkQ2Z3OWlGaHRNckNJRFhqR0RvWFE0UDdSd3d4RHZKNFFjM3E5djRmMW5wb01pN0oyS0tubXQ4SkMxbWQ2R0ctWmx1WlI5RzM0NTFheWxtVjhobmp1bHJuOW50M1IwZVVmYl9jcEQ5MWNCZWcyRU5aTDhnajYweUZFUGZOV1ltRUtaNklTZlp0LTlHYVl4Wllmc2tJdzdMTUJrZUFEekRUaDE3dVU5RFh6d0QwSG9NdUo5WVA3bWo0bm93NTNHOGd6elRSUVhfVjFjWTItQzRLMl84Vm1nc1Vm0gFXQVVfeXFMTVd2blVKMUJxWm5FQ3BzZzdQd210VUZoUlBFQ2pYdEhLQU5wUVNGZGlrMTZfbG83YzRveXJXbktOc09rLTcyMnh2S2psWlhzdjZKeWJHc1Zj?oc=5",
-        "published": "Tue, 10 Nov 2026 14:12:00 GMT",
-        "summary": "مؤشر سوق الأسهم السعودية يغلق مرتفعًا عند مستوى 10168 نقطة&nbsp;&nbsp;جريدة المدينة",
-        "source": "جريدة المدينة",
-        "t": "مؤشر سوق الأسهم السعودية يغلق مرتفعًا عند مستوى 10168 نقطة - جريدة المدينة",
-        "u": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOdVdveExIRC0yb2lHN0JtRUdabXN0ejVadzllcDVtYkNXb3h5MFM2SlpGZjQ3RGVTdDhodnZrZG1BbE9NTng5eFZkNk02STBoUUdHQ2l1RGxLX1FacldVMFpLcTVBYUtnSy1yeThxalU0d0EwMXlIMENSUlZxSHJUbmtHV2U5VXVGek4yU2FjUjUxa2gyX1pMTldNa3NfWHZsSUhoSE5SQ3NLMEpTbF9RYlVYTzcwejVoYnlFMFkxVUpVU01TWGZFLWVoSlFCdnVYdWo0T3ZRRm5YV2hBSkZmTUIwMWRqc2ZGcDFnd0tXeDNsZE9vUnlTOFAwRHhyYm1INTV5WEF6a1lxeGVLYldqTDdmLVM4Z0NkQ2Z3OWlGaHRNckNJRFhqR0RvWFE0UDdSd3d4RHZKNFFjM3E5djRmMW5wb01pN0oyS0tubXQ4SkMxbWQ2R0ctWmx1WlI5RzM0NTFheWxtVjhobmp1bHJuOW50M1IwZVVmYl9jcEQ5MWNCZWcyRU5aTDhnajYweUZFUGZOV1ltRUtaNklTZlp0LTlHYVl4Wllmc2tJdzdMTUJrZUFEekRUaDE3dVU5RFh6d0QwSG9NdUo5WVA3bWo0bm93NTNHOGd6elRSUVhfVjFjWTItQzRLMl84Vm1nc1Vm0gFXQVVfeXFMTVd2blVKMUJxWm5FQ3BzZzdQd210VUZoUlBFQ2pYdEhLQU5wUVNGZGlrMTZfbG83YzRveXJXbktOc09rLTcyMnh2S2psWlhzdjZKeWJHc1Zj?oc=5",
-        "s": "جريدة المدينة",
-        "d": "Tue, 10 Nov 2026 14:12:00 GMT",
+        "title": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع - الشرق الأوسط",
+        "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNdFhWdkFOVlZqZjNzRDUxT2hFajFXa0RBWGVta3QtVHU4UndWdHV4LXB5czJYMnc2SFBnQ0ZHd29yMTctcGExS2hNenl6b3llQU1wVkEybTZEZTVVODJ1S2ZJbWJuX3dkc2pXNVJRQmN0cVNKckZHSHhEbnJmcTA3Y3dEZ2ZGRDk2cHE5U1VEMHk4S1ZMd1Vua2JRcVBlZ1dmOUYyMDRQclQ1d3cyS1BFU1pnX0dfZnFQWWtxWm11RjRNR2hQcVJpMDUyY1B6M3ZrbVM1WGY3TVlPZkRfMGlsU0tkYVFhYl9yMUFzTlhhdUlJeEZveEpJZkdYYlkzT3dSRTVVcTdRYzBOUGRXRmRBYUJOdGVmS1d4MWtJSHJMNmMzM0ZtalFRX081SjZZeXROS0dNY25EazBSU01QaFFoNDhYeUREUjhkNFVmNmhaWjM5ZXJ2dG1Cc19Fd0VfajFFSVUyZklBLVNQdXdIeHRnUTBLR3VhYTRmWThWVEdocm5vclFSWWE1NHh1QkhZSzI5b2VPRi1GOV9ZQWtOY2RTaDhNMlkzRGF0dDlvcENMdGZFODF6MUUyTnVPZkNKNGwzRW83eEhFZFJNUFB2aHZDTThn?oc=5",
+        "published": "Tue, 10 Nov 2026 13:23:00 GMT",
+        "summary": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع&nbsp;&nbsp;الشرق الأوسط",
+        "source": "الشرق الأوسط",
+        "t": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع - الشرق الأوسط",
+        "u": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNdFhWdkFOVlZqZjNzRDUxT2hFajFXa0RBWGVta3QtVHU4UndWdHV4LXB5czJYMnc2SFBnQ0ZHd29yMTctcGExS2hNenl6b3llQU1wVkEybTZEZTVVODJ1S2ZJbWJuX3dkc2pXNVJRQmN0cVNKckZHSHhEbnJmcTA3Y3dEZ2ZGRDk2cHE5U1VEMHk4S1ZMd1Vua2JRcVBlZ1dmOUYyMDRQclQ1d3cyS1BFU1pnX0dfZnFQWWtxWm11RjRNR2hQcVJpMDUyY1B6M3ZrbVM1WGY3TVlPZkRfMGlsU0tkYVFhYl9yMUFzTlhhdUlJeEZveEpJZkdYYlkzT3dSRTVVcTdRYzBOUGRXRmRBYUJOdGVmS1d4MWtJSHJMNmMzM0ZtalFRX081SjZZeXROS0dNY25EazBSU01QaFFoNDhYeUREUjhkNFVmNmhaWjM5ZXJ2dG1Cc19Fd0VfajFFSVUyZklBLVNQdXdIeHRnUTBLR3VhYTRmWThWVEdocm5vclFSWWE1NHh1QkhZSzI5b2VPRi1GOV9ZQWtOY2RTaDhNMlkzRGF0dDlvcENMdGZFODF6MUUyTnVPZkNKNGwzRW83eEhFZFJNUFB2aHZDTThn?oc=5",
+        "s": "الشرق الأوسط",
+        "d": "Tue, 10 Nov 2026 13:23:00 GMT",
         "symbols": []
       },
       {
@@ -2368,87 +2336,15 @@
         "symbols": []
       },
       {
-        "title": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع - الشرق الأوسط",
-        "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNdFhWdkFOVlZqZjNzRDUxT2hFajFXa0RBWGVta3QtVHU4UndWdHV4LXB5czJYMnc2SFBnQ0ZHd29yMTctcGExS2hNenl6b3llQU1wVkEybTZEZTVVODJ1S2ZJbWJuX3dkc2pXNVJRQmN0cVNKckZHSHhEbnJmcTA3Y3dEZ2ZGRDk2cHE5U1VEMHk4S1ZMd1Vua2JRcVBlZ1dmOUYyMDRQclQ1d3cyS1BFU1pnX0dfZnFQWWtxWm11RjRNR2hQcVJpMDUyY1B6M3ZrbVM1WGY3TVlPZkRfMGlsU0tkYVFhYl9yMUFzTlhhdUlJeEZveEpJZkdYYlkzT3dSRTVVcTdRYzBOUGRXRmRBYUJOdGVmS1d4MWtJSHJMNmMzM0ZtalFRX081SjZZeXROS0dNY25EazBSU01QaFFoNDhYeUREUjhkNFVmNmhaWjM5ZXJ2dG1Cc19Fd0VfajFFSVUyZklBLVNQdXdIeHRnUTBLR3VhYTRmWThWVEdocm5vclFSWWE1NHh1QkhZSzI5b2VPRi1GOV9ZQWtOY2RTaDhNMlkzRGF0dDlvcENMdGZFODF6MUUyTnVPZkNKNGwzRW83eEhFZFJNUFB2aHZDTThn?oc=5",
-        "published": "Tue, 10 Nov 2026 13:23:00 GMT",
-        "summary": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع&nbsp;&nbsp;الشرق الأوسط",
-        "source": "الشرق الأوسط",
-        "t": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع - الشرق الأوسط",
-        "u": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNdFhWdkFOVlZqZjNzRDUxT2hFajFXa0RBWGVta3QtVHU4UndWdHV4LXB5czJYMnc2SFBnQ0ZHd29yMTctcGExS2hNenl6b3llQU1wVkEybTZEZTVVODJ1S2ZJbWJuX3dkc2pXNVJRQmN0cVNKckZHSHhEbnJmcTA3Y3dEZ2ZGRDk2cHE5U1VEMHk4S1ZMd1Vua2JRcVBlZ1dmOUYyMDRQclQ1d3cyS1BFU1pnX0dfZnFQWWtxWm11RjRNR2hQcVJpMDUyY1B6M3ZrbVM1WGY3TVlPZkRfMGlsU0tkYVFhYl9yMUFzTlhhdUlJeEZveEpJZkdYYlkzT3dSRTVVcTdRYzBOUGRXRmRBYUJOdGVmS1d4MWtJSHJMNmMzM0ZtalFRX081SjZZeXROS0dNY25EazBSU01QaFFoNDhYeUREUjhkNFVmNmhaWjM5ZXJ2dG1Cc19Fd0VfajFFSVUyZklBLVNQdXdIeHRnUTBLR3VhYTRmWThWVEdocm5vclFSWWE1NHh1QkhZSzI5b2VPRi1GOV9ZQWtOY2RTaDhNMlkzRGF0dDlvcENMdGZFODF6MUUyTnVPZkNKNGwzRW83eEhFZFJNUFB2aHZDTThn?oc=5",
-        "s": "الشرق الأوسط",
-        "d": "Tue, 10 Nov 2026 13:23:00 GMT",
-        "symbols": []
-      },
-      {
-        "title": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال - صحيفة مال",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWo5Y1ZiNHBEVHBWRmdKZnRxRUFsS3EwdnFsaXVMNVYzWmN5a0N3TGZURkJBWGM5Zlo4V3p4NVJkc3lUWlkteFJxX3hNeW43aVZRd2ltM1F0RDdXX3hrcmlIdlVnbXJ3QllzT0FQN2UzakthaGF3WlBTRFJPdklwRDFVM3Ayc3hXZW1ibW5NWUo1OFZyN3MxOFNLNEVHRFpRbVFteHduaV9EdWVyWGpvSUdVdDhlUzg3UUpRTGxkT3RvM3BKVWozbXVFSks2ZTQ?oc=5",
-        "published": "Tue, 10 Nov 2026 12:38:49 GMT",
-        "summary": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال&nbsp;&nbsp;صحيفة مال",
-        "source": "صحيفة مال",
-        "t": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال - صحيفة مال",
-        "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWo5Y1ZiNHBEVHBWRmdKZnRxRUFsS3EwdnFsaXVMNVYzWmN5a0N3TGZURkJBWGM5Zlo4V3p4NVJkc3lUWlkteFJxX3hNeW43aVZRd2ltM1F0RDdXX3hrcmlIdlVnbXJ3QllzT0FQN2UzakthaGF3WlBTRFJPdklwRDFVM3Ayc3hXZW1ibW5NWUo1OFZyN3MxOFNLNEVHRFpRbVFteHduaV9EdWVyWGpvSUdVdDhlUzg3UUpRTGxkT3RvM3BKVWozbXVFSks2ZTQ?oc=5",
-        "s": "صحيفة مال",
-        "d": "Tue, 10 Nov 2026 12:38:49 GMT",
-        "symbols": []
-      },
-      {
-        "title": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61% - Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYXZQRUpLaF9iV0JEMmJIaW1vc2dqMFZiblJaZ0VMb0ZONE1sTWtFYUVnQmdTVzRiSUtDd0RKeFZmU1p3dWt3WGMxSWlhVTdoZEliUXcwcmphNzhlWmFQZElzY09JemRVVGowSFhENzE?oc=5",
-        "published": "Tue, 10 Nov 2026 12:45:00 GMT",
-        "summary": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61%&nbsp;&nbsp;Investing.com",
-        "source": "Investing.com",
-        "t": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61% - Investing.com",
-        "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYXZQRUpLaF9iV0JEMmJIaW1vc2dqMFZiblJaZ0VMb0ZONE1sTWtFYUVnQmdTVzRiSUtDd0RKeFZmU1p3dWt3WGMxSWlhVTdoZEliUXcwcmphNzhlWmFQZElzY09JemRVVGowSFhENzE?oc=5",
-        "s": "Investing.com",
-        "d": "Tue, 10 Nov 2026 12:45:00 GMT",
-        "symbols": []
-      },
-      {
-        "title": "السوق السعودي: أسهم 117 شركة شهدت تداولات أعلى من متوسط 3 أشهر - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZQ3pScVZKdjNxQUZLRnJUY0taWWIxUmdXSlZtc2JUb1dJUWYzYUJxWTBHMFl5bVdKaVdUcE1JVFJTX0YwMF8tNjJSbkhEOGhLYzRMdzhHNlR1NHlCbzJXcXR1cjhpN2JVNkE?oc=5",
-        "published": "Sun, 08 Nov 2026 20:15:22 GMT",
-        "summary": "السوق السعودي: أسهم 117 شركة شهدت تداولات أعلى من متوسط 3 أشهر&nbsp;&nbsp;ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "t": "السوق السعودي: أسهم 117 شركة شهدت تداولات أعلى من متوسط 3 أشهر - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZQ3pScVZKdjNxQUZLRnJUY0taWWIxUmdXSlZtc2JUb1dJUWYzYUJxWTBHMFl5bVdKaVdUcE1JVFJTX0YwMF8tNjJSbkhEOGhLYzRMdzhHNlR1NHlCbzJXcXR1cjhpN2JVNkE?oc=5",
-        "s": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "d": "Sun, 08 Nov 2026 20:15:22 GMT",
-        "symbols": []
-      },
-      {
-        "title": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل - صحيفة مال",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUFXNmlKT0l4b3dBX3pwYWxxbmozY1hrd2s1OXdKTnlsa0Q3QWtqY1B6YkZ6dHJyc3pPc2pVcE84SnB4VmZVM0cyQmVtU0hFT19pRWs0NXY4SS10Vzg0NUhpNVVZeWFxQ3B0dVFidXVfV1E0M0NzcTlwT0IzN0xWbTFaOEhXM3p6QnRKV1hMUHdvVmFMaXFLUmRjczRCM1pRanBIUXRhYVhrSTNxVjFHOEVldk4wbW9jcVBHN2xrQjhuREZISXNDckdHNWpPY3ZGSnZHLWxPci1zZ3luaGZJMURzOA?oc=5",
-        "published": "Tue, 10 Nov 2026 15:14:12 GMT",
-        "summary": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل&nbsp;&nbsp;صحيفة مال",
-        "source": "صحيفة مال",
-        "t": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل - صحيفة مال",
-        "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUFXNmlKT0l4b3dBX3pwYWxxbmozY1hrd2s1OXdKTnlsa0Q3QWtqY1B6YkZ6dHJyc3pPc2pVcE84SnB4VmZVM0cyQmVtU0hFT19pRWs0NXY4SS10Vzg0NUhpNVVZeWFxQ3B0dVFidXVfV1E0M0NzcTlwT0IzN0xWbTFaOEhXM3p6QnRKV1hMUHdvVmFMaXFLUmRjczRCM1pRanBIUXRhYVhrSTNxVjFHOEVldk4wbW9jcVBHN2xrQjhuREZISXNDckdHNWpPY3ZGSnZHLWxPci1zZ3luaGZJMURzOA?oc=5",
-        "s": "صحيفة مال",
-        "d": "Tue, 10 Nov 2026 15:14:12 GMT",
-        "symbols": []
-      },
-      {
-        "title": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات - معلومات مباشر",
-        "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWW93MzVRcS1LVDlWa3R5SXlKclRCUmhVdmRmank3Z0RVVUJ5aVRwbVlBc283U3BDMG9kYUEtOS11ZjUxbUtiNURsRnZrTUJ3U09ZLTY4ZG1HaDJpQkFuTUw0VlZISGhjc0dYSk02N0FDeWl5Nkx4bXFOT29pQkw4MU5STHJwb3I1WE9EQjRDVzhhT3JYT2pxTEIwVzBhb1lQMmd4RkFtblFSaVQ0Qk96clNMcU9tcGdlc3RwS25TVkVxTmM0M2JmVzRXYU11ZVE2ejhMazlXNloxcE5BR2VrZ29nUFY2cll1QWlfVTZIMzVVNWhzREQwTjNaV1Axcy03d21rVEZRM2x1UGhxSHoySnRUanhFenNNQmtubklFdnNaTk9TTm9ITVRfQUtqeExVQ2xHVER1bTVyZkY4RndNblJtVWZxUjZidWdoa1I0X3FMMkhXeWxLRzJ0N2dBUXpkaVA2SXA3b29xMmdDUGZPRGpaOVppQ0FfdlhKYlpSMnk1eGVoLVRfZFVxSi1uczEwQ08wQlpweTZtenJMdmdobWhocXFxOTJoWU5jcEpzZEtDOW1RVXBlN2g0X1hWYXRHbDRnY1BvYW85LURpVHdKUlJ5NA?oc=5",
-        "published": "Tue, 10 Nov 2026 12:25:42 GMT",
-        "summary": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات&nbsp;&nbsp;معلومات مباشر",
-        "source": "معلومات مباشر",
-        "t": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات - معلومات مباشر",
-        "u": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWW93MzVRcS1LVDlWa3R5SXlKclRCUmhVdmRmank3Z0RVVUJ5aVRwbVlBc283U3BDMG9kYUEtOS11ZjUxbUtiNURsRnZrTUJ3U09ZLTY4ZG1HaDJpQkFuTUw0VlZISGhjc0dYSk02N0FDeWl5Nkx4bXFOT29pQkw4MU5STHJwb3I1WE9EQjRDVzhhT3JYT2pxTEIwVzBhb1lQMmd4RkFtblFSaVQ0Qk96clNMcU9tcGdlc3RwS25TVkVxTmM0M2JmVzRXYU11ZVE2ejhMazlXNloxcE5BR2VrZ29nUFY2cll1QWlfVTZIMzVVNWhzREQwTjNaV1Axcy03d21rVEZRM2x1UGhxSHoySnRUanhFenNNQmtubklFdnNaTk9TTm9ITVRfQUtqeExVQ2xHVER1bTVyZkY4RndNblJtVWZxUjZidWdoa1I0X3FMMkhXeWxLRzJ0N2dBUXpkaVA2SXA3b29xMmdDUGZPRGpaOVppQ0FfdlhKYlpSMnk1eGVoLVRfZFVxSi1uczEwQ08wQlpweTZtenJMdmdobWhocXFxOTJoWU5jcEpzZEtDOW1RVXBlN2g0X1hWYXRHbDRnY1BvYW85LURpVHdKUlJ5NA?oc=5",
-        "s": "معلومات مباشر",
-        "d": "Tue, 10 Nov 2026 12:25:42 GMT",
-        "symbols": []
-      },
-      {
-        "title": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026 - صحيفة مال",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWF0YnJOVUgzYWNiZFhhb2JtQkdmS29MMi1PaVVPNmplbkZBNGg2UlBPV1kyNHI5bVF1dmNkdWxkb0MwZngzOFpPYTlmdlNxa3k5bS1raEtrc1U3Uy1RNzYwVXJqNGdQUzBnRmZQMmxzUmI0ZUhMc3dLU2JXMWdCeFgxU2p1VHNtSGpxZWRvQXAyZXFkVmctdW4xSkJsMVR4cUZtU19pLW50S2tjT2l6cmc4blRVZl80a2VsNzY2UktCUEZHR29tNlExTzNMTmVjSENhekVtWEhMUjNzVTNLSUFmdGM?oc=5",
-        "published": "Tue, 10 Nov 2026 08:04:29 GMT",
-        "summary": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026&nbsp;&nbsp;صحيفة مال",
-        "source": "صحيفة مال",
-        "t": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026 - صحيفة مال",
-        "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWF0YnJOVUgzYWNiZFhhb2JtQkdmS29MMi1PaVVPNmplbkZBNGg2UlBPV1kyNHI5bVF1dmNkdWxkb0MwZngzOFpPYTlmdlNxa3k5bS1raEtrc1U3Uy1RNzYwVXJqNGdQUzBnRmZQMmxzUmI0ZUhMc3dLU2JXMWdCeFgxU2p1VHNtSGpxZWRvQXAyZXFkVmctdW4xSkJsMVR4cUZtU19pLW50S2tjT2l6cmc4blRVZl80a2VsNzY2UktCUEZHR29tNlExTzNMTmVjSENhekVtWEhMUjNzVTNLSUFmdGM?oc=5",
-        "s": "صحيفة مال",
-        "d": "Tue, 10 Nov 2026 08:04:29 GMT",
+        "title": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال - أخبار 24",
+        "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdHTU1SUnlVVnp3VU9IWFBBUG5CczF3Ylg2T0ZpUFlmRUh5bEFVTXpMQmlyNk5DN0JZS1JITzFLalhsWGdYSWQ0QUo3WVkwbnVpQTBQYWlieVdhWjRkcnlvZ2NUQUtVMzl2MzRhcmtoWUo1UHFpOXBTSVJkelA2ajBJeG9saF9Eenc3S2NnbXJhMGxkelR2b1JZdU8tNG9fYVpoeEZQdUNRRVFPY2Y3SWloc0xIZXgwVjQ5ajBmWlA0NFhMcmVpNW9KWlRQSmNIYXp2WU9VbnotelZFYnB5MFNmYTJQSnVZZkFEbEFiTG92dVBjQVVtNUhwX2JJajNNQjZwLVRzQnRVNWpwb2NreWhjODk2YUNsV0hpS1JoSWRfQ05tdzhaZnk3eEpLdDBkTGN3QnA3VEIxcklwT0xJRkxjSG9uTXZsWFl1bDlmV1dJY2p4OVNHb0V1NGJVejBERnBVamdyUEJzNW5jMU1vb2VXbVRteWdUV1JCYnZ5bEVCeU1IRldFOE1TVXQ0WlJnMUFPRGVqRzRLOExEV1d1SmpXZVlCVUF3a1BrV041YTZobk9BWVE?oc=5",
+        "published": "Tue, 10 Nov 2026 14:07:19 GMT",
+        "summary": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال&nbsp;&nbsp;أخبار 24",
+        "source": "أخبار 24",
+        "t": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال - أخبار 24",
+        "u": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdHTU1SUnlVVnp3VU9IWFBBUG5CczF3Ylg2T0ZpUFlmRUh5bEFVTXpMQmlyNk5DN0JZS1JITzFLalhsWGdYSWQ0QUo3WVkwbnVpQTBQYWlieVdhWjRkcnlvZ2NUQUtVMzl2MzRhcmtoWUo1UHFpOXBTSVJkelA2ajBJeG9saF9Eenc3S2NnbXJhMGxkelR2b1JZdU8tNG9fYVpoeEZQdUNRRVFPY2Y3SWloc0xIZXgwVjQ5ajBmWlA0NFhMcmVpNW9KWlRQSmNIYXp2WU9VbnotelZFYnB5MFNmYTJQSnVZZkFEbEFiTG92dVBjQVVtNUhwX2JJajNNQjZwLVRzQnRVNWpwb2NreWhjODk2YUNsV0hpS1JoSWRfQ05tdzhaZnk3eEpLdDBkTGN3QnA3VEIxcklwT0xJRkxjSG9uTXZsWFl1bDlmV1dJY2p4OVNHb0V1NGJVejBERnBVamdyUEJzNW5jMU1vb2VXbVRteWdUV1JCYnZ5bEVCeU1IRldFOE1TVXQ0WlJnMUFPRGVqRzRLOExEV1d1SmpXZVlCVUF3a1BrV041YTZobk9BWVE?oc=5",
+        "s": "أخبار 24",
+        "d": "Tue, 10 Nov 2026 14:07:19 GMT",
         "symbols": []
       },
       {
@@ -2464,27 +2360,15 @@
         "symbols": []
       },
       {
-        "title": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية - صحيفة مال",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUs3SjY2Qjk4d3VfMW9jQkpTXzJWdzBvTDVmZkNCNGRULWxxcTlFZEFZbURnVDk3MEZ2SEhrWU8zbldzSVpTREVSSHZLSkZETE1GdGpKc0FvUGpvZVRiSjhycGlUWnlxUmdWcm5RcjFhY2VjM0VzS2NXQkRUdndLbDBFNVpRMEV2cWpHS25vTWl2QUloakRmTnBQVng2MUE0SXN4NGF1aGJzS2IwN1dLcVJVOVVDU282WVc5NUdGemszbnJEamRvTVR3elhPZ2JvY1hLeEl6TWRKeWVPdElRVnJ5RQ?oc=5",
-        "published": "Tue, 10 Nov 2026 16:41:40 GMT",
-        "summary": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية&nbsp;&nbsp;صحيفة مال",
-        "source": "صحيفة مال",
-        "t": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية - صحيفة مال",
-        "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUs3SjY2Qjk4d3VfMW9jQkpTXzJWdzBvTDVmZkNCNGRULWxxcTlFZEFZbURnVDk3MEZ2SEhrWU8zbldzSVpTREVSSHZLSkZETE1GdGpKc0FvUGpvZVRiSjhycGlUWnlxUmdWcm5RcjFhY2VjM0VzS2NXQkRUdndLbDBFNVpRMEV2cWpHS25vTWl2QUloakRmTnBQVng2MUE0SXN4NGF1aGJzS2IwN1dLcVJVOVVDU282WVc5NUdGemszbnJEamRvTVR3elhPZ2JvY1hLeEl6TWRKeWVPdElRVnJ5RQ?oc=5",
-        "s": "صحيفة مال",
-        "d": "Tue, 10 Nov 2026 16:41:40 GMT",
-        "symbols": []
-      },
-      {
-        "title": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال - أخبار 24",
-        "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdHTU1SUnlVVnp3VU9IWFBBUG5CczF3Ylg2T0ZpUFlmRUh5bEFVTXpMQmlyNk5DN0JZS1JITzFLalhsWGdYSWQ0QUo3WVkwbnVpQTBQYWlieVdhWjRkcnlvZ2NUQUtVMzl2MzRhcmtoWUo1UHFpOXBTSVJkelA2ajBJeG9saF9Eenc3S2NnbXJhMGxkelR2b1JZdU8tNG9fYVpoeEZQdUNRRVFPY2Y3SWloc0xIZXgwVjQ5ajBmWlA0NFhMcmVpNW9KWlRQSmNIYXp2WU9VbnotelZFYnB5MFNmYTJQSnVZZkFEbEFiTG92dVBjQVVtNUhwX2JJajNNQjZwLVRzQnRVNWpwb2NreWhjODk2YUNsV0hpS1JoSWRfQ05tdzhaZnk3eEpLdDBkTGN3QnA3VEIxcklwT0xJRkxjSG9uTXZsWFl1bDlmV1dJY2p4OVNHb0V1NGJVejBERnBVamdyUEJzNW5jMU1vb2VXbVRteWdUV1JCYnZ5bEVCeU1IRldFOE1TVXQ0WlJnMUFPRGVqRzRLOExEV1d1SmpXZVlCVUF3a1BrV041YTZobk9BWVE?oc=5",
-        "published": "Tue, 10 Nov 2026 14:07:19 GMT",
-        "summary": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال&nbsp;&nbsp;أخبار 24",
-        "source": "أخبار 24",
-        "t": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال - أخبار 24",
-        "u": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdHTU1SUnlVVnp3VU9IWFBBUG5CczF3Ylg2T0ZpUFlmRUh5bEFVTXpMQmlyNk5DN0JZS1JITzFLalhsWGdYSWQ0QUo3WVkwbnVpQTBQYWlieVdhWjRkcnlvZ2NUQUtVMzl2MzRhcmtoWUo1UHFpOXBTSVJkelA2ajBJeG9saF9Eenc3S2NnbXJhMGxkelR2b1JZdU8tNG9fYVpoeEZQdUNRRVFPY2Y3SWloc0xIZXgwVjQ5ajBmWlA0NFhMcmVpNW9KWlRQSmNIYXp2WU9VbnotelZFYnB5MFNmYTJQSnVZZkFEbEFiTG92dVBjQVVtNUhwX2JJajNNQjZwLVRzQnRVNWpwb2NreWhjODk2YUNsV0hpS1JoSWRfQ05tdzhaZnk3eEpLdDBkTGN3QnA3VEIxcklwT0xJRkxjSG9uTXZsWFl1bDlmV1dJY2p4OVNHb0V1NGJVejBERnBVamdyUEJzNW5jMU1vb2VXbVRteWdUV1JCYnZ5bEVCeU1IRldFOE1TVXQ0WlJnMUFPRGVqRzRLOExEV1d1SmpXZVlCVUF3a1BrV041YTZobk9BWVE?oc=5",
-        "s": "أخبار 24",
-        "d": "Tue, 10 Nov 2026 14:07:19 GMT",
+        "title": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61% - Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYXZQRUpLaF9iV0JEMmJIaW1vc2dqMFZiblJaZ0VMb0ZONE1sTWtFYUVnQmdTVzRiSUtDd0RKeFZmU1p3dWt3WGMxSWlhVTdoZEliUXcwcmphNzhlWmFQZElzY09JemRVVGowSFhENzE?oc=5",
+        "published": "Tue, 10 Nov 2026 12:45:00 GMT",
+        "summary": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61%&nbsp;&nbsp;Investing.com",
+        "source": "Investing.com",
+        "t": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61% - Investing.com",
+        "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYXZQRUpLaF9iV0JEMmJIaW1vc2dqMFZiblJaZ0VMb0ZONE1sTWtFYUVnQmdTVzRiSUtDd0RKeFZmU1p3dWt3WGMxSWlhVTdoZEliUXcwcmphNzhlWmFQZElzY09JemRVVGowSFhENzE?oc=5",
+        "s": "Investing.com",
+        "d": "Tue, 10 Nov 2026 12:45:00 GMT",
         "symbols": []
       },
       {
@@ -2500,6 +2384,66 @@
         "symbols": []
       },
       {
+        "title": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال - صحيفة مال",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWo5Y1ZiNHBEVHBWRmdKZnRxRUFsS3EwdnFsaXVMNVYzWmN5a0N3TGZURkJBWGM5Zlo4V3p4NVJkc3lUWlkteFJxX3hNeW43aVZRd2ltM1F0RDdXX3hrcmlIdlVnbXJ3QllzT0FQN2UzakthaGF3WlBTRFJPdklwRDFVM3Ayc3hXZW1ibW5NWUo1OFZyN3MxOFNLNEVHRFpRbVFteHduaV9EdWVyWGpvSUdVdDhlUzg3UUpRTGxkT3RvM3BKVWozbXVFSks2ZTQ?oc=5",
+        "published": "Tue, 10 Nov 2026 12:38:49 GMT",
+        "summary": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال&nbsp;&nbsp;صحيفة مال",
+        "source": "صحيفة مال",
+        "t": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال - صحيفة مال",
+        "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWo5Y1ZiNHBEVHBWRmdKZnRxRUFsS3EwdnFsaXVMNVYzWmN5a0N3TGZURkJBWGM5Zlo4V3p4NVJkc3lUWlkteFJxX3hNeW43aVZRd2ltM1F0RDdXX3hrcmlIdlVnbXJ3QllzT0FQN2UzakthaGF3WlBTRFJPdklwRDFVM3Ayc3hXZW1ibW5NWUo1OFZyN3MxOFNLNEVHRFpRbVFteHduaV9EdWVyWGpvSUdVdDhlUzg3UUpRTGxkT3RvM3BKVWozbXVFSks2ZTQ?oc=5",
+        "s": "صحيفة مال",
+        "d": "Tue, 10 Nov 2026 12:38:49 GMT",
+        "symbols": []
+      },
+      {
+        "title": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026 - صحيفة مال",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWF0YnJOVUgzYWNiZFhhb2JtQkdmS29MMi1PaVVPNmplbkZBNGg2UlBPV1kyNHI5bVF1dmNkdWxkb0MwZngzOFpPYTlmdlNxa3k5bS1raEtrc1U3Uy1RNzYwVXJqNGdQUzBnRmZQMmxzUmI0ZUhMc3dLU2JXMWdCeFgxU2p1VHNtSGpxZWRvQXAyZXFkVmctdW4xSkJsMVR4cUZtU19pLW50S2tjT2l6cmc4blRVZl80a2VsNzY2UktCUEZHR29tNlExTzNMTmVjSENhekVtWEhMUjNzVTNLSUFmdGM?oc=5",
+        "published": "Tue, 10 Nov 2026 08:04:29 GMT",
+        "summary": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026&nbsp;&nbsp;صحيفة مال",
+        "source": "صحيفة مال",
+        "t": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026 - صحيفة مال",
+        "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWF0YnJOVUgzYWNiZFhhb2JtQkdmS29MMi1PaVVPNmplbkZBNGg2UlBPV1kyNHI5bVF1dmNkdWxkb0MwZngzOFpPYTlmdlNxa3k5bS1raEtrc1U3Uy1RNzYwVXJqNGdQUzBnRmZQMmxzUmI0ZUhMc3dLU2JXMWdCeFgxU2p1VHNtSGpxZWRvQXAyZXFkVmctdW4xSkJsMVR4cUZtU19pLW50S2tjT2l6cmc4blRVZl80a2VsNzY2UktCUEZHR29tNlExTzNMTmVjSENhekVtWEhMUjNzVTNLSUFmdGM?oc=5",
+        "s": "صحيفة مال",
+        "d": "Tue, 10 Nov 2026 08:04:29 GMT",
+        "symbols": []
+      },
+      {
+        "title": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل - صحيفة مال",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUFXNmlKT0l4b3dBX3pwYWxxbmozY1hrd2s1OXdKTnlsa0Q3QWtqY1B6YkZ6dHJyc3pPc2pVcE84SnB4VmZVM0cyQmVtU0hFT19pRWs0NXY4SS10Vzg0NUhpNVVZeWFxQ3B0dVFidXVfV1E0M0NzcTlwT0IzN0xWbTFaOEhXM3p6QnRKV1hMUHdvVmFMaXFLUmRjczRCM1pRanBIUXRhYVhrSTNxVjFHOEVldk4wbW9jcVBHN2xrQjhuREZISXNDckdHNWpPY3ZGSnZHLWxPci1zZ3luaGZJMURzOA?oc=5",
+        "published": "Tue, 10 Nov 2026 15:14:12 GMT",
+        "summary": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل&nbsp;&nbsp;صحيفة مال",
+        "source": "صحيفة مال",
+        "t": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل - صحيفة مال",
+        "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUFXNmlKT0l4b3dBX3pwYWxxbmozY1hrd2s1OXdKTnlsa0Q3QWtqY1B6YkZ6dHJyc3pPc2pVcE84SnB4VmZVM0cyQmVtU0hFT19pRWs0NXY4SS10Vzg0NUhpNVVZeWFxQ3B0dVFidXVfV1E0M0NzcTlwT0IzN0xWbTFaOEhXM3p6QnRKV1hMUHdvVmFMaXFLUmRjczRCM1pRanBIUXRhYVhrSTNxVjFHOEVldk4wbW9jcVBHN2xrQjhuREZISXNDckdHNWpPY3ZGSnZHLWxPci1zZ3luaGZJMURzOA?oc=5",
+        "s": "صحيفة مال",
+        "d": "Tue, 10 Nov 2026 15:14:12 GMT",
+        "symbols": []
+      },
+      {
+        "title": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية - صحيفة مال",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUs3SjY2Qjk4d3VfMW9jQkpTXzJWdzBvTDVmZkNCNGRULWxxcTlFZEFZbURnVDk3MEZ2SEhrWU8zbldzSVpTREVSSHZLSkZETE1GdGpKc0FvUGpvZVRiSjhycGlUWnlxUmdWcm5RcjFhY2VjM0VzS2NXQkRUdndLbDBFNVpRMEV2cWpHS25vTWl2QUloakRmTnBQVng2MUE0SXN4NGF1aGJzS2IwN1dLcVJVOVVDU282WVc5NUdGemszbnJEamRvTVR3elhPZ2JvY1hLeEl6TWRKeWVPdElRVnJ5RQ?oc=5",
+        "published": "Tue, 10 Nov 2026 16:41:40 GMT",
+        "summary": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية&nbsp;&nbsp;صحيفة مال",
+        "source": "صحيفة مال",
+        "t": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية - صحيفة مال",
+        "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUs3SjY2Qjk4d3VfMW9jQkpTXzJWdzBvTDVmZkNCNGRULWxxcTlFZEFZbURnVDk3MEZ2SEhrWU8zbldzSVpTREVSSHZLSkZETE1GdGpKc0FvUGpvZVRiSjhycGlUWnlxUmdWcm5RcjFhY2VjM0VzS2NXQkRUdndLbDBFNVpRMEV2cWpHS25vTWl2QUloakRmTnBQVng2MUE0SXN4NGF1aGJzS2IwN1dLcVJVOVVDU282WVc5NUdGemszbnJEamRvTVR3elhPZ2JvY1hLeEl6TWRKeWVPdElRVnJ5RQ?oc=5",
+        "s": "صحيفة مال",
+        "d": "Tue, 10 Nov 2026 16:41:40 GMT",
+        "symbols": []
+      },
+      {
+        "title": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات - معلومات مباشر",
+        "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWW93MzVRcS1LVDlWa3R5SXlKclRCUmhVdmRmank3Z0RVVUJ5aVRwbVlBc283U3BDMG9kYUEtOS11ZjUxbUtiNURsRnZrTUJ3U09ZLTY4ZG1HaDJpQkFuTUw0VlZISGhjc0dYSk02N0FDeWl5Nkx4bXFOT29pQkw4MU5STHJwb3I1WE9EQjRDVzhhT3JYT2pxTEIwVzBhb1lQMmd4RkFtblFSaVQ0Qk96clNMcU9tcGdlc3RwS25TVkVxTmM0M2JmVzRXYU11ZVE2ejhMazlXNloxcE5BR2VrZ29nUFY2cll1QWlfVTZIMzVVNWhzREQwTjNaV1Axcy03d21rVEZRM2x1UGhxSHoySnRUanhFenNNQmtubklFdnNaTk9TTm9ITVRfQUtqeExVQ2xHVER1bTVyZkY4RndNblJtVWZxUjZidWdoa1I0X3FMMkhXeWxLRzJ0N2dBUXpkaVA2SXA3b29xMmdDUGZPRGpaOVppQ0FfdlhKYlpSMnk1eGVoLVRfZFVxSi1uczEwQ08wQlpweTZtenJMdmdobWhocXFxOTJoWU5jcEpzZEtDOW1RVXBlN2g0X1hWYXRHbDRnY1BvYW85LURpVHdKUlJ5NA?oc=5",
+        "published": "Tue, 10 Nov 2026 12:25:42 GMT",
+        "summary": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات&nbsp;&nbsp;معلومات مباشر",
+        "source": "معلومات مباشر",
+        "t": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات - معلومات مباشر",
+        "u": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWW93MzVRcS1LVDlWa3R5SXlKclRCUmhVdmRmank3Z0RVVUJ5aVRwbVlBc283U3BDMG9kYUEtOS11ZjUxbUtiNURsRnZrTUJ3U09ZLTY4ZG1HaDJpQkFuTUw0VlZISGhjc0dYSk02N0FDeWl5Nkx4bXFOT29pQkw4MU5STHJwb3I1WE9EQjRDVzhhT3JYT2pxTEIwVzBhb1lQMmd4RkFtblFSaVQ0Qk96clNMcU9tcGdlc3RwS25TVkVxTmM0M2JmVzRXYU11ZVE2ejhMazlXNloxcE5BR2VrZ29nUFY2cll1QWlfVTZIMzVVNWhzREQwTjNaV1Axcy03d21rVEZRM2x1UGhxSHoySnRUanhFenNNQmtubklFdnNaTk9TTm9ITVRfQUtqeExVQ2xHVER1bTVyZkY4RndNblJtVWZxUjZidWdoa1I0X3FMMkhXeWxLRzJ0N2dBUXpkaVA2SXA3b29xMmdDUGZPRGpaOVppQ0FfdlhKYlpSMnk1eGVoLVRfZFVxSi1uczEwQ08wQlpweTZtenJMdmdobWhocXFxOTJoWU5jcEpzZEtDOW1RVXBlN2g0X1hWYXRHbDRnY1BvYW85LURpVHdKUlJ5NA?oc=5",
+        "s": "معلومات مباشر",
+        "d": "Tue, 10 Nov 2026 12:25:42 GMT",
+        "symbols": []
+      },
+      {
         "title": "المصارف تقود \"تاسي\" إلى أعلى إغلاق خلال 3 أسابيع - اندبندنت عربية",
         "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNaVFYa1hzUzJSREhUaW9DV01LeS03dW1EbEhYeWlWWl9yU2IxeHFJRnVnRnBFWkZHT2pXMGczTDk2OXZCUm54emMzMUdfWEtEdU9zMFVkN2NhR0JFZGJOaUFxQncwLWc0QUJzN1J2YTB1ZnNPTGRNTmE1aHRjSnFGMUZOenltOFdaQjBIQ2M1WjNCQ290aHMzbzUyQ2syUy12eWx5ckswamthNFBZODU5WEFwdDN3a0h5eElZR2hmcjc4Q1p0SHk3eFhzUFRtYTNWX051STN4OGFzY0R6ZGxhWkUxQkYyZG1EaGluZDBFel9iV051aml0UGxJY0VoaTdEVGc5QXIzUFdzQ21NYm9QbGMtdnpNR1kxTmlaQ1ZPdzJFdnpWVUFTN00yNmxKQ0tOdGQ1ckdSTWpiUG85R3RDVW02d00xRWhBZENmSmdNeFU5eldJNFZvcVRweVVSMzM5dHZFc1JidENRV3ZhUU00ZkdOMkFQMV9yck9TeW14MHVUNjI2YWg5SFN2ZXByUXppVjZHelJ5WkRuTUF6ODVhQWY4NkFMME9aZzF3eUVGcVlKdzYybWpxSDhTcXpHVjRoc1lxZWQ0Wm1MaUE1MFQ2aktFOXlZSDU5bTkyLWp4WG15NlY2UU5Od1pycjFCb0dyVVhqWGhQZlhfNk1QS2F4c2NWeXJOcXR4RnQ4V3JsRVpUdw?oc=5",
         "published": "Tue, 10 Nov 2026 15:10:35 GMT",
@@ -2512,18 +2456,6 @@
         "symbols": []
       },
       {
-        "title": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة - عكاظ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04WVJNMXBQWWNmcDhhaXNTWjBBS3dsb0xWbUYxRHZQanBWbU04b2pibk0yUm80ZUtHQlZQWHMwMEtxYWdXWkRucmNuV1hYa3l2VEgyNdIBVEFVX3lxTE1NQ3d3VTZlU1BBdnZyNDd6a1pHNE5CVm9scUtMa2NJcERvdGoxY3hNOWJ0TlV6LTJsN0NDaDgxMjVxazZhRk5NV2tUQmplR2pzOXk0Rg?oc=5",
-        "published": "Tue, 10 Nov 2026 10:01:00 GMT",
-        "summary": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة&nbsp;&nbsp;عكاظ",
-        "source": "عكاظ",
-        "t": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة - عكاظ",
-        "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04WVJNMXBQWWNmcDhhaXNTWjBBS3dsb0xWbUYxRHZQanBWbU04b2pibk0yUm80ZUtHQlZQWHMwMEtxYWdXWkRucmNuV1hYa3l2VEgyNdIBVEFVX3lxTE1NQ3d3VTZlU1BBdnZyNDd6a1pHNE5CVm9scUtMa2NJcERvdGoxY3hNOWJ0TlV6LTJsN0NDaDgxMjVxazZhRk5NV2tUQmplR2pzOXk0Rg?oc=5",
-        "s": "عكاظ",
-        "d": "Tue, 10 Nov 2026 10:01:00 GMT",
-        "symbols": []
-      },
-      {
         "title": "3 أسهم بالسوق السعودي تسجل أعلى مستوياتها خلال 52 أسبوعاً - معلومات مباشر",
         "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPTHpIS0NqZWpVLThsWjlKMVVoZ1ZzTzVNb29HdXVHMXpjcG5oUFZmX2FZNXFObVBrT1Z0MDkyLW9JUmQxajE2X2xOb3IwaHpxa3NRb1FwaXJqM18xVVg5ZzFVM3pEbU9mMGMyZVpuUXZHWWtkb1JhWFZPajBPTkZxNjE1UjVGU1VZZGpwOU9KY2s4OS1sT0lRSHVkOXFQRXZ5bmhSRFpPcUVpNXF5V0VSWDU3UFdqQXc2LXlOSDdnYTdhUUVhNkJPNTVrRGhndElsZmluSEVXVnBBdFllN0JfTXR4WmI3QVVXVWNueFpuTzZTZ0JTd3puLUM2T01XVGRtYl9OWGgwOS15cGxBdXNPRzN4cGhGLXlyNmNRdmQ2aHpMVWU1Vkl3YjBQaXZ1WEFhdENvdHd2NFNpWnh4ZFFMRUo3cXRHNVlHSTladHFZM2JSZTYwbm0ybDRCaGlSMDdFRlRLaWNfcDdJN1dJTHdrMWR2dVRxaGF3UWdQUDFkRTZqeDJCbm9EazZPa004bzRZSGhiNWhqUUltNXhnaEVHbzlUYUVKYTNkLXcyUnhzWGNsX1lUXzZhWGxPSk5SaVRWVmdv?oc=5",
         "published": "Sun, 08 Nov 2026 10:48:27 GMT",
@@ -2533,6 +2465,18 @@
         "u": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPTHpIS0NqZWpVLThsWjlKMVVoZ1ZzTzVNb29HdXVHMXpjcG5oUFZmX2FZNXFObVBrT1Z0MDkyLW9JUmQxajE2X2xOb3IwaHpxa3NRb1FwaXJqM18xVVg5ZzFVM3pEbU9mMGMyZVpuUXZHWWtkb1JhWFZPajBPTkZxNjE1UjVGU1VZZGpwOU9KY2s4OS1sT0lRSHVkOXFQRXZ5bmhSRFpPcUVpNXF5V0VSWDU3UFdqQXc2LXlOSDdnYTdhUUVhNkJPNTVrRGhndElsZmluSEVXVnBBdFllN0JfTXR4WmI3QVVXVWNueFpuTzZTZ0JTd3puLUM2T01XVGRtYl9OWGgwOS15cGxBdXNPRzN4cGhGLXlyNmNRdmQ2aHpMVWU1Vkl3YjBQaXZ1WEFhdENvdHd2NFNpWnh4ZFFMRUo3cXRHNVlHSTladHFZM2JSZTYwbm0ybDRCaGlSMDdFRlRLaWNfcDdJN1dJTHdrMWR2dVRxaGF3UWdQUDFkRTZqeDJCbm9EazZPa004bzRZSGhiNWhqUUltNXhnaEVHbzlUYUVKYTNkLXcyUnhzWGNsX1lUXzZhWGxPSk5SaVRWVmdv?oc=5",
         "s": "معلومات مباشر",
         "d": "Sun, 08 Nov 2026 10:48:27 GMT",
+        "symbols": []
+      },
+      {
+        "title": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة - عكاظ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04WVJNMXBQWWNmcDhhaXNTWjBBS3dsb0xWbUYxRHZQanBWbU04b2pibk0yUm80ZUtHQlZQWHMwMEtxYWdXWkRucmNuV1hYa3l2VEgyNdIBVEFVX3lxTE1NQ3d3VTZlU1BBdnZyNDd6a1pHNE5CVm9scUtMa2NJcERvdGoxY3hNOWJ0TlV6LTJsN0NDaDgxMjVxazZhRk5NV2tUQmplR2pzOXk0Rg?oc=5",
+        "published": "Tue, 10 Nov 2026 10:01:00 GMT",
+        "summary": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة&nbsp;&nbsp;عكاظ",
+        "source": "عكاظ",
+        "t": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة - عكاظ",
+        "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04WVJNMXBQWWNmcDhhaXNTWjBBS3dsb0xWbUYxRHZQanBWbU04b2pibk0yUm80ZUtHQlZQWHMwMEtxYWdXWkRucmNuV1hYa3l2VEgyNdIBVEFVX3lxTE1NQ3d3VTZlU1BBdnZyNDd6a1pHNE5CVm9scUtMa2NJcERvdGoxY3hNOWJ0TlV6LTJsN0NDaDgxMjVxazZhRk5NV2tUQmplR2pzOXk0Rg?oc=5",
+        "s": "عكاظ",
+        "d": "Tue, 10 Nov 2026 10:01:00 GMT",
         "symbols": []
       },
       {
@@ -2665,6 +2609,30 @@
         "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YcVZac3loYkVUYVNvYzZDZ1BfbFlSdWZFNnQ0U2JPM2pObVlSUmpMMHpzWFdpcEx5VGtqUlU1U2p0aHhRamRSZ2VxUDVzTUVXT3ItUdIBVEFVX3lxTE9SR3JrT2tESkY0U1NTVndBTHQwZEl5WVVRRFhPb1VZS05UZlp6NWVheDFadnhkbEItRXJ0VmM0TFpOcHBpR1ltQnpIaS1oTUUwMEY1aQ?oc=5",
         "s": "عكاظ",
         "d": "Mon, 09 Nov 2026 12:49:00 GMT",
+        "symbols": []
+      },
+      {
+        "title": "السوق السعودي: أسهم 74 شركة شهدت تداولات أعلى من متوسط 3 أشهر - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rNzR0aDZaUWtya0RvZUZhTEQxcE02VHlmMjE2YlR2c2N1ZUpCQVRMMkJ5QlJYbjljVVBlSmJCSE9LNXQxSXR6Y3dtOXdVMWZNeExpOWVzYm4zdGFFamxQR0dQa2t5UVVpRXc?oc=5",
+        "published": "Mon, 02 Nov 2026 13:09:55 GMT",
+        "summary": "السوق السعودي: أسهم 74 شركة شهدت تداولات أعلى من متوسط 3 أشهر&nbsp;&nbsp;ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+        "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+        "t": "السوق السعودي: أسهم 74 شركة شهدت تداولات أعلى من متوسط 3 أشهر - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+        "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rNzR0aDZaUWtya0RvZUZhTEQxcE02VHlmMjE2YlR2c2N1ZUpCQVRMMkJ5QlJYbjljVVBlSmJCSE9LNXQxSXR6Y3dtOXdVMWZNeExpOWVzYm4zdGFFamxQR0dQa2t5UVVpRXc?oc=5",
+        "s": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+        "d": "Mon, 02 Nov 2026 13:09:55 GMT",
+        "symbols": []
+      },
+      {
+        "title": "أبرز الأسهم الرابحة والخاسرة في السوق السعودية - CNN الاقتصادية",
+        "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxNTFRzQ0Fjcmp0SkZsVVRxYms3cVNNWGNxcTdGdGJDUlE0SkJRSVhrN0ZoeURJYVVhNTJ1aVFmR1BMUEpXM2psbWtIQVBfZ0xyU0FnRmVQZDh3eFRhNXdjY2tRd3JCb1BpeTZGcElkazZVNHItUVh3MWxaY2UzUjFzLWdLck9UTkJmQ2JsQk1rOUNXNG9iMEdjcEltTTRmNThTSGFOaWRSc2ZHOFktWGFNRTJXT2cyUk9mNUFkdEFiWDlqYkx3VENZZk9vZUxyVzA3aS0xeGlQY3BLRmJ5aWlCblBzc2lzM2Q1YW9xZkhKRjVZdlFYUHgxcTVJQ2lKdjBNT2cwWDN4WVZNUjRVRURoOE9wR0duTHQtejNyREpCNnoydGtQaXg2a2ZFdklyUHZDT1VfdWxaQ1FKLVF2QXI4clJRdkJNNTN6QUJZS3FWVng5RVNlalczY3JsT2l2QUh5eUlmc0p0cEk4cW4yOWhiS0ktd3NFcVkzOGh5RlhkOXR3Qy1tY05IQ2ZCb3dwaFloRkpib1N3ZjlWTWJIQkVIVzE5R3JmS0k2Vl8tbA?oc=5",
+        "published": "Mon, 09 Nov 2026 14:00:44 GMT",
+        "summary": "أبرز الأسهم الرابحة والخاسرة في السوق السعودية&nbsp;&nbsp;CNN الاقتصادية",
+        "source": "CNN الاقتصادية",
+        "t": "أبرز الأسهم الرابحة والخاسرة في السوق السعودية - CNN الاقتصادية",
+        "u": "https://news.google.com/rss/articles/CBMirANBVV95cUxNTFRzQ0Fjcmp0SkZsVVRxYms3cVNNWGNxcTdGdGJDUlE0SkJRSVhrN0ZoeURJYVVhNTJ1aVFmR1BMUEpXM2psbWtIQVBfZ0xyU0FnRmVQZDh3eFRhNXdjY2tRd3JCb1BpeTZGcElkazZVNHItUVh3MWxaY2UzUjFzLWdLck9UTkJmQ2JsQk1rOUNXNG9iMEdjcEltTTRmNThTSGFOaWRSc2ZHOFktWGFNRTJXT2cyUk9mNUFkdEFiWDlqYkx3VENZZk9vZUxyVzA3aS0xeGlQY3BLRmJ5aWlCblBzc2lzM2Q1YW9xZkhKRjVZdlFYUHgxcTVJQ2lKdjBNT2cwWDN4WVZNUjRVRURoOE9wR0duTHQtejNyREpCNnoydGtQaXg2a2ZFdklyUHZDT1VfdWxaQ1FKLVF2QXI4clJRdkJNNTN6QUJZS3FWVng5RVNlalczY3JsT2l2QUh5eUlmc0p0cEk4cW4yOWhiS0ktd3NFcVkzOGh5RlhkOXR3Qy1tY05IQ2ZCb3dwaFloRkpib1N3ZjlWTWJIQkVIVzE5R3JmS0k2Vl8tbA?oc=5",
+        "s": "CNN الاقتصادية",
+        "d": "Mon, 09 Nov 2026 14:00:44 GMT",
         "symbols": []
       }
     ],
@@ -2706,15 +2674,15 @@
         "symbols": []
       },
       {
-        "title": "مؤشر سوق الأسهم السعودية يغلق مرتفعًا عند مستوى 10168 نقطة - جريدة المدينة",
-        "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOdVdveExIRC0yb2lHN0JtRUdabXN0ejVadzllcDVtYkNXb3h5MFM2SlpGZjQ3RGVTdDhodnZrZG1BbE9NTng5eFZkNk02STBoUUdHQ2l1RGxLX1FacldVMFpLcTVBYUtnSy1yeThxalU0d0EwMXlIMENSUlZxSHJUbmtHV2U5VXVGek4yU2FjUjUxa2gyX1pMTldNa3NfWHZsSUhoSE5SQ3NLMEpTbF9RYlVYTzcwejVoYnlFMFkxVUpVU01TWGZFLWVoSlFCdnVYdWo0T3ZRRm5YV2hBSkZmTUIwMWRqc2ZGcDFnd0tXeDNsZE9vUnlTOFAwRHhyYm1INTV5WEF6a1lxeGVLYldqTDdmLVM4Z0NkQ2Z3OWlGaHRNckNJRFhqR0RvWFE0UDdSd3d4RHZKNFFjM3E5djRmMW5wb01pN0oyS0tubXQ4SkMxbWQ2R0ctWmx1WlI5RzM0NTFheWxtVjhobmp1bHJuOW50M1IwZVVmYl9jcEQ5MWNCZWcyRU5aTDhnajYweUZFUGZOV1ltRUtaNklTZlp0LTlHYVl4Wllmc2tJdzdMTUJrZUFEekRUaDE3dVU5RFh6d0QwSG9NdUo5WVA3bWo0bm93NTNHOGd6elRSUVhfVjFjWTItQzRLMl84Vm1nc1Vm0gFXQVVfeXFMTVd2blVKMUJxWm5FQ3BzZzdQd210VUZoUlBFQ2pYdEhLQU5wUVNGZGlrMTZfbG83YzRveXJXbktOc09rLTcyMnh2S2psWlhzdjZKeWJHc1Zj?oc=5",
-        "published": "Tue, 10 Nov 2026 14:12:00 GMT",
-        "summary": "مؤشر سوق الأسهم السعودية يغلق مرتفعًا عند مستوى 10168 نقطة&nbsp;&nbsp;جريدة المدينة",
-        "source": "جريدة المدينة",
-        "t": "مؤشر سوق الأسهم السعودية يغلق مرتفعًا عند مستوى 10168 نقطة - جريدة المدينة",
-        "u": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOdVdveExIRC0yb2lHN0JtRUdabXN0ejVadzllcDVtYkNXb3h5MFM2SlpGZjQ3RGVTdDhodnZrZG1BbE9NTng5eFZkNk02STBoUUdHQ2l1RGxLX1FacldVMFpLcTVBYUtnSy1yeThxalU0d0EwMXlIMENSUlZxSHJUbmtHV2U5VXVGek4yU2FjUjUxa2gyX1pMTldNa3NfWHZsSUhoSE5SQ3NLMEpTbF9RYlVYTzcwejVoYnlFMFkxVUpVU01TWGZFLWVoSlFCdnVYdWo0T3ZRRm5YV2hBSkZmTUIwMWRqc2ZGcDFnd0tXeDNsZE9vUnlTOFAwRHhyYm1INTV5WEF6a1lxeGVLYldqTDdmLVM4Z0NkQ2Z3OWlGaHRNckNJRFhqR0RvWFE0UDdSd3d4RHZKNFFjM3E5djRmMW5wb01pN0oyS0tubXQ4SkMxbWQ2R0ctWmx1WlI5RzM0NTFheWxtVjhobmp1bHJuOW50M1IwZVVmYl9jcEQ5MWNCZWcyRU5aTDhnajYweUZFUGZOV1ltRUtaNklTZlp0LTlHYVl4Wllmc2tJdzdMTUJrZUFEekRUaDE3dVU5RFh6d0QwSG9NdUo5WVA3bWo0bm93NTNHOGd6elRSUVhfVjFjWTItQzRLMl84Vm1nc1Vm0gFXQVVfeXFMTVd2blVKMUJxWm5FQ3BzZzdQd210VUZoUlBFQ2pYdEhLQU5wUVNGZGlrMTZfbG83YzRveXJXbktOc09rLTcyMnh2S2psWlhzdjZKeWJHc1Zj?oc=5",
-        "s": "جريدة المدينة",
-        "d": "Tue, 10 Nov 2026 14:12:00 GMT",
+        "title": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع - الشرق الأوسط",
+        "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNdFhWdkFOVlZqZjNzRDUxT2hFajFXa0RBWGVta3QtVHU4UndWdHV4LXB5czJYMnc2SFBnQ0ZHd29yMTctcGExS2hNenl6b3llQU1wVkEybTZEZTVVODJ1S2ZJbWJuX3dkc2pXNVJRQmN0cVNKckZHSHhEbnJmcTA3Y3dEZ2ZGRDk2cHE5U1VEMHk4S1ZMd1Vua2JRcVBlZ1dmOUYyMDRQclQ1d3cyS1BFU1pnX0dfZnFQWWtxWm11RjRNR2hQcVJpMDUyY1B6M3ZrbVM1WGY3TVlPZkRfMGlsU0tkYVFhYl9yMUFzTlhhdUlJeEZveEpJZkdYYlkzT3dSRTVVcTdRYzBOUGRXRmRBYUJOdGVmS1d4MWtJSHJMNmMzM0ZtalFRX081SjZZeXROS0dNY25EazBSU01QaFFoNDhYeUREUjhkNFVmNmhaWjM5ZXJ2dG1Cc19Fd0VfajFFSVUyZklBLVNQdXdIeHRnUTBLR3VhYTRmWThWVEdocm5vclFSWWE1NHh1QkhZSzI5b2VPRi1GOV9ZQWtOY2RTaDhNMlkzRGF0dDlvcENMdGZFODF6MUUyTnVPZkNKNGwzRW83eEhFZFJNUFB2aHZDTThn?oc=5",
+        "published": "Tue, 10 Nov 2026 13:23:00 GMT",
+        "summary": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع&nbsp;&nbsp;الشرق الأوسط",
+        "source": "الشرق الأوسط",
+        "t": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع - الشرق الأوسط",
+        "u": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNdFhWdkFOVlZqZjNzRDUxT2hFajFXa0RBWGVta3QtVHU4UndWdHV4LXB5czJYMnc2SFBnQ0ZHd29yMTctcGExS2hNenl6b3llQU1wVkEybTZEZTVVODJ1S2ZJbWJuX3dkc2pXNVJRQmN0cVNKckZHSHhEbnJmcTA3Y3dEZ2ZGRDk2cHE5U1VEMHk4S1ZMd1Vua2JRcVBlZ1dmOUYyMDRQclQ1d3cyS1BFU1pnX0dfZnFQWWtxWm11RjRNR2hQcVJpMDUyY1B6M3ZrbVM1WGY3TVlPZkRfMGlsU0tkYVFhYl9yMUFzTlhhdUlJeEZveEpJZkdYYlkzT3dSRTVVcTdRYzBOUGRXRmRBYUJOdGVmS1d4MWtJSHJMNmMzM0ZtalFRX081SjZZeXROS0dNY25EazBSU01QaFFoNDhYeUREUjhkNFVmNmhaWjM5ZXJ2dG1Cc19Fd0VfajFFSVUyZklBLVNQdXdIeHRnUTBLR3VhYTRmWThWVEdocm5vclFSWWE1NHh1QkhZSzI5b2VPRi1GOV9ZQWtOY2RTaDhNMlkzRGF0dDlvcENMdGZFODF6MUUyTnVPZkNKNGwzRW83eEhFZFJNUFB2aHZDTThn?oc=5",
+        "s": "الشرق الأوسط",
+        "d": "Tue, 10 Nov 2026 13:23:00 GMT",
         "symbols": []
       },
       {
@@ -2730,87 +2698,15 @@
         "symbols": []
       },
       {
-        "title": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع - الشرق الأوسط",
-        "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNdFhWdkFOVlZqZjNzRDUxT2hFajFXa0RBWGVta3QtVHU4UndWdHV4LXB5czJYMnc2SFBnQ0ZHd29yMTctcGExS2hNenl6b3llQU1wVkEybTZEZTVVODJ1S2ZJbWJuX3dkc2pXNVJRQmN0cVNKckZHSHhEbnJmcTA3Y3dEZ2ZGRDk2cHE5U1VEMHk4S1ZMd1Vua2JRcVBlZ1dmOUYyMDRQclQ1d3cyS1BFU1pnX0dfZnFQWWtxWm11RjRNR2hQcVJpMDUyY1B6M3ZrbVM1WGY3TVlPZkRfMGlsU0tkYVFhYl9yMUFzTlhhdUlJeEZveEpJZkdYYlkzT3dSRTVVcTdRYzBOUGRXRmRBYUJOdGVmS1d4MWtJSHJMNmMzM0ZtalFRX081SjZZeXROS0dNY25EazBSU01QaFFoNDhYeUREUjhkNFVmNmhaWjM5ZXJ2dG1Cc19Fd0VfajFFSVUyZklBLVNQdXdIeHRnUTBLR3VhYTRmWThWVEdocm5vclFSWWE1NHh1QkhZSzI5b2VPRi1GOV9ZQWtOY2RTaDhNMlkzRGF0dDlvcENMdGZFODF6MUUyTnVPZkNKNGwzRW83eEhFZFJNUFB2aHZDTThn?oc=5",
-        "published": "Tue, 10 Nov 2026 13:23:00 GMT",
-        "summary": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع&nbsp;&nbsp;الشرق الأوسط",
-        "source": "الشرق الأوسط",
-        "t": "السوق السعودية ترتفع 0.6 % وتسجل أعلى إغلاق في 3 أسابيع - الشرق الأوسط",
-        "u": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNdFhWdkFOVlZqZjNzRDUxT2hFajFXa0RBWGVta3QtVHU4UndWdHV4LXB5czJYMnc2SFBnQ0ZHd29yMTctcGExS2hNenl6b3llQU1wVkEybTZEZTVVODJ1S2ZJbWJuX3dkc2pXNVJRQmN0cVNKckZHSHhEbnJmcTA3Y3dEZ2ZGRDk2cHE5U1VEMHk4S1ZMd1Vua2JRcVBlZ1dmOUYyMDRQclQ1d3cyS1BFU1pnX0dfZnFQWWtxWm11RjRNR2hQcVJpMDUyY1B6M3ZrbVM1WGY3TVlPZkRfMGlsU0tkYVFhYl9yMUFzTlhhdUlJeEZveEpJZkdYYlkzT3dSRTVVcTdRYzBOUGRXRmRBYUJOdGVmS1d4MWtJSHJMNmMzM0ZtalFRX081SjZZeXROS0dNY25EazBSU01QaFFoNDhYeUREUjhkNFVmNmhaWjM5ZXJ2dG1Cc19Fd0VfajFFSVUyZklBLVNQdXdIeHRnUTBLR3VhYTRmWThWVEdocm5vclFSWWE1NHh1QkhZSzI5b2VPRi1GOV9ZQWtOY2RTaDhNMlkzRGF0dDlvcENMdGZFODF6MUUyTnVPZkNKNGwzRW83eEhFZFJNUFB2aHZDTThn?oc=5",
-        "s": "الشرق الأوسط",
-        "d": "Tue, 10 Nov 2026 13:23:00 GMT",
-        "symbols": []
-      },
-      {
-        "title": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال - صحيفة مال",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWo5Y1ZiNHBEVHBWRmdKZnRxRUFsS3EwdnFsaXVMNVYzWmN5a0N3TGZURkJBWGM5Zlo4V3p4NVJkc3lUWlkteFJxX3hNeW43aVZRd2ltM1F0RDdXX3hrcmlIdlVnbXJ3QllzT0FQN2UzakthaGF3WlBTRFJPdklwRDFVM3Ayc3hXZW1ibW5NWUo1OFZyN3MxOFNLNEVHRFpRbVFteHduaV9EdWVyWGpvSUdVdDhlUzg3UUpRTGxkT3RvM3BKVWozbXVFSks2ZTQ?oc=5",
-        "published": "Tue, 10 Nov 2026 12:38:49 GMT",
-        "summary": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال&nbsp;&nbsp;صحيفة مال",
-        "source": "صحيفة مال",
-        "t": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال - صحيفة مال",
-        "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWo5Y1ZiNHBEVHBWRmdKZnRxRUFsS3EwdnFsaXVMNVYzWmN5a0N3TGZURkJBWGM5Zlo4V3p4NVJkc3lUWlkteFJxX3hNeW43aVZRd2ltM1F0RDdXX3hrcmlIdlVnbXJ3QllzT0FQN2UzakthaGF3WlBTRFJPdklwRDFVM3Ayc3hXZW1ibW5NWUo1OFZyN3MxOFNLNEVHRFpRbVFteHduaV9EdWVyWGpvSUdVdDhlUzg3UUpRTGxkT3RvM3BKVWozbXVFSks2ZTQ?oc=5",
-        "s": "صحيفة مال",
-        "d": "Tue, 10 Nov 2026 12:38:49 GMT",
-        "symbols": []
-      },
-      {
-        "title": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61% - Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYXZQRUpLaF9iV0JEMmJIaW1vc2dqMFZiblJaZ0VMb0ZONE1sTWtFYUVnQmdTVzRiSUtDd0RKeFZmU1p3dWt3WGMxSWlhVTdoZEliUXcwcmphNzhlWmFQZElzY09JemRVVGowSFhENzE?oc=5",
-        "published": "Tue, 10 Nov 2026 12:45:00 GMT",
-        "summary": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61%&nbsp;&nbsp;Investing.com",
-        "source": "Investing.com",
-        "t": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61% - Investing.com",
-        "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYXZQRUpLaF9iV0JEMmJIaW1vc2dqMFZiblJaZ0VMb0ZONE1sTWtFYUVnQmdTVzRiSUtDd0RKeFZmU1p3dWt3WGMxSWlhVTdoZEliUXcwcmphNzhlWmFQZElzY09JemRVVGowSFhENzE?oc=5",
-        "s": "Investing.com",
-        "d": "Tue, 10 Nov 2026 12:45:00 GMT",
-        "symbols": []
-      },
-      {
-        "title": "السوق السعودي: أسهم 117 شركة شهدت تداولات أعلى من متوسط 3 أشهر - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZQ3pScVZKdjNxQUZLRnJUY0taWWIxUmdXSlZtc2JUb1dJUWYzYUJxWTBHMFl5bVdKaVdUcE1JVFJTX0YwMF8tNjJSbkhEOGhLYzRMdzhHNlR1NHlCbzJXcXR1cjhpN2JVNkE?oc=5",
-        "published": "Sun, 08 Nov 2026 20:15:22 GMT",
-        "summary": "السوق السعودي: أسهم 117 شركة شهدت تداولات أعلى من متوسط 3 أشهر&nbsp;&nbsp;ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "t": "السوق السعودي: أسهم 117 شركة شهدت تداولات أعلى من متوسط 3 أشهر - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZQ3pScVZKdjNxQUZLRnJUY0taWWIxUmdXSlZtc2JUb1dJUWYzYUJxWTBHMFl5bVdKaVdUcE1JVFJTX0YwMF8tNjJSbkhEOGhLYzRMdzhHNlR1NHlCbzJXcXR1cjhpN2JVNkE?oc=5",
-        "s": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-        "d": "Sun, 08 Nov 2026 20:15:22 GMT",
-        "symbols": []
-      },
-      {
-        "title": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل - صحيفة مال",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUFXNmlKT0l4b3dBX3pwYWxxbmozY1hrd2s1OXdKTnlsa0Q3QWtqY1B6YkZ6dHJyc3pPc2pVcE84SnB4VmZVM0cyQmVtU0hFT19pRWs0NXY4SS10Vzg0NUhpNVVZeWFxQ3B0dVFidXVfV1E0M0NzcTlwT0IzN0xWbTFaOEhXM3p6QnRKV1hMUHdvVmFMaXFLUmRjczRCM1pRanBIUXRhYVhrSTNxVjFHOEVldk4wbW9jcVBHN2xrQjhuREZISXNDckdHNWpPY3ZGSnZHLWxPci1zZ3luaGZJMURzOA?oc=5",
-        "published": "Tue, 10 Nov 2026 15:14:12 GMT",
-        "summary": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل&nbsp;&nbsp;صحيفة مال",
-        "source": "صحيفة مال",
-        "t": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل - صحيفة مال",
-        "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUFXNmlKT0l4b3dBX3pwYWxxbmozY1hrd2s1OXdKTnlsa0Q3QWtqY1B6YkZ6dHJyc3pPc2pVcE84SnB4VmZVM0cyQmVtU0hFT19pRWs0NXY4SS10Vzg0NUhpNVVZeWFxQ3B0dVFidXVfV1E0M0NzcTlwT0IzN0xWbTFaOEhXM3p6QnRKV1hMUHdvVmFMaXFLUmRjczRCM1pRanBIUXRhYVhrSTNxVjFHOEVldk4wbW9jcVBHN2xrQjhuREZISXNDckdHNWpPY3ZGSnZHLWxPci1zZ3luaGZJMURzOA?oc=5",
-        "s": "صحيفة مال",
-        "d": "Tue, 10 Nov 2026 15:14:12 GMT",
-        "symbols": []
-      },
-      {
-        "title": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات - معلومات مباشر",
-        "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWW93MzVRcS1LVDlWa3R5SXlKclRCUmhVdmRmank3Z0RVVUJ5aVRwbVlBc283U3BDMG9kYUEtOS11ZjUxbUtiNURsRnZrTUJ3U09ZLTY4ZG1HaDJpQkFuTUw0VlZISGhjc0dYSk02N0FDeWl5Nkx4bXFOT29pQkw4MU5STHJwb3I1WE9EQjRDVzhhT3JYT2pxTEIwVzBhb1lQMmd4RkFtblFSaVQ0Qk96clNMcU9tcGdlc3RwS25TVkVxTmM0M2JmVzRXYU11ZVE2ejhMazlXNloxcE5BR2VrZ29nUFY2cll1QWlfVTZIMzVVNWhzREQwTjNaV1Axcy03d21rVEZRM2x1UGhxSHoySnRUanhFenNNQmtubklFdnNaTk9TTm9ITVRfQUtqeExVQ2xHVER1bTVyZkY4RndNblJtVWZxUjZidWdoa1I0X3FMMkhXeWxLRzJ0N2dBUXpkaVA2SXA3b29xMmdDUGZPRGpaOVppQ0FfdlhKYlpSMnk1eGVoLVRfZFVxSi1uczEwQ08wQlpweTZtenJMdmdobWhocXFxOTJoWU5jcEpzZEtDOW1RVXBlN2g0X1hWYXRHbDRnY1BvYW85LURpVHdKUlJ5NA?oc=5",
-        "published": "Tue, 10 Nov 2026 12:25:42 GMT",
-        "summary": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات&nbsp;&nbsp;معلومات مباشر",
-        "source": "معلومات مباشر",
-        "t": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات - معلومات مباشر",
-        "u": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWW93MzVRcS1LVDlWa3R5SXlKclRCUmhVdmRmank3Z0RVVUJ5aVRwbVlBc283U3BDMG9kYUEtOS11ZjUxbUtiNURsRnZrTUJ3U09ZLTY4ZG1HaDJpQkFuTUw0VlZISGhjc0dYSk02N0FDeWl5Nkx4bXFOT29pQkw4MU5STHJwb3I1WE9EQjRDVzhhT3JYT2pxTEIwVzBhb1lQMmd4RkFtblFSaVQ0Qk96clNMcU9tcGdlc3RwS25TVkVxTmM0M2JmVzRXYU11ZVE2ejhMazlXNloxcE5BR2VrZ29nUFY2cll1QWlfVTZIMzVVNWhzREQwTjNaV1Axcy03d21rVEZRM2x1UGhxSHoySnRUanhFenNNQmtubklFdnNaTk9TTm9ITVRfQUtqeExVQ2xHVER1bTVyZkY4RndNblJtVWZxUjZidWdoa1I0X3FMMkhXeWxLRzJ0N2dBUXpkaVA2SXA3b29xMmdDUGZPRGpaOVppQ0FfdlhKYlpSMnk1eGVoLVRfZFVxSi1uczEwQ08wQlpweTZtenJMdmdobWhocXFxOTJoWU5jcEpzZEtDOW1RVXBlN2g0X1hWYXRHbDRnY1BvYW85LURpVHdKUlJ5NA?oc=5",
-        "s": "معلومات مباشر",
-        "d": "Tue, 10 Nov 2026 12:25:42 GMT",
-        "symbols": []
-      },
-      {
-        "title": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026 - صحيفة مال",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWF0YnJOVUgzYWNiZFhhb2JtQkdmS29MMi1PaVVPNmplbkZBNGg2UlBPV1kyNHI5bVF1dmNkdWxkb0MwZngzOFpPYTlmdlNxa3k5bS1raEtrc1U3Uy1RNzYwVXJqNGdQUzBnRmZQMmxzUmI0ZUhMc3dLU2JXMWdCeFgxU2p1VHNtSGpxZWRvQXAyZXFkVmctdW4xSkJsMVR4cUZtU19pLW50S2tjT2l6cmc4blRVZl80a2VsNzY2UktCUEZHR29tNlExTzNMTmVjSENhekVtWEhMUjNzVTNLSUFmdGM?oc=5",
-        "published": "Tue, 10 Nov 2026 08:04:29 GMT",
-        "summary": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026&nbsp;&nbsp;صحيفة مال",
-        "source": "صحيفة مال",
-        "t": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026 - صحيفة مال",
-        "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWF0YnJOVUgzYWNiZFhhb2JtQkdmS29MMi1PaVVPNmplbkZBNGg2UlBPV1kyNHI5bVF1dmNkdWxkb0MwZngzOFpPYTlmdlNxa3k5bS1raEtrc1U3Uy1RNzYwVXJqNGdQUzBnRmZQMmxzUmI0ZUhMc3dLU2JXMWdCeFgxU2p1VHNtSGpxZWRvQXAyZXFkVmctdW4xSkJsMVR4cUZtU19pLW50S2tjT2l6cmc4blRVZl80a2VsNzY2UktCUEZHR29tNlExTzNMTmVjSENhekVtWEhMUjNzVTNLSUFmdGM?oc=5",
-        "s": "صحيفة مال",
-        "d": "Tue, 10 Nov 2026 08:04:29 GMT",
+        "title": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال - أخبار 24",
+        "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdHTU1SUnlVVnp3VU9IWFBBUG5CczF3Ylg2T0ZpUFlmRUh5bEFVTXpMQmlyNk5DN0JZS1JITzFLalhsWGdYSWQ0QUo3WVkwbnVpQTBQYWlieVdhWjRkcnlvZ2NUQUtVMzl2MzRhcmtoWUo1UHFpOXBTSVJkelA2ajBJeG9saF9Eenc3S2NnbXJhMGxkelR2b1JZdU8tNG9fYVpoeEZQdUNRRVFPY2Y3SWloc0xIZXgwVjQ5ajBmWlA0NFhMcmVpNW9KWlRQSmNIYXp2WU9VbnotelZFYnB5MFNmYTJQSnVZZkFEbEFiTG92dVBjQVVtNUhwX2JJajNNQjZwLVRzQnRVNWpwb2NreWhjODk2YUNsV0hpS1JoSWRfQ05tdzhaZnk3eEpLdDBkTGN3QnA3VEIxcklwT0xJRkxjSG9uTXZsWFl1bDlmV1dJY2p4OVNHb0V1NGJVejBERnBVamdyUEJzNW5jMU1vb2VXbVRteWdUV1JCYnZ5bEVCeU1IRldFOE1TVXQ0WlJnMUFPRGVqRzRLOExEV1d1SmpXZVlCVUF3a1BrV041YTZobk9BWVE?oc=5",
+        "published": "Tue, 10 Nov 2026 14:07:19 GMT",
+        "summary": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال&nbsp;&nbsp;أخبار 24",
+        "source": "أخبار 24",
+        "t": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال - أخبار 24",
+        "u": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdHTU1SUnlVVnp3VU9IWFBBUG5CczF3Ylg2T0ZpUFlmRUh5bEFVTXpMQmlyNk5DN0JZS1JITzFLalhsWGdYSWQ0QUo3WVkwbnVpQTBQYWlieVdhWjRkcnlvZ2NUQUtVMzl2MzRhcmtoWUo1UHFpOXBTSVJkelA2ajBJeG9saF9Eenc3S2NnbXJhMGxkelR2b1JZdU8tNG9fYVpoeEZQdUNRRVFPY2Y3SWloc0xIZXgwVjQ5ajBmWlA0NFhMcmVpNW9KWlRQSmNIYXp2WU9VbnotelZFYnB5MFNmYTJQSnVZZkFEbEFiTG92dVBjQVVtNUhwX2JJajNNQjZwLVRzQnRVNWpwb2NreWhjODk2YUNsV0hpS1JoSWRfQ05tdzhaZnk3eEpLdDBkTGN3QnA3VEIxcklwT0xJRkxjSG9uTXZsWFl1bDlmV1dJY2p4OVNHb0V1NGJVejBERnBVamdyUEJzNW5jMU1vb2VXbVRteWdUV1JCYnZ5bEVCeU1IRldFOE1TVXQ0WlJnMUFPRGVqRzRLOExEV1d1SmpXZVlCVUF3a1BrV041YTZobk9BWVE?oc=5",
+        "s": "أخبار 24",
+        "d": "Tue, 10 Nov 2026 14:07:19 GMT",
         "symbols": []
       },
       {
@@ -2826,27 +2722,15 @@
         "symbols": []
       },
       {
-        "title": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية - صحيفة مال",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUs3SjY2Qjk4d3VfMW9jQkpTXzJWdzBvTDVmZkNCNGRULWxxcTlFZEFZbURnVDk3MEZ2SEhrWU8zbldzSVpTREVSSHZLSkZETE1GdGpKc0FvUGpvZVRiSjhycGlUWnlxUmdWcm5RcjFhY2VjM0VzS2NXQkRUdndLbDBFNVpRMEV2cWpHS25vTWl2QUloakRmTnBQVng2MUE0SXN4NGF1aGJzS2IwN1dLcVJVOVVDU282WVc5NUdGemszbnJEamRvTVR3elhPZ2JvY1hLeEl6TWRKeWVPdElRVnJ5RQ?oc=5",
-        "published": "Tue, 10 Nov 2026 16:41:40 GMT",
-        "summary": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية&nbsp;&nbsp;صحيفة مال",
-        "source": "صحيفة مال",
-        "t": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية - صحيفة مال",
-        "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUs3SjY2Qjk4d3VfMW9jQkpTXzJWdzBvTDVmZkNCNGRULWxxcTlFZEFZbURnVDk3MEZ2SEhrWU8zbldzSVpTREVSSHZLSkZETE1GdGpKc0FvUGpvZVRiSjhycGlUWnlxUmdWcm5RcjFhY2VjM0VzS2NXQkRUdndLbDBFNVpRMEV2cWpHS25vTWl2QUloakRmTnBQVng2MUE0SXN4NGF1aGJzS2IwN1dLcVJVOVVDU282WVc5NUdGemszbnJEamRvTVR3elhPZ2JvY1hLeEl6TWRKeWVPdElRVnJ5RQ?oc=5",
-        "s": "صحيفة مال",
-        "d": "Tue, 10 Nov 2026 16:41:40 GMT",
-        "symbols": []
-      },
-      {
-        "title": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال - أخبار 24",
-        "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdHTU1SUnlVVnp3VU9IWFBBUG5CczF3Ylg2T0ZpUFlmRUh5bEFVTXpMQmlyNk5DN0JZS1JITzFLalhsWGdYSWQ0QUo3WVkwbnVpQTBQYWlieVdhWjRkcnlvZ2NUQUtVMzl2MzRhcmtoWUo1UHFpOXBTSVJkelA2ajBJeG9saF9Eenc3S2NnbXJhMGxkelR2b1JZdU8tNG9fYVpoeEZQdUNRRVFPY2Y3SWloc0xIZXgwVjQ5ajBmWlA0NFhMcmVpNW9KWlRQSmNIYXp2WU9VbnotelZFYnB5MFNmYTJQSnVZZkFEbEFiTG92dVBjQVVtNUhwX2JJajNNQjZwLVRzQnRVNWpwb2NreWhjODk2YUNsV0hpS1JoSWRfQ05tdzhaZnk3eEpLdDBkTGN3QnA3VEIxcklwT0xJRkxjSG9uTXZsWFl1bDlmV1dJY2p4OVNHb0V1NGJVejBERnBVamdyUEJzNW5jMU1vb2VXbVRteWdUV1JCYnZ5bEVCeU1IRldFOE1TVXQ0WlJnMUFPRGVqRzRLOExEV1d1SmpXZVlCVUF3a1BrV041YTZobk9BWVE?oc=5",
-        "published": "Tue, 10 Nov 2026 14:07:19 GMT",
-        "summary": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال&nbsp;&nbsp;أخبار 24",
-        "source": "أخبار 24",
-        "t": "سوق الأسهم يغلق مرتفعًا بتداولات 4.9 مليارات ريال - أخبار 24",
-        "u": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdmdHTU1SUnlVVnp3VU9IWFBBUG5CczF3Ylg2T0ZpUFlmRUh5bEFVTXpMQmlyNk5DN0JZS1JITzFLalhsWGdYSWQ0QUo3WVkwbnVpQTBQYWlieVdhWjRkcnlvZ2NUQUtVMzl2MzRhcmtoWUo1UHFpOXBTSVJkelA2ajBJeG9saF9Eenc3S2NnbXJhMGxkelR2b1JZdU8tNG9fYVpoeEZQdUNRRVFPY2Y3SWloc0xIZXgwVjQ5ajBmWlA0NFhMcmVpNW9KWlRQSmNIYXp2WU9VbnotelZFYnB5MFNmYTJQSnVZZkFEbEFiTG92dVBjQVVtNUhwX2JJajNNQjZwLVRzQnRVNWpwb2NreWhjODk2YUNsV0hpS1JoSWRfQ05tdzhaZnk3eEpLdDBkTGN3QnA3VEIxcklwT0xJRkxjSG9uTXZsWFl1bDlmV1dJY2p4OVNHb0V1NGJVejBERnBVamdyUEJzNW5jMU1vb2VXbVRteWdUV1JCYnZ5bEVCeU1IRldFOE1TVXQ0WlJnMUFPRGVqRzRLOExEV1d1SmpXZVlCVUF3a1BrV041YTZobk9BWVE?oc=5",
-        "s": "أخبار 24",
-        "d": "Tue, 10 Nov 2026 14:07:19 GMT",
+        "title": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61% - Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYXZQRUpLaF9iV0JEMmJIaW1vc2dqMFZiblJaZ0VMb0ZONE1sTWtFYUVnQmdTVzRiSUtDd0RKeFZmU1p3dWt3WGMxSWlhVTdoZEliUXcwcmphNzhlWmFQZElzY09JemRVVGowSFhENzE?oc=5",
+        "published": "Tue, 10 Nov 2026 12:45:00 GMT",
+        "summary": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61%&nbsp;&nbsp;Investing.com",
+        "source": "Investing.com",
+        "t": "مؤشرات الأسهم في السعوديه ارتفعت عند نهاية جلسة اليوم؛ المؤشر العام السعودي صعد نحو 0.61% - Investing.com",
+        "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYXZQRUpLaF9iV0JEMmJIaW1vc2dqMFZiblJaZ0VMb0ZONE1sTWtFYUVnQmdTVzRiSUtDd0RKeFZmU1p3dWt3WGMxSWlhVTdoZEliUXcwcmphNzhlWmFQZElzY09JemRVVGowSFhENzE?oc=5",
+        "s": "Investing.com",
+        "d": "Tue, 10 Nov 2026 12:45:00 GMT",
         "symbols": []
       },
       {
@@ -2862,6 +2746,66 @@
         "symbols": []
       },
       {
+        "title": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال - صحيفة مال",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWo5Y1ZiNHBEVHBWRmdKZnRxRUFsS3EwdnFsaXVMNVYzWmN5a0N3TGZURkJBWGM5Zlo4V3p4NVJkc3lUWlkteFJxX3hNeW43aVZRd2ltM1F0RDdXX3hrcmlIdlVnbXJ3QllzT0FQN2UzakthaGF3WlBTRFJPdklwRDFVM3Ayc3hXZW1ibW5NWUo1OFZyN3MxOFNLNEVHRFpRbVFteHduaV9EdWVyWGpvSUdVdDhlUzg3UUpRTGxkT3RvM3BKVWozbXVFSks2ZTQ?oc=5",
+        "published": "Tue, 10 Nov 2026 12:38:49 GMT",
+        "summary": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال&nbsp;&nbsp;صحيفة مال",
+        "source": "صحيفة مال",
+        "t": "المزاد.. ارتفاع أسهم 107 شركة في \"تاسي\" وانخفاض 89 أخرى وتداول 11.2 مليون سهم بـ 320 مليون ريال - صحيفة مال",
+        "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWo5Y1ZiNHBEVHBWRmdKZnRxRUFsS3EwdnFsaXVMNVYzWmN5a0N3TGZURkJBWGM5Zlo4V3p4NVJkc3lUWlkteFJxX3hNeW43aVZRd2ltM1F0RDdXX3hrcmlIdlVnbXJ3QllzT0FQN2UzakthaGF3WlBTRFJPdklwRDFVM3Ayc3hXZW1ibW5NWUo1OFZyN3MxOFNLNEVHRFpRbVFteHduaV9EdWVyWGpvSUdVdDhlUzg3UUpRTGxkT3RvM3BKVWozbXVFSks2ZTQ?oc=5",
+        "s": "صحيفة مال",
+        "d": "Tue, 10 Nov 2026 12:38:49 GMT",
+        "symbols": []
+      },
+      {
+        "title": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026 - صحيفة مال",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWF0YnJOVUgzYWNiZFhhb2JtQkdmS29MMi1PaVVPNmplbkZBNGg2UlBPV1kyNHI5bVF1dmNkdWxkb0MwZngzOFpPYTlmdlNxa3k5bS1raEtrc1U3Uy1RNzYwVXJqNGdQUzBnRmZQMmxzUmI0ZUhMc3dLU2JXMWdCeFgxU2p1VHNtSGpxZWRvQXAyZXFkVmctdW4xSkJsMVR4cUZtU19pLW50S2tjT2l6cmc4blRVZl80a2VsNzY2UktCUEZHR29tNlExTzNMTmVjSENhekVtWEhMUjNzVTNLSUFmdGM?oc=5",
+        "published": "Tue, 10 Nov 2026 08:04:29 GMT",
+        "summary": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026&nbsp;&nbsp;صحيفة مال",
+        "source": "صحيفة مال",
+        "t": "رغم نمو الإيرادات .. أرباح قطاع الخدمات المالية في سوق الأسهم السعودية تتراجع 55.9% خلال الربع الثالث 2026 - صحيفة مال",
+        "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWF0YnJOVUgzYWNiZFhhb2JtQkdmS29MMi1PaVVPNmplbkZBNGg2UlBPV1kyNHI5bVF1dmNkdWxkb0MwZngzOFpPYTlmdlNxa3k5bS1raEtrc1U3Uy1RNzYwVXJqNGdQUzBnRmZQMmxzUmI0ZUhMc3dLU2JXMWdCeFgxU2p1VHNtSGpxZWRvQXAyZXFkVmctdW4xSkJsMVR4cUZtU19pLW50S2tjT2l6cmc4blRVZl80a2VsNzY2UktCUEZHR29tNlExTzNMTmVjSENhekVtWEhMUjNzVTNLSUFmdGM?oc=5",
+        "s": "صحيفة مال",
+        "d": "Tue, 10 Nov 2026 08:04:29 GMT",
+        "symbols": []
+      },
+      {
+        "title": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل - صحيفة مال",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUFXNmlKT0l4b3dBX3pwYWxxbmozY1hrd2s1OXdKTnlsa0Q3QWtqY1B6YkZ6dHJyc3pPc2pVcE84SnB4VmZVM0cyQmVtU0hFT19pRWs0NXY4SS10Vzg0NUhpNVVZeWFxQ3B0dVFidXVfV1E0M0NzcTlwT0IzN0xWbTFaOEhXM3p6QnRKV1hMUHdvVmFMaXFLUmRjczRCM1pRanBIUXRhYVhrSTNxVjFHOEVldk4wbW9jcVBHN2xrQjhuREZISXNDckdHNWpPY3ZGSnZHLWxPci1zZ3luaGZJMURzOA?oc=5",
+        "published": "Tue, 10 Nov 2026 15:14:12 GMT",
+        "summary": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل&nbsp;&nbsp;صحيفة مال",
+        "source": "صحيفة مال",
+        "t": "15 تغيير في ملكية كبار الملاك في سوق الاسهم السعودية.. تعرف على التفاصيل - صحيفة مال",
+        "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUFXNmlKT0l4b3dBX3pwYWxxbmozY1hrd2s1OXdKTnlsa0Q3QWtqY1B6YkZ6dHJyc3pPc2pVcE84SnB4VmZVM0cyQmVtU0hFT19pRWs0NXY4SS10Vzg0NUhpNVVZeWFxQ3B0dVFidXVfV1E0M0NzcTlwT0IzN0xWbTFaOEhXM3p6QnRKV1hMUHdvVmFMaXFLUmRjczRCM1pRanBIUXRhYVhrSTNxVjFHOEVldk4wbW9jcVBHN2xrQjhuREZISXNDckdHNWpPY3ZGSnZHLWxPci1zZ3luaGZJMURzOA?oc=5",
+        "s": "صحيفة مال",
+        "d": "Tue, 10 Nov 2026 15:14:12 GMT",
+        "symbols": []
+      },
+      {
+        "title": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية - صحيفة مال",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUs3SjY2Qjk4d3VfMW9jQkpTXzJWdzBvTDVmZkNCNGRULWxxcTlFZEFZbURnVDk3MEZ2SEhrWU8zbldzSVpTREVSSHZLSkZETE1GdGpKc0FvUGpvZVRiSjhycGlUWnlxUmdWcm5RcjFhY2VjM0VzS2NXQkRUdndLbDBFNVpRMEV2cWpHS25vTWl2QUloakRmTnBQVng2MUE0SXN4NGF1aGJzS2IwN1dLcVJVOVVDU282WVc5NUdGemszbnJEamRvTVR3elhPZ2JvY1hLeEl6TWRKeWVPdElRVnJ5RQ?oc=5",
+        "published": "Tue, 10 Nov 2026 16:41:40 GMT",
+        "summary": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية&nbsp;&nbsp;صحيفة مال",
+        "source": "صحيفة مال",
+        "t": "هيئة السوق المالية توافق على طلب \"الكابلات\" لزيادة رأسمالها عن طريق طرح أسهم حقوق أولوية - صحيفة مال",
+        "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUs3SjY2Qjk4d3VfMW9jQkpTXzJWdzBvTDVmZkNCNGRULWxxcTlFZEFZbURnVDk3MEZ2SEhrWU8zbldzSVpTREVSSHZLSkZETE1GdGpKc0FvUGpvZVRiSjhycGlUWnlxUmdWcm5RcjFhY2VjM0VzS2NXQkRUdndLbDBFNVpRMEV2cWpHS25vTWl2QUloakRmTnBQVng2MUE0SXN4NGF1aGJzS2IwN1dLcVJVOVVDU282WVc5NUdGemszbnJEamRvTVR3elhPZ2JvY1hLeEl6TWRKeWVPdElRVnJ5RQ?oc=5",
+        "s": "صحيفة مال",
+        "d": "Tue, 10 Nov 2026 16:41:40 GMT",
+        "symbols": []
+      },
+      {
+        "title": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات - معلومات مباشر",
+        "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWW93MzVRcS1LVDlWa3R5SXlKclRCUmhVdmRmank3Z0RVVUJ5aVRwbVlBc283U3BDMG9kYUEtOS11ZjUxbUtiNURsRnZrTUJ3U09ZLTY4ZG1HaDJpQkFuTUw0VlZISGhjc0dYSk02N0FDeWl5Nkx4bXFOT29pQkw4MU5STHJwb3I1WE9EQjRDVzhhT3JYT2pxTEIwVzBhb1lQMmd4RkFtblFSaVQ0Qk96clNMcU9tcGdlc3RwS25TVkVxTmM0M2JmVzRXYU11ZVE2ejhMazlXNloxcE5BR2VrZ29nUFY2cll1QWlfVTZIMzVVNWhzREQwTjNaV1Axcy03d21rVEZRM2x1UGhxSHoySnRUanhFenNNQmtubklFdnNaTk9TTm9ITVRfQUtqeExVQ2xHVER1bTVyZkY4RndNblJtVWZxUjZidWdoa1I0X3FMMkhXeWxLRzJ0N2dBUXpkaVA2SXA3b29xMmdDUGZPRGpaOVppQ0FfdlhKYlpSMnk1eGVoLVRfZFVxSi1uczEwQ08wQlpweTZtenJMdmdobWhocXFxOTJoWU5jcEpzZEtDOW1RVXBlN2g0X1hWYXRHbDRnY1BvYW85LURpVHdKUlJ5NA?oc=5",
+        "published": "Tue, 10 Nov 2026 12:25:42 GMT",
+        "summary": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات&nbsp;&nbsp;معلومات مباشر",
+        "source": "معلومات مباشر",
+        "t": "\"تاسي\" ينهي جلسة الثلاثاء مرتفعاً 0.61% بدعم البنوك والاتصالات - معلومات مباشر",
+        "u": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxOWW93MzVRcS1LVDlWa3R5SXlKclRCUmhVdmRmank3Z0RVVUJ5aVRwbVlBc283U3BDMG9kYUEtOS11ZjUxbUtiNURsRnZrTUJ3U09ZLTY4ZG1HaDJpQkFuTUw0VlZISGhjc0dYSk02N0FDeWl5Nkx4bXFOT29pQkw4MU5STHJwb3I1WE9EQjRDVzhhT3JYT2pxTEIwVzBhb1lQMmd4RkFtblFSaVQ0Qk96clNMcU9tcGdlc3RwS25TVkVxTmM0M2JmVzRXYU11ZVE2ejhMazlXNloxcE5BR2VrZ29nUFY2cll1QWlfVTZIMzVVNWhzREQwTjNaV1Axcy03d21rVEZRM2x1UGhxSHoySnRUanhFenNNQmtubklFdnNaTk9TTm9ITVRfQUtqeExVQ2xHVER1bTVyZkY4RndNblJtVWZxUjZidWdoa1I0X3FMMkhXeWxLRzJ0N2dBUXpkaVA2SXA3b29xMmdDUGZPRGpaOVppQ0FfdlhKYlpSMnk1eGVoLVRfZFVxSi1uczEwQ08wQlpweTZtenJMdmdobWhocXFxOTJoWU5jcEpzZEtDOW1RVXBlN2g0X1hWYXRHbDRnY1BvYW85LURpVHdKUlJ5NA?oc=5",
+        "s": "معلومات مباشر",
+        "d": "Tue, 10 Nov 2026 12:25:42 GMT",
+        "symbols": []
+      },
+      {
         "title": "المصارف تقود \"تاسي\" إلى أعلى إغلاق خلال 3 أسابيع - اندبندنت عربية",
         "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNaVFYa1hzUzJSREhUaW9DV01LeS03dW1EbEhYeWlWWl9yU2IxeHFJRnVnRnBFWkZHT2pXMGczTDk2OXZCUm54emMzMUdfWEtEdU9zMFVkN2NhR0JFZGJOaUFxQncwLWc0QUJzN1J2YTB1ZnNPTGRNTmE1aHRjSnFGMUZOenltOFdaQjBIQ2M1WjNCQ290aHMzbzUyQ2syUy12eWx5ckswamthNFBZODU5WEFwdDN3a0h5eElZR2hmcjc4Q1p0SHk3eFhzUFRtYTNWX051STN4OGFzY0R6ZGxhWkUxQkYyZG1EaGluZDBFel9iV051aml0UGxJY0VoaTdEVGc5QXIzUFdzQ21NYm9QbGMtdnpNR1kxTmlaQ1ZPdzJFdnpWVUFTN00yNmxKQ0tOdGQ1ckdSTWpiUG85R3RDVW02d00xRWhBZENmSmdNeFU5eldJNFZvcVRweVVSMzM5dHZFc1JidENRV3ZhUU00ZkdOMkFQMV9yck9TeW14MHVUNjI2YWg5SFN2ZXByUXppVjZHelJ5WkRuTUF6ODVhQWY4NkFMME9aZzF3eUVGcVlKdzYybWpxSDhTcXpHVjRoc1lxZWQ0Wm1MaUE1MFQ2aktFOXlZSDU5bTkyLWp4WG15NlY2UU5Od1pycjFCb0dyVVhqWGhQZlhfNk1QS2F4c2NWeXJOcXR4RnQ4V3JsRVpUdw?oc=5",
         "published": "Tue, 10 Nov 2026 15:10:35 GMT",
@@ -2874,18 +2818,6 @@
         "symbols": []
       },
       {
-        "title": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة - عكاظ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04WVJNMXBQWWNmcDhhaXNTWjBBS3dsb0xWbUYxRHZQanBWbU04b2pibk0yUm80ZUtHQlZQWHMwMEtxYWdXWkRucmNuV1hYa3l2VEgyNdIBVEFVX3lxTE1NQ3d3VTZlU1BBdnZyNDd6a1pHNE5CVm9scUtMa2NJcERvdGoxY3hNOWJ0TlV6LTJsN0NDaDgxMjVxazZhRk5NV2tUQmplR2pzOXk0Rg?oc=5",
-        "published": "Tue, 10 Nov 2026 10:01:00 GMT",
-        "summary": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة&nbsp;&nbsp;عكاظ",
-        "source": "عكاظ",
-        "t": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة - عكاظ",
-        "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04WVJNMXBQWWNmcDhhaXNTWjBBS3dsb0xWbUYxRHZQanBWbU04b2pibk0yUm80ZUtHQlZQWHMwMEtxYWdXWkRucmNuV1hYa3l2VEgyNdIBVEFVX3lxTE1NQ3d3VTZlU1BBdnZyNDd6a1pHNE5CVm9scUtMa2NJcERvdGoxY3hNOWJ0TlV6LTJsN0NDaDgxMjVxazZhRk5NV2tUQmplR2pzOXk0Rg?oc=5",
-        "s": "عكاظ",
-        "d": "Tue, 10 Nov 2026 10:01:00 GMT",
-        "symbols": []
-      },
-      {
         "title": "3 أسهم بالسوق السعودي تسجل أعلى مستوياتها خلال 52 أسبوعاً - معلومات مباشر",
         "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPTHpIS0NqZWpVLThsWjlKMVVoZ1ZzTzVNb29HdXVHMXpjcG5oUFZmX2FZNXFObVBrT1Z0MDkyLW9JUmQxajE2X2xOb3IwaHpxa3NRb1FwaXJqM18xVVg5ZzFVM3pEbU9mMGMyZVpuUXZHWWtkb1JhWFZPajBPTkZxNjE1UjVGU1VZZGpwOU9KY2s4OS1sT0lRSHVkOXFQRXZ5bmhSRFpPcUVpNXF5V0VSWDU3UFdqQXc2LXlOSDdnYTdhUUVhNkJPNTVrRGhndElsZmluSEVXVnBBdFllN0JfTXR4WmI3QVVXVWNueFpuTzZTZ0JTd3puLUM2T01XVGRtYl9OWGgwOS15cGxBdXNPRzN4cGhGLXlyNmNRdmQ2aHpMVWU1Vkl3YjBQaXZ1WEFhdENvdHd2NFNpWnh4ZFFMRUo3cXRHNVlHSTladHFZM2JSZTYwbm0ybDRCaGlSMDdFRlRLaWNfcDdJN1dJTHdrMWR2dVRxaGF3UWdQUDFkRTZqeDJCbm9EazZPa004bzRZSGhiNWhqUUltNXhnaEVHbzlUYUVKYTNkLXcyUnhzWGNsX1lUXzZhWGxPSk5SaVRWVmdv?oc=5",
         "published": "Sun, 08 Nov 2026 10:48:27 GMT",
@@ -2895,6 +2827,18 @@
         "u": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPTHpIS0NqZWpVLThsWjlKMVVoZ1ZzTzVNb29HdXVHMXpjcG5oUFZmX2FZNXFObVBrT1Z0MDkyLW9JUmQxajE2X2xOb3IwaHpxa3NRb1FwaXJqM18xVVg5ZzFVM3pEbU9mMGMyZVpuUXZHWWtkb1JhWFZPajBPTkZxNjE1UjVGU1VZZGpwOU9KY2s4OS1sT0lRSHVkOXFQRXZ5bmhSRFpPcUVpNXF5V0VSWDU3UFdqQXc2LXlOSDdnYTdhUUVhNkJPNTVrRGhndElsZmluSEVXVnBBdFllN0JfTXR4WmI3QVVXVWNueFpuTzZTZ0JTd3puLUM2T01XVGRtYl9OWGgwOS15cGxBdXNPRzN4cGhGLXlyNmNRdmQ2aHpMVWU1Vkl3YjBQaXZ1WEFhdENvdHd2NFNpWnh4ZFFMRUo3cXRHNVlHSTladHFZM2JSZTYwbm0ybDRCaGlSMDdFRlRLaWNfcDdJN1dJTHdrMWR2dVRxaGF3UWdQUDFkRTZqeDJCbm9EazZPa004bzRZSGhiNWhqUUltNXhnaEVHbzlUYUVKYTNkLXcyUnhzWGNsX1lUXzZhWGxPSk5SaVRWVmdv?oc=5",
         "s": "معلومات مباشر",
         "d": "Sun, 08 Nov 2026 10:48:27 GMT",
+        "symbols": []
+      },
+      {
+        "title": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة - عكاظ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04WVJNMXBQWWNmcDhhaXNTWjBBS3dsb0xWbUYxRHZQanBWbU04b2pibk0yUm80ZUtHQlZQWHMwMEtxYWdXWkRucmNuV1hYa3l2VEgyNdIBVEFVX3lxTE1NQ3d3VTZlU1BBdnZyNDd6a1pHNE5CVm9scUtMa2NJcERvdGoxY3hNOWJ0TlV6LTJsN0NDaDgxMjVxazZhRk5NV2tUQmplR2pzOXk0Rg?oc=5",
+        "published": "Tue, 10 Nov 2026 10:01:00 GMT",
+        "summary": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة&nbsp;&nbsp;عكاظ",
+        "source": "عكاظ",
+        "t": "1 % صعود لأسهم السعودية.. المؤشر يقترب من 10,200 نقطة - عكاظ",
+        "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04WVJNMXBQWWNmcDhhaXNTWjBBS3dsb0xWbUYxRHZQanBWbU04b2pibk0yUm80ZUtHQlZQWHMwMEtxYWdXWkRucmNuV1hYa3l2VEgyNdIBVEFVX3lxTE1NQ3d3VTZlU1BBdnZyNDd6a1pHNE5CVm9scUtMa2NJcERvdGoxY3hNOWJ0TlV6LTJsN0NDaDgxMjVxazZhRk5NV2tUQmplR2pzOXk0Rg?oc=5",
+        "s": "عكاظ",
+        "d": "Tue, 10 Nov 2026 10:01:00 GMT",
         "symbols": []
       },
       {
@@ -3027,6 +2971,30 @@
         "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YcVZac3loYkVUYVNvYzZDZ1BfbFlSdWZFNnQ0U2JPM2pObVlSUmpMMHpzWFdpcEx5VGtqUlU1U2p0aHhRamRSZ2VxUDVzTUVXT3ItUdIBVEFVX3lxTE9SR3JrT2tESkY0U1NTVndBTHQwZEl5WVVRRFhPb1VZS05UZlp6NWVheDFadnhkbEItRXJ0VmM0TFpOcHBpR1ltQnpIaS1oTUUwMEY1aQ?oc=5",
         "s": "عكاظ",
         "d": "Mon, 09 Nov 2026 12:49:00 GMT",
+        "symbols": []
+      },
+      {
+        "title": "السوق السعودي: أسهم 74 شركة شهدت تداولات أعلى من متوسط 3 أشهر - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rNzR0aDZaUWtya0RvZUZhTEQxcE02VHlmMjE2YlR2c2N1ZUpCQVRMMkJ5QlJYbjljVVBlSmJCSE9LNXQxSXR6Y3dtOXdVMWZNeExpOWVzYm4zdGFFamxQR0dQa2t5UVVpRXc?oc=5",
+        "published": "Mon, 02 Nov 2026 13:09:55 GMT",
+        "summary": "السوق السعودي: أسهم 74 شركة شهدت تداولات أعلى من متوسط 3 أشهر&nbsp;&nbsp;ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+        "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+        "t": "السوق السعودي: أسهم 74 شركة شهدت تداولات أعلى من متوسط 3 أشهر - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+        "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rNzR0aDZaUWtya0RvZUZhTEQxcE02VHlmMjE2YlR2c2N1ZUpCQVRMMkJ5QlJYbjljVVBlSmJCSE9LNXQxSXR6Y3dtOXdVMWZNeExpOWVzYm4zdGFFamxQR0dQa2t5UVVpRXc?oc=5",
+        "s": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+        "d": "Mon, 02 Nov 2026 13:09:55 GMT",
+        "symbols": []
+      },
+      {
+        "title": "أبرز الأسهم الرابحة والخاسرة في السوق السعودية - CNN الاقتصادية",
+        "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxNTFRzQ0Fjcmp0SkZsVVRxYms3cVNNWGNxcTdGdGJDUlE0SkJRSVhrN0ZoeURJYVVhNTJ1aVFmR1BMUEpXM2psbWtIQVBfZ0xyU0FnRmVQZDh3eFRhNXdjY2tRd3JCb1BpeTZGcElkazZVNHItUVh3MWxaY2UzUjFzLWdLck9UTkJmQ2JsQk1rOUNXNG9iMEdjcEltTTRmNThTSGFOaWRSc2ZHOFktWGFNRTJXT2cyUk9mNUFkdEFiWDlqYkx3VENZZk9vZUxyVzA3aS0xeGlQY3BLRmJ5aWlCblBzc2lzM2Q1YW9xZkhKRjVZdlFYUHgxcTVJQ2lKdjBNT2cwWDN4WVZNUjRVRURoOE9wR0duTHQtejNyREpCNnoydGtQaXg2a2ZFdklyUHZDT1VfdWxaQ1FKLVF2QXI4clJRdkJNNTN6QUJZS3FWVng5RVNlalczY3JsT2l2QUh5eUlmc0p0cEk4cW4yOWhiS0ktd3NFcVkzOGh5RlhkOXR3Qy1tY05IQ2ZCb3dwaFloRkpib1N3ZjlWTWJIQkVIVzE5R3JmS0k2Vl8tbA?oc=5",
+        "published": "Mon, 09 Nov 2026 14:00:44 GMT",
+        "summary": "أبرز الأسهم الرابحة والخاسرة في السوق السعودية&nbsp;&nbsp;CNN الاقتصادية",
+        "source": "CNN الاقتصادية",
+        "t": "أبرز الأسهم الرابحة والخاسرة في السوق السعودية - CNN الاقتصادية",
+        "u": "https://news.google.com/rss/articles/CBMirANBVV95cUxNTFRzQ0Fjcmp0SkZsVVRxYms3cVNNWGNxcTdGdGJDUlE0SkJRSVhrN0ZoeURJYVVhNTJ1aVFmR1BMUEpXM2psbWtIQVBfZ0xyU0FnRmVQZDh3eFRhNXdjY2tRd3JCb1BpeTZGcElkazZVNHItUVh3MWxaY2UzUjFzLWdLck9UTkJmQ2JsQk1rOUNXNG9iMEdjcEltTTRmNThTSGFOaWRSc2ZHOFktWGFNRTJXT2cyUk9mNUFkdEFiWDlqYkx3VENZZk9vZUxyVzA3aS0xeGlQY3BLRmJ5aWlCblBzc2lzM2Q1YW9xZkhKRjVZdlFYUHgxcTVJQ2lKdjBNT2cwWDN4WVZNUjRVRURoOE9wR0duTHQtejNyREpCNnoydGtQaXg2a2ZFdklyUHZDT1VfdWxaQ1FKLVF2QXI4clJRdkJNNTN6QUJZS3FWVng5RVNlalczY3JsT2l2QUh5eUlmc0p0cEk4cW4yOWhiS0ktd3NFcVkzOGh5RlhkOXR3Qy1tY05IQ2ZCb3dwaFloRkpib1N3ZjlWTWJIQkVIVzE5R3JmS0k2Vl8tbA?oc=5",
+        "s": "CNN الاقتصادية",
+        "d": "Mon, 09 Nov 2026 14:00:44 GMT",
         "symbols": []
       }
     ]
