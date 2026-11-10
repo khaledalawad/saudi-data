@@ -24,6 +24,7 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - run: python saudi_market_update.py
+      - run: python saudi_news_update.py
       - name: Commit data
         run: |
           git config user.name "github-actions"
