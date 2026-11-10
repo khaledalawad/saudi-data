@@ -10,6 +10,7 @@
 """
 import json
 import os
+import re
 import sys
 import time
 import datetime as dt
@@ -78,6 +79,17 @@ def frame(data, ysym):
         return None
 
 
+def load_names_file():
+    """يقرأ ملف الأسماء العربية الاختياري names_ar.json (الرمز -> الاسم). يقبل 2222 أو 2222.SR."""
+    try:
+        with open("names_ar.json", encoding="utf-8") as f:
+            raw = json.load(f)
+        out = {str(k).replace(".SR", "").strip(): str(v).strip() for k, v in raw.items() if v}
+        return {k: v for k, v in out.items() if re.fullmatch(r"\d{4}", k) or k == "TASI"}
+    except Exception:
+        return {}
+
+
 def load_cache():
     try:
         with open(CACHE, encoding="utf-8") as f:
@@ -98,7 +110,11 @@ def discover(cache):
     if fresh:
         return cache
     print("اكتشاف الشركات…")
-    cands = [str(c) for a, b in RANGES for c in range(a, b + 1)]
+    listed = sorted(c for c in load_names_file() if re.fullmatch(r"\d{4}", c))
+    if len(listed) >= 50:          # ملف الأسماء هو قائمة الشركات المعتمدة
+        cands = listed
+    else:                          # بدون ملف أسماء: فحص النطاقات المعروفة
+        cands = [str(c) for a, b in RANGES for c in range(a, b + 1)]
     found = set(FEATURED)
     for batch in chunks(cands, 60):
         data = download([c + ".SR" for c in batch], "5d")
@@ -115,7 +131,7 @@ def discover(cache):
 
 def fill_names(cache):
     names = cache.setdefault("names", {})
-    todo = [c for c in cache["codes"] if c not in FEATURED and c not in names][:NAME_LOOKUPS_PER_RUN]
+    todo = [c for c in cache["codes"] if c not in FEATURED and c not in names and c not in load_names_file()][:NAME_LOOKUPS_PER_RUN]
     for c in todo:
         try:
             info = yf.Ticker(c + ".SR").info or {}
@@ -161,6 +177,7 @@ def main():
     fill_names(cache)
     names = dict(cache.get("names", {}))
     names.update(FEATURED)
+    names.update(load_names_file())   # الأسماء العربية من ملفك لها الأولوية
     names[INDEX[0]] = INDEX[2]
     prices, history = {}, {}
     feat = [INDEX[0]] + list(FEATURED)
