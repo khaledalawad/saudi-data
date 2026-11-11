@@ -12,21 +12,25 @@ import re
 import urllib.request
 import xml.etree.ElementTree as ET
 
-OUT_DIR = "data"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+OUT_DIR = os.path.join(BASE_DIR, "data")
 NEWS_FILE = os.path.join(OUT_DIR, "saudi_news.json")
-NAMES_FILE = "names_ar.json"
+NAMES_FILE = os.path.join(BASE_DIR, "names_ar.json")
 
 FEEDS = [
     {
         "source": "أرقام - أخبار السوق",
+        "category": "news",
         "url": "https://www.argaam.com/ar/rss/marketnews.rss",
     },
     {
         "source": "أرقام - إفصاحات الشركات",
+        "category": "disclosure",
         "url": "https://www.argaam.com/ar/rss/disclosure.rss",
     },
     {
         "source": "تداول وتاسي",
+        "category": "market",
         "url": (
             "https://news.google.com/rss/search?q=(تاسي+OR+تداول+OR+\"السوق+السعودي\")+when:3d&hl=ar&gl=SA&ceid=SA:ar"
         ),
@@ -36,7 +40,7 @@ FEEDS = [
 
 def load_companies():
   try:
-    with open(NAMES_FILE, "r", encoding="utf-8") as f:
+    with open(NAMES_FILE, "r", encoding="utf-8-sig") as f:
       raw = json.load(f)
     companies = {}
     for code, name in raw.items():
@@ -63,7 +67,10 @@ def parse_date(date_str):
   except Exception:
     pass
   try:
-    return dt.datetime.fromisoformat(date_str).timestamp()
+    parsed = dt.datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+    if parsed.tzinfo is None:
+      parsed = parsed.replace(tzinfo=dt.timezone(dt.timedelta(hours=3)))
+    return parsed.timestamp()
   except Exception:
     return 0
 
@@ -95,6 +102,7 @@ def fetch_feed(feed_info):
               "published": pub_date,
               "summary": desc[:220] + ("..." if len(desc) > 220 else ""),
               "source": source_name,
+              "category": feed_info.get("category", "news"),
               "t": title,
               "u": link,
               "s": source_name,
@@ -130,10 +138,10 @@ def main():
     try:
       with open(NEWS_FILE, "r", encoding="utf-8") as f:
         old_data = json.load(f)
-        existing_by_symbol = old_data.get(
-            "by_symbol", old_data.get("news", {})
-        )
-        existing_general = old_data.get("general", [])
+        old_by_symbol = old_data.get("by_symbol", old_data.get("news", {}))
+        existing_by_symbol = old_by_symbol if isinstance(old_by_symbol, dict) else {}
+        old_general = old_data.get("general", [])
+        existing_general = old_general if isinstance(old_general, list) else []
     except Exception as e:
       print("تنبيه: لا يوجد أرشيف سابق أو تعذر قراءته:", e)
 
@@ -142,7 +150,7 @@ def main():
   seen = set()
   for feed in FEEDS:
     for item in fetch_feed(feed):
-      key = item["title"][:50]
+      key = re.sub(r"\s+", " ", item["title"]).strip().casefold()
       if key not in seen:
         seen.add(key)
         fresh_articles.append(item)
@@ -167,7 +175,10 @@ def main():
     seen_titles = set()
     combined = []
     # نبدأ بالأخبار الجديدة أولاً
-    for art in new_by_symbol.get(sym, []) + existing_by_symbol.get(sym, []):
+    old_items = existing_by_symbol.get(sym, [])
+    if not isinstance(old_items, list):
+      old_items = []
+    for art in new_by_symbol.get(sym, []) + old_items:
       t = art.get("title") or art.get("t")
       if t and t not in seen_titles:
         seen_titles.add(t)
