@@ -21,9 +21,9 @@ NAMES_FILE = os.path.join(BASE_DIR, "names_ar.json")
 
 FEEDS = [
     {
-        "source": "أرقام - أخبار السوق",
-        "category": "news",
-        "url": "https://www.argaam.com/ar/rss/marketnews.rss",
+        "source": "أرقام - نبض السوق",
+        "category": "market",
+        "url": "https://www.argaam.com/ar/rss/ho-market-pulse?sectionid=70",
     },
     {
         "source": "الاقتصادية - أخبار الأسواق والشركات السعودية",
@@ -114,7 +114,11 @@ def is_excluded_article(article):
   link = str(article.get("link") or article.get("url") or article.get("u") or "")
   if "مباشر" in source or "mubasher.info" in link.lower():
     return True
-  if "الاقتصادية" not in source and "aleqt.com" not in link.lower():
+  political_source = (
+      "الاقتصادية" in source or "aleqt.com" in link.lower()
+      or source in ("أرقام - نبض السوق", "أرقام - أخبار السوق")
+  )
+  if not political_source:
     return False
   text = " ".join(str(article.get(key) or "") for key in ("title", "t", "summary", "desc"))
   text = re.sub(r"[\u064b-\u065f\u0670\u0640]", "", text)
