@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-"""يجلب أحدث أخبار السوق السعودي ويربط كل خبر بالشركات المعنية
-لتسهيل عرض الأخبار فور اختيار أي سهم أو عرض أخبار السوق كاملة.
+"""يجلب أحدث أخبار السوق السعودي اللحظية وإفصاحات الشركات
 الملف الناتج: data/saudi_news.json
 """
 
@@ -10,25 +9,29 @@ import re
 import urllib.request
 import xml.etree.ElementTree as ET
 import datetime as dt
+from email.utils import parsedate_to_datetime
 
 OUT_DIR = "data"
 NEWS_FILE = os.path.join(OUT_DIR, "saudi_news.json")
 NAMES_FILE = "names_ar.json"
 
-# مصادر الأخبار الاقتصادية وتداول
+# خلاصات إخبارية لحظية مخصصة لتداول والأسهم السعودية اليومية
 FEEDS = [
     {
-        "source": "تاسي وتداول",
-        "url": "https://news.google.com/rss/search?q=%D8%A3%D8%B3%D9%87%D9%85+%D8%AA%D8%A7%D8%B3%D9%8A+OR+%D8%AA%D8%AF%D8%A7%D9%88%D9%84+OR+%D8%A7%D9%84%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A&hl=ar&gl=SA&ceid=SA:ar"
+        "source": "أرقام - أخبار السوق",
+        "url": "https://www.argaam.com/ar/rss/marketnews.rss"
     },
     {
-        "source": "أرقام",
-        "url": "https://www.argaam.com/ar/rss/articles.rss"
+        "source": "أرقام - إفصاحات وإعلانات الشركات",
+        "url": "https://www.argaam.com/ar/rss/disclosure.rss"
+    },
+    {
+        "source": "أخبار تداول اللحظية",
+        "url": "https://news.google.com/rss/search?q=(تاسي+OR+تداول+OR+\"السوق+السعودي\")+when:1d&hl=ar&gl=SA&ceid=SA:ar"
     }
 ]
 
 def load_companies():
-    """تحميل قائمة الشركات وأسمائها ورموزها من names_ar.json"""
     try:
         with open(NAMES_FILE, "r", encoding="utf-8") as f:
             raw = json.load(f)
@@ -47,6 +50,18 @@ def clean_html(text):
     cleaner = re.compile(r"<.*?>")
     clean_text = re.sub(cleaner, "", text)
     return " ".join(clean_text.split())
+
+def parse_date(date_str):
+    if not date_str:
+        return 0
+    try:
+        return parsedate_to_datetime(date_str).timestamp()
+    except Exception:
+        pass
+    try:
+        return dt.datetime.fromisoformat(date_str).timestamp()
+    except Exception:
+        return 0
 
 def fetch_feed(feed_info):
     articles = []
@@ -71,24 +86,22 @@ def fetch_feed(feed_info):
                         "published": pub_date,
                         "summary": desc[:220] + ("..." if len(desc) > 220 else ""),
                         "source": source_name,
-                        # مفاتيح مختصرة لضمان توافق تام مع المحرر
                         "t": title,
                         "u": link,
                         "s": source_name,
-                        "d": pub_date
+                        "d": pub_date,
+                        "ts": parse_date(pub_date)
                     })
     except Exception as e:
         print(f"تعذر قراءة خلاصة {feed_info['source']}:", e)
     return articles
 
 def match_symbols(article, companies):
-    """مطابقة نص الخبر مع أسماء ورموز الشركات"""
     text = f"{article['title']} {article['summary']}"
     matched = []
     for code, name in companies.items():
         if code == "TASI":
             continue
-        # مطابقة رقم الرمز ككلمة مستقلة، أو اسم الشركة
         if re.search(r"\b" + re.escape(code) + r"\b", text) or (len(name) >= 3 and name in text):
             matched.append(code)
     return matched
@@ -101,10 +114,13 @@ def main():
     seen = set()
     for feed in FEEDS:
         for item in fetch_feed(feed):
-            key = item["title"][:45]
+            key = item["title"][:50]
             if key not in seen:
                 seen.add(key)
                 all_raw.append(item)
+
+    # فرز جميع الأخبار تنازلياً من الأحدث إلى الأقدم
+    all_raw.sort(key=lambda x: x.get("ts", 0), reverse=True)
 
     by_symbol = {}
     general_news = []
@@ -118,22 +134,24 @@ def main():
         else:
             general_news.append(item)
 
+    # فرز أخبار كل سهم لضمان أحدث الأخبار في الصدارة
+    for s in by_symbol:
+        by_symbol[s].sort(key=lambda x: x.get("ts", 0), reverse=True)
+
     now = dt.datetime.now(dt.timezone(dt.timedelta(hours=3))).isoformat(timespec="seconds")
     
-    # هيكل JSON متوافق مع كافة الأدوات
     output_data = {
         "updated": now,
         "count": len(all_raw),
         "by_symbol": by_symbol,
         "general": general_news[:30],
-        # توفير قاموس news ليتوافق مباشرة مع أداة التحليل الذكي
         "news": {**by_symbol, "TASI": general_news[:30], "general": general_news[:30]}
     }
 
     with open(NEWS_FILE, "w", encoding="utf-8") as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
 
-    print(f"تم بنجاح تصنيف الأخبار لـ {len(by_symbol)} شركة وحفظ الملف في {NEWS_FILE} — {now}")
+    print(f"تم بنجاح تحديث وفرز الأخبار وحفظ الملف في {NEWS_FILE} — {now}")
 
 if __name__ == "__main__":
     main()
