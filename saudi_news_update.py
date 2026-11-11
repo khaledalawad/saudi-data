@@ -83,6 +83,30 @@ def parse_date(date_str):
     return 0
 
 
+POLITICAL_CONFLICT_TERMS = (
+  "حرب", "الحرب", "حروب", "عسكري", "عسكرية", "الجيش", "القوات المسلحة",
+  "هجوم", "هجمات", "قصف", "صاروخ", "صواريخ", "غارة", "غارات",
+  "غزة", "فلسطين", "إسرائيل", "اسرائيل", "إيران", "ايران", "لبنان",
+  "اليمن", "سوريا", "السودان", "أوكرانيا", "اوكرانيا", "روسيا",
+  "جيوسياسي", "جيوسياسية", "اشتباك", "اشتباكات", "نزاع", "صراع",
+  "انتخابات", "الانتخابات", "سياسي", "سياسيون", "البرلمان", "الكونغرس",
+  "رئيس الوزراء", "البيت الأبيض", "البيت الابيض", "ترامب", "بايدن",
+  "نتنياهو", "بوتين", "زيلينسكي",
+)
+
+
+def is_excluded_mubasher_article(article):
+  source = str(article.get("source") or article.get("s") or "")
+  link = str(article.get("link") or article.get("url") or article.get("u") or "")
+  if "مباشر" not in source and "mubasher.info" not in link.lower():
+    return False
+  text = " ".join(str(article.get(key) or "") for key in ("title", "t", "summary", "desc"))
+  text = re.sub(r"[\u064b-\u065f\u0670\u0640]", "", text)
+  text = text.replace("أ", "ا").replace("إ", "ا").replace("آ", "ا")
+  terms = (term.replace("أ", "ا").replace("إ", "ا").replace("آ", "ا") for term in POLITICAL_CONFLICT_TERMS)
+  return any(term in text for term in terms)
+
+
 def fetch_feed(feed_info):
   articles = []
   headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
@@ -123,79 +147,56 @@ def fetch_feed(feed_info):
 
 
 class DisclosurePageParser(HTMLParser):
-  """Extract disclosure cards from Argaam's public disclosures page."""
+  """Extract disclosure links from Argaam's rendered disclosures page."""
 
   def __init__(self, page_url, source_name):
     super().__init__(convert_charrefs=True)
     self.page_url = page_url
     self.source_name = source_name
-    self.depth = 0
-    self.record = None
-    self.in_date = False
-    self.in_title = False
+    self.current_date = ""
+    self.anchor = None
     self.articles = []
 
   def handle_starttag(self, tag, attrs):
     attrs = dict(attrs)
-    classes = set((attrs.get("class") or "").split())
-    if self.record is None:
-      if tag == "div" and "article-tbl" in classes:
-        self.record = {"title_parts": [], "date_parts": [], "link": ""}
-        self.depth = 1
-      return
-
-    if tag == "div":
-      self.depth += 1
-      if "date" in classes:
-        self.in_date = True
-    elif tag == "a" and not self.record["link"] and attrs.get("href"):
+    if tag == "a" and attrs.get("href"):
       link = urljoin(self.page_url, attrs["href"])
       if "/article/articledetail/" in link or "/reports/company-dividend/" in link:
-        self.record["link"] = link
-        self.in_title = True
+        self.anchor = {"title_parts": [], "link": link, "published": self.current_date}
 
   def handle_endtag(self, tag):
-    if self.record is None:
-      return
-    if tag == "a" and self.in_title:
-      self.in_title = False
-    elif tag == "div":
-      if self.in_date:
-        self.in_date = False
-      self.depth -= 1
-      if self.depth <= 0:
-        title = " ".join(" ".join(self.record["title_parts"]).split())
-        date_text = " ".join(" ".join(self.record["date_parts"]).split())
-        if title and self.record["link"]:
-          try:
-            published = dt.datetime.strptime(date_text, "%Y/%m/%d").replace(
-                tzinfo=dt.timezone(dt.timedelta(hours=3))
-            ).isoformat(timespec="seconds")
-          except ValueError:
-            published = date_text
-          self.articles.append({
-              "title": title,
-              "link": self.record["link"],
-              "published": published,
-              "summary": "",
-              "source": self.source_name,
-              "category": "disclosure",
-              "t": title,
-              "u": self.record["link"],
-              "s": self.source_name,
-              "d": published,
-              "ts": parse_date(published),
-          })
-        self.record = None
-        self.depth = 0
+    if tag == "a" and self.anchor:
+      title = " ".join(" ".join(self.anchor["title_parts"]).split())
+      date_text = self.anchor["published"]
+      try:
+        published = dt.datetime.strptime(date_text, "%Y/%m/%d").replace(
+            tzinfo=dt.timezone(dt.timedelta(hours=3))
+        ).isoformat(timespec="seconds")
+      except ValueError:
+        published = date_text
+      if title:
+        self.articles.append({
+            "title": title,
+            "link": self.anchor["link"],
+            "published": published,
+            "summary": "",
+            "source": self.source_name,
+            "category": "disclosure",
+            "t": title,
+            "u": self.anchor["link"],
+            "s": self.source_name,
+            "d": published,
+            "ts": parse_date(published),
+        })
+      self.anchor = None
 
   def handle_data(self, data):
-    if self.record is None:
+    if self.anchor:
+      self.anchor["title_parts"].append(data)
       return
-    if self.in_date:
-      self.record["date_parts"].append(data)
-    if self.in_title:
-      self.record["title_parts"].append(data)
+    found = re.search(r"\b(\d{4}/\d{2}/\d{2})\b", data)
+    if found:
+      self.current_date = found.group(1)
 
 
 def fetch_disclosures(feed_info):
@@ -242,6 +243,12 @@ def main():
         existing_by_symbol = old_by_symbol if isinstance(old_by_symbol, dict) else {}
         old_general = old_data.get("general", [])
         existing_general = old_general if isinstance(old_general, list) else []
+        existing_by_symbol = {
+            sym: [article for article in articles if not is_excluded_mubasher_article(article)]
+            for sym, articles in existing_by_symbol.items()
+            if isinstance(articles, list)
+        }
+        existing_general = [article for article in existing_general if not is_excluded_mubasher_article(article)]
     except Exception as e:
       print("تنبيه: لا يوجد أرشيف سابق أو تعذر قراءته:", e)
 
@@ -251,6 +258,8 @@ def main():
   for feed in FEEDS:
     items = fetch_disclosures(feed) if feed.get("format") == "html" else fetch_feed(feed)
     for item in items:
+      if is_excluded_mubasher_article(item):
+        continue
       key = re.sub(r"\s+", " ", item["title"]).strip().casefold()
       if key not in seen:
         seen.add(key)
@@ -290,7 +299,7 @@ def main():
         combined.append(art)
     # ترتيب من الأحدث إلى الأقدم
     combined.sort(key=lambda x: x.get("ts", 0), reverse=True)
-    merged_by_symbol[sym] = combined[:15]  # الاحتفاظ بآخر 15 خبراً لكل شركة
+    merged_by_symbol[sym] = combined[:60]  # الاحتفاظ بآخر 60 خبراً لكل شركة
 
   # 5. دمج الأخبار العامة
   merged_general = []
