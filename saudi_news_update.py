@@ -11,7 +11,7 @@ import os
 import re
 import urllib.request
 from html.parser import HTMLParser
-from urllib.parse import urljoin
+from urllib.parse import unquote, urljoin, urlparse
 import xml.etree.ElementTree as ET
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -26,9 +26,10 @@ FEEDS = [
         "url": "https://www.argaam.com/ar/rss/marketnews.rss",
     },
     {
-        "source": "مباشر - أخبار السوق السعودي",
-        "category": "news",
-        "url": "https://feeds.mubasher.info/ar/TDWL/news",
+        "source": "الاقتصادية - أخبار الأسواق والشركات السعودية",
+        "category": "market",
+        "format": "market_html",
+        "url": "https://www.aleqt.com/",
     },
     {
         "source": "أرقام - إفصاحات الشركات",
@@ -74,6 +75,19 @@ def parse_date(date_str):
     return parsedate_to_datetime(date_str).timestamp()
   except Exception:
     pass
+  months = {
+      "يناير": 1, "فبراير": 2, "مارس": 3, "أبريل": 4, "ابريل": 4,
+      "مايو": 5, "يونيو": 6, "يوليو": 7, "أغسطس": 8, "اغسطس": 8,
+      "سبتمبر": 9, "أكتوبر": 10, "اكتوبر": 10, "نوفمبر": 11, "ديسمبر": 12,
+  }
+  match = re.search(r"(\d{1,2})\s+([ء-ي]+)\s+(\d{4})", date_str)
+  if match and match.group(2) in months:
+    try:
+      parsed = dt.datetime(int(match.group(3)), months[match.group(2)], int(match.group(1)), 12,
+                           tzinfo=dt.timezone(dt.timedelta(hours=3)))
+      return parsed.timestamp()
+    except ValueError:
+      pass
   try:
     parsed = dt.datetime.fromisoformat(date_str.replace("Z", "+00:00"))
     if parsed.tzinfo is None:
@@ -95,10 +109,12 @@ POLITICAL_CONFLICT_TERMS = (
 )
 
 
-def is_excluded_mubasher_article(article):
+def is_excluded_article(article):
   source = str(article.get("source") or article.get("s") or "")
   link = str(article.get("link") or article.get("url") or article.get("u") or "")
-  if "مباشر" not in source and "mubasher.info" not in link.lower():
+  if "مباشر" in source or "mubasher.info" in link.lower():
+    return True
+  if "الاقتصادية" not in source and "aleqt.com" not in link.lower():
     return False
   text = " ".join(str(article.get(key) or "") for key in ("title", "t", "summary", "desc"))
   text = re.sub(r"[\u064b-\u065f\u0670\u0640]", "", text)
@@ -199,6 +215,69 @@ class DisclosurePageParser(HTMLParser):
       self.current_date = found.group(1)
 
 
+class AleqtMarketParser(HTMLParser):
+  """Collect company and stock-market articles from Aleqt's front page."""
+
+  def __init__(self, page_url, source_name):
+    super().__init__(convert_charrefs=True)
+    self.page_url = page_url
+    self.source_name = source_name
+    self.current_date = ""
+    self.anchor = None
+    self.articles = []
+
+  def handle_starttag(self, tag, attrs):
+    attrs = dict(attrs)
+    if tag == "a" and attrs.get("href"):
+      link = urljoin(self.page_url, attrs["href"])
+      path = unquote(urlparse(link).path)
+      if re.match(r"^/(?:الشركات|الأسواق)/.+-\d+$", path):
+        self.anchor = {"title_parts": [], "link": link, "published": self.current_date}
+
+  def handle_endtag(self, tag):
+    if tag == "a" and self.anchor:
+      title = " ".join(" ".join(self.anchor["title_parts"]).split())
+      if title:
+        published = self.anchor["published"]
+        self.articles.append({
+            "title": title,
+            "link": self.anchor["link"],
+            "published": published,
+            "summary": "",
+            "source": self.source_name,
+            "category": "market",
+            "t": title,
+            "u": self.anchor["link"],
+            "s": self.source_name,
+            "d": published,
+            "ts": parse_date(published),
+        })
+      self.anchor = None
+
+  def handle_data(self, data):
+    if self.anchor:
+      self.anchor["title_parts"].append(data)
+      return
+    if re.search(r"\d{1,2}\s+[ء-ي]+\s+\d{4}", data):
+      self.current_date = data.strip()
+
+
+def fetch_aleqt_market(feed_info):
+  headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+  try:
+    req = urllib.request.Request(feed_info["url"], headers=headers)
+    with urllib.request.urlopen(req, timeout=15) as res:
+      charset = res.headers.get_content_charset() or "utf-8"
+      page = res.read().decode(charset, errors="replace")
+    parser = AleqtMarketParser(feed_info["url"], feed_info["source"])
+    parser.feed(page)
+    parser.close()
+    return parser.articles
+  except Exception as e:
+    print("تعذر قراءة أخبار الأسواق والشركات من الاقتصادية:", e)
+    return []
+
+
 def fetch_disclosures(feed_info):
   headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
   try:
@@ -244,11 +323,11 @@ def main():
         old_general = old_data.get("general", [])
         existing_general = old_general if isinstance(old_general, list) else []
         existing_by_symbol = {
-            sym: [article for article in articles if not is_excluded_mubasher_article(article)]
+            sym: [article for article in articles if not is_excluded_article(article)]
             for sym, articles in existing_by_symbol.items()
             if isinstance(articles, list)
         }
-        existing_general = [article for article in existing_general if not is_excluded_mubasher_article(article)]
+        existing_general = [article for article in existing_general if not is_excluded_article(article)]
     except Exception as e:
       print("تنبيه: لا يوجد أرشيف سابق أو تعذر قراءته:", e)
 
@@ -256,9 +335,14 @@ def main():
   fresh_articles = []
   seen = set()
   for feed in FEEDS:
-    items = fetch_disclosures(feed) if feed.get("format") == "html" else fetch_feed(feed)
+    if feed.get("format") == "html":
+      items = fetch_disclosures(feed)
+    elif feed.get("format") == "market_html":
+      items = fetch_aleqt_market(feed)
+    else:
+      items = fetch_feed(feed)
     for item in items:
-      if is_excluded_mubasher_article(item):
+      if is_excluded_article(item):
         continue
       key = re.sub(r"\s+", " ", item["title"]).strip().casefold()
       if key not in seen:
