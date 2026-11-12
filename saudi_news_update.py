@@ -127,6 +127,18 @@ def is_excluded_article(article):
   return any(term in text for term in terms)
 
 
+def is_tasi_related(article):
+  """Keep general-market items only when they clearly concern Saudi equities/TASI."""
+  text = " ".join(str(article.get(key) or "") for key in ("title", "t", "summary", "desc"))
+  normalized = re.sub(r"[\u064b-\u065f\u0670\u0640]", "", text).casefold()
+  keywords = (
+      "تاسي", "tasi", "تداول السعودية", "السوق السعودي", "الأسهم السعودية",
+      "سوق الأسهم السعودية", "المؤشر العام", "مؤشر السوق", "السوق المالية السعودية",
+      "السوق الرئيسية", "نمو الموازي", "saudi exchange", "saudi stocks", "tadawul",
+  )
+  return any(keyword.casefold() in normalized for keyword in keywords)
+
+
 def fetch_feed(feed_info):
   articles = []
   headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
@@ -331,7 +343,7 @@ def main():
             for sym, articles in existing_by_symbol.items()
             if isinstance(articles, list)
         }
-        existing_general = [article for article in existing_general if not is_excluded_article(article)]
+        existing_general = [article for article in existing_general if not is_excluded_article(article) and is_tasi_related(article)]
     except Exception as e:
       print("تنبيه: لا يوجد أرشيف سابق أو تعذر قراءته:", e)
 
@@ -362,7 +374,7 @@ def main():
     if syms:
       for s in syms:
         new_by_symbol.setdefault(s, []).append(item)
-    else:
+    elif is_tasi_related(item):
       new_general.append(item)
 
   # 4. دمج الأخبار الجديدة مع السابقة لكل شركة والفرز تنازلياً
