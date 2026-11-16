@@ -39,13 +39,13 @@ def chunks(seq, n):
         yield seq[i:i + n]
 
 
-def download(tickers, period):
+def download(tickers, period, interval="1d"):
     for attempt in range(3):
         try:
             data = yf.download(
                 tickers,
                 period=period,
-                interval="1d",
+                interval=interval,
                 auto_adjust=False,
                 threads=True,
                 progress=False
@@ -104,6 +104,14 @@ def build_market_data(codes, period, names, prices, history):
     for batch in chunks(codes, BATCH):
         ys = [("^TASI.SR" if c == "TASI" else c + ".SR") for c in batch]
         data = download(ys, period)
+        # أثناء جلسة تداول السعودية، نحاول جلب شموع 5 دقائق للسعر الأحدث.
+        # إذا لم تتوفر بيانات لحظية من Yahoo، نستخدم آخر إغلاق يومي صالح.
+        ksa_now = dt.datetime.now(dt.timezone(dt.timedelta(hours=3)))
+        is_trading_session = (
+            ksa_now.isoweekday() in (7, 1, 2, 3, 4)
+            and dt.time(10, 0) <= ksa_now.time().replace(tzinfo=None) <= dt.time(15, 0)
+        )
+        live_data = download(ys, "1d", interval="5m") if is_trading_session else None
 
         for c, y in zip(batch, ys):
             df = extract_ticker_df(data, y)
@@ -120,16 +128,32 @@ def build_market_data(codes, period, names, prices, history):
                 continue
 
             try:
-                last = float(df["Close"].iloc[-1])
-                prev = float(df["Close"].iloc[-2]) if len(df) > 1 else last
-                chg = round((last - prev) / prev * 100, 2) if prev else 0.0
+                # آخر إغلاق يومي مرجع لحساب التغير؛ السعر قد يأتي من أحدث شمعة 5 دقائق.
+                daily_last = float(df["Close"].iloc[-1])
+                prev = float(df["Close"].iloc[-2]) if len(df) > 1 else daily_last
+                price = daily_last
+                as_of = str(df.index[-1].date())
+
+                live_df = extract_ticker_df(live_data, y)
+                if live_df is not None:
+                    live_ts = pd.Timestamp(live_df.index[-1])
+                    if live_ts.tzinfo is not None:
+                        live_day = live_ts.tz_convert("Asia/Riyadh").date()
+                    else:
+                        live_day = live_ts.date()
+                    if live_day == ksa_now.date():
+                        price = float(live_df["Close"].iloc[-1])
+                        as_of = live_ts.isoformat()
+
+                chg = round((price - prev) / prev * 100, 2) if prev else 0.0
                 name = names.get(c, c)
 
                 prices[c] = {
                     "symbol": c,
                     "name": name,
-                    "price": round(last, 2),
-                    "change": chg
+                    "price": round(price, 2),
+                    "change": chg,
+                    "as_of": as_of
                 }
 
                 history[c] = {
@@ -195,3 +219,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
